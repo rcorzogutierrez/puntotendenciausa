@@ -1,45 +1,276 @@
 ---
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
 ---
 
-<Layout
-	title="Nosotros — La Tendencia USA"
-	description="Conoce quiénes somos en La Tendencia USA: tu medio de tecnología, IA y tendencias digitales en español para la comunidad latina."
-	pubDate={new Date('March 01 2025')}
-	heroImage={AboutHeroImage}
->
-	<p>
-		<strong>La Tendencia USA</strong> nació con una misión clara: acercar el mundo de la tecnología y
-		la inteligencia artificial a la comunidad latina en español. Creemos que el idioma no debe ser una
-		barrera para acceder a las ideas que están transformando el mundo.
-	</p>
+<!doctype html>
+<html lang="es">
+	<head>
+		<BaseHead
+			title="Nosotros — La Tendencia USA"
+			description="Conoce quiénes somos en La Tendencia USA: tu medio de tecnología, IA y tendencias digitales en español para la comunidad latina."
+		/>
+		<style>
+			.about-hero {
+				text-align: center;
+				padding: 4em 1em 3em;
+				border-bottom: 1px solid var(--border);
+				margin-bottom: 3.5em;
+			}
+			.about-logo {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				width: 72px;
+				height: 72px;
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-radius: 18px;
+				margin-bottom: 1.5em;
+				box-shadow: 0 0 32px var(--accent-glow);
+			}
+			.about-logo img {
+				width: 36px;
+				height: 36px;
+				border-radius: 0;
+				image-rendering: crisp-edges;
+			}
+			.about-hero h1 {
+				font-size: 2.5em;
+				margin-bottom: 0.5em;
+			}
+			.about-hero .tagline {
+				font-size: 1.1em;
+				color: var(--text-muted);
+				max-width: 520px;
+				margin: 0 auto;
+				line-height: 1.6;
+			}
 
-	<p>
-		Vivimos en una era donde la IA, el software y las tendencias digitales redefinen industrias enteras.
-		Sin embargo, gran parte de ese conocimiento se genera y distribuye en inglés. En La Tendencia USA
-		queremos cambiar eso: traducir, analizar y contextualizar lo que importa para nuestra audiencia.
-	</p>
+			.about-content {
+				max-width: 760px;
+				margin: 0 auto;
+				padding: 0 1em 4em;
+			}
 
-	<h2>Nuestra misión</h2>
-	<p>
-		Ser el medio de referencia en español sobre tecnología, inteligencia artificial y tendencias
-		digitales para la audiencia latina en Estados Unidos y más allá. Queremos que cada lector salga
-		más informado, más curioso y mejor preparado para navegar el futuro digital.
-	</p>
+			.section {
+				margin-bottom: 3em;
+			}
+			.section h2 {
+				font-size: 1.3em;
+				color: var(--accent-light);
+				text-transform: uppercase;
+				letter-spacing: 0.06em;
+				font-weight: 700;
+				margin-bottom: 1em;
+				display: flex;
+				align-items: center;
+				gap: 0.5em;
+			}
+			.section h2::after {
+				content: '';
+				flex: 1;
+				height: 1px;
+				background: var(--border);
+			}
+			.section p {
+				color: var(--text);
+				line-height: 1.8;
+				font-size: 1.05em;
+			}
 
-	<h2>Qué cubrimos</h2>
-	<ul>
-		<li><strong>Inteligencia Artificial:</strong> modelos, herramientas, impacto social y laboral.</li>
-		<li><strong>Tendencias tech:</strong> qué está pasando en Silicon Valley y cómo afecta a Latinoamérica y la diáspora latina en USA.</li>
-		<li><strong>Herramientas digitales:</strong> apps, plataformas y recursos útiles explicados en simple.</li>
-		<li><strong>Opinión y análisis:</strong> perspectiva latina sobre los grandes debates del mundo tecnológico.</li>
-	</ul>
+			.topics-grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 1em;
+				margin-top: 0.5em;
+			}
+			.topic-card {
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-radius: 12px;
+				padding: 1.25em 1.5em;
+				transition: border-color 0.2s ease, box-shadow 0.2s ease;
+			}
+			.topic-card:hover {
+				border-color: var(--border-hover);
+				box-shadow: 0 4px 20px var(--accent-glow);
+			}
+			.topic-card strong {
+				display: block;
+				color: var(--text-heading);
+				margin-bottom: 0.35em;
+				font-size: 0.95em;
+			}
+			.topic-card span {
+				font-size: 0.85em;
+				color: var(--text-muted);
+				line-height: 1.5;
+			}
 
-	<h2>Contáctanos</h2>
-	<p>
-		¿Tienes una historia que contar, una herramienta que recomendar o quieres colaborar con nosotros?
-		Escríbenos a través de nuestras redes sociales. Estamos en Twitter / X como
-		<a href="https://twitter.com/latendenciausa" target="_blank">@latendenciausa</a>.
-	</p>
-</Layout>
+			.audience-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+				display: flex;
+				flex-direction: column;
+				gap: 0.75em;
+			}
+			.audience-list li {
+				display: flex;
+				align-items: flex-start;
+				gap: 0.75em;
+				font-size: 1em;
+				color: var(--text);
+				line-height: 1.6;
+			}
+			.audience-list li::before {
+				content: '→';
+				color: var(--accent-light);
+				font-weight: 700;
+				flex-shrink: 0;
+				margin-top: 0.05em;
+			}
+
+			.contact-box {
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-radius: 14px;
+				padding: 2em;
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				gap: 1.5em;
+				flex-wrap: wrap;
+			}
+			.contact-box p {
+				margin: 0;
+				color: var(--text-muted);
+				font-size: 0.95em;
+				line-height: 1.6;
+			}
+			.contact-cta {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5em;
+				background: var(--accent);
+				color: #fff;
+				font-weight: 600;
+				font-size: 0.9em;
+				padding: 0.65em 1.4em;
+				border-radius: 8px;
+				text-decoration: none;
+				white-space: nowrap;
+				transition: background 0.2s ease, box-shadow 0.2s ease;
+				flex-shrink: 0;
+			}
+			.contact-cta:hover {
+				background: var(--accent-light);
+				color: #fff;
+				box-shadow: 0 0 16px var(--accent-glow);
+			}
+
+			@media (max-width: 640px) {
+				.topics-grid {
+					grid-template-columns: 1fr;
+				}
+				.about-hero h1 {
+					font-size: 1.75em;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="about-hero">
+				<div class="about-logo">
+					<img src="/favicon-32x32.png" alt="La Tendencia USA logo" width="36" height="36" />
+				</div>
+				<h1>Nosotros</h1>
+				<p class="tagline">
+					Somos el medio en español que traduce el mundo tech para la comunidad latina.
+				</p>
+			</div>
+
+			<div class="about-content">
+				<div class="section">
+					<h2>Nuestra misión</h2>
+					<p>
+						<strong>La Tendencia USA</strong> nació con una convicción: el idioma no debe ser una barrera
+						para acceder al conocimiento que está transformando el mundo. Vivimos en una era donde la inteligencia
+						artificial, el software y las tendencias digitales redefinen industrias enteras — y gran parte
+						de ese conocimiento se genera y distribuye en inglés.
+					</p>
+					<p>
+						Somos el puente entre ese ecosistema tech angloparlante y los millones de hispanohablantes
+						que quieren entender, participar y liderar en la economía digital. Analizamos, contextualizamos
+						y explicamos lo que importa, en el idioma que te resulta natural.
+					</p>
+				</div>
+
+				<div class="section">
+					<h2>Qué publicamos</h2>
+					<div class="topics-grid">
+						<div class="topic-card">
+							<strong>Inteligencia Artificial</strong>
+							<span>Modelos, herramientas, casos de uso y el impacto real de la IA en el trabajo y la sociedad.</span>
+						</div>
+						<div class="topic-card">
+							<strong>Tendencias tech</strong>
+							<span>Qué está pasando en Silicon Valley, cómo afecta a Latinoamérica y qué significa para la diáspora latina en USA.</span>
+						</div>
+						<div class="topic-card">
+							<strong>Herramientas digitales</strong>
+							<span>Apps, plataformas y recursos explicados sin tecnicismos para que los uses desde el primer día.</span>
+						</div>
+						<div class="topic-card">
+							<strong>Opinión y análisis</strong>
+							<span>Perspectiva latina sobre los grandes debates del mundo tecnológico: privacidad, automatización, futuro del trabajo.</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="section">
+					<h2>Para quién escribimos</h2>
+					<ul class="audience-list">
+						<li>Latinos en Estados Unidos que consumen tecnología pero quieren entenderla en profundidad en español.</li>
+						<li>Profesionales y emprendedores de Latinoamérica que siguen de cerca las tendencias de Silicon Valley.</li>
+						<li>Curiosos digitales que quieren estar al día con la IA sin necesitar un doctorado para entender los artículos.</li>
+						<li>Creadores, freelancers y makers que usan herramientas tech en su día a día y buscan sacarles más partido.</li>
+					</ul>
+				</div>
+
+				<div class="section">
+					<h2>Contacto</h2>
+					<div class="contact-box">
+						<p>
+							¿Tienes una historia que contar, una herramienta que recomendar o quieres colaborar?
+							Encuéntranos en Facebook e Instagram como <strong>@latendenciausa</strong>.
+						</p>
+						<div style="display:flex;gap:0.75em;flex-wrap:wrap;">
+							<a
+								href="https://facebook.com/latendenciausa"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="contact-cta"
+							>
+								Facebook →
+							</a>
+							<a
+								href="https://instagram.com/latendenciausa"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="contact-cta"
+							>
+								Instagram →
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
