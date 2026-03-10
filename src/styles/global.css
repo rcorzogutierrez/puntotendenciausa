@@ -3,10 +3,10 @@
 	--accent-light: #818cf8;
 	--accent-glow: rgba(99, 102, 241, 0.18);
 	--cyan: #22d3ee;
-	--bg: #0d0d14;
-	--bg-surface: #13131f;
-	--bg-card: #16162a;
-	--bg-card-hover: #1c1c32;
+	--bg: #0f172a;
+	--bg-surface: #141e35;
+	--bg-card: #1a2340;
+	--bg-card-hover: #1f2a4d;
 	--border: rgba(255, 255, 255, 0.07);
 	--border-hover: rgba(99, 102, 241, 0.5);
 	--text: #cbd5e1;
@@ -21,9 +21,9 @@
 	/* Legacy compat for components that use rgb(var(--x)) syntax */
 	--black: 241, 245, 249;
 	--gray: 100, 116, 139;
-	--gray-light: 19, 19, 31;
+	--gray-light: 26, 35, 64;
 	--gray-dark: 203, 213, 225;
-	--gray-gradient: rgba(13, 13, 20, 0), #0d0d14;
+	--gray-gradient: rgba(15, 23, 42, 0), #0f172a;
 }
 
 body {
