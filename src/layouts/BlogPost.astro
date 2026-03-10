@@ -13,7 +13,12 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 
 <html lang="es">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} image={heroImage} />
+		<!-- Article-specific Open Graph overrides -->
+		<meta property="og:type" content="article" />
+		<meta property="article:published_time" content={pubDate.toISOString()} />
+		{updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
+		<meta property="og:locale" content="es_US" />
 		<style>
 			main {
 				width: calc(100% - 2em);
