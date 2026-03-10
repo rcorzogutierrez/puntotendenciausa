@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://latendenciausa.web.app/sitemap-index.xml
