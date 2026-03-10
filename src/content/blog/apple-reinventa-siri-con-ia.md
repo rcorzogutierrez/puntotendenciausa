@@ -2,7 +2,7 @@
 title: 'Apple reinventa Siri con IA: ¿el asistente que siempre quisimos?'
 description: 'Apple está transformando Siri con inteligencia artificial avanzada, integrando el modelo Gemini de Google para entender el contexto de tu pantalla, conectar apps y proteger tu privacidad. Esto es lo que significa para los usuarios latinos.'
 pubDate: '2026-03-10'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/apple-siri-ia.jpg'
 category: 'Inteligencia Artificial'
 ---
 
