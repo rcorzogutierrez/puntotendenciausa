@@ -2,7 +2,7 @@
 title: 'Samsung quiere meter IA en 800 millones de dispositivos — incluyendo tu nevera'
 description: 'Samsung tiene un plan ambicioso: integrar Gemini AI en 800 millones de dispositivos para finales de 2026, desde el Galaxy S26 hasta los electrodomésticos de tu cocina. Esto es lo que significa para el usuario latino.'
 pubDate: '2026-03-10'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: 'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=1200&q=80'
 category: 'Tecnología'
 ---
 
