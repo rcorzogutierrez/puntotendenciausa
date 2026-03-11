@@ -52,4 +52,4 @@ Lo que está claro es que la guerra de los asistentes de IA acaba de volverse mu
 
 ---
 
-**¿Y tú?** ¿Le darías otra oportunidad a Siri con estas nuevas capacidades, o ya migraste definitivamente a otro asistente? Cuéntanos en los comentarios.
+¿Y tú? ¿Le darías otra oportunidad a Siri? Síguenos y comparte este artículo con alguien que use iPhone — seguro le interesa saber lo que se viene.
