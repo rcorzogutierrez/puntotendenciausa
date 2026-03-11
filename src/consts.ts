@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'La Tendencia USA';
 export const SITE_DESCRIPTION =
-	'Tecnología, IA y tendencias digitales explicadas en español para la audiencia latina.';
+	'Tu fuente de tecnología, inteligencia artificial y tendencias digitales explicadas en español para la comunidad latina en Estados Unidos y el mundo.';
