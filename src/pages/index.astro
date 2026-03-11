@@ -390,11 +390,11 @@ const recentPosts = (await getCollection('blog'))
 									<li class="card">
 										{post.data.heroImage && (
 											<div class="card-img">
-												<Image
-													width={480}
-													height={270}
+												<img
 													src={post.data.heroImage}
 													alt={post.data.title}
+													loading="lazy"
+													decoding="async"
 												/>
 											</div>
 										)}
