@@ -15,7 +15,7 @@ const recentPosts = (await getCollection('blog'))
 <!doctype html>
 <html lang="es">
 	<head>
-		<BaseHead title="La Tendencia USA — Tecnología e IA en Español" description={SITE_DESCRIPTION} />
+		<BaseHead title="La Tendencia USA — Inteligencia Artificial y Tendencias Digitales en Español" description="Tecnología, inteligencia artificial y tendencias digitales explicadas en español para la comunidad latina en USA. Noticias tech sin tecnicismos." />
 		<style>
 			/* Override global main for full-width layout */
 			main {
@@ -296,6 +296,33 @@ const recentPosts = (await getCollection('blog'))
 				color: var(--text-muted);
 			}
 
+			/* ── SEO text section ───────────────────────────────── */
+			.seo-section {
+				max-width: 1100px;
+				margin: 0 auto;
+				padding: 3em 1.5em 4em;
+				border-top: 1px solid var(--border);
+			}
+			.seo-section h2 {
+				font-size: 1.4em;
+				font-weight: 700;
+				color: var(--text-heading);
+				margin: 0 0 0.6em;
+			}
+			.seo-section h3 {
+				font-size: 1.1em;
+				font-weight: 700;
+				color: var(--text-heading);
+				margin: 1.5em 0 0.5em;
+			}
+			.seo-section p {
+				color: var(--text-muted);
+				font-size: 0.95em;
+				line-height: 1.7;
+				margin: 0;
+				max-width: 760px;
+			}
+
 			/* ── CTA bottom banner ──────────────────────────────── */
 			.cta-banner {
 				background: var(--bg-card);
@@ -428,6 +455,16 @@ const recentPosts = (await getCollection('blog'))
 					</div>
 				)
 			}
+
+			<!-- SEO Text Section -->
+			<section class="seo-section">
+				<h2>Tecnología e Inteligencia Artificial en Español</h2>
+				<p>En La Tendencia USA cubrimos los avances en inteligencia artificial, gadgets, tendencias digitales y ciencia que están transformando el mundo. Todo explicado en español para la comunidad latina en Estados Unidos.</p>
+				<h3>¿Por qué seguir La Tendencia USA?</h3>
+				<p>Porque la tecnología no tiene idioma, pero entenderla mejor en el tuyo hace la diferencia. Desde IA agéntica hasta los últimos gadgets, aquí encontrarás contenido relevante, honesto y sin tecnicismos innecesarios.</p>
+				<h3>Categorías principales</h3>
+				<p>Exploramos Inteligencia Artificial, Gadgets, Tendencias Digitales y Ciencia — siempre con perspectiva latina y contexto para tu vida diaria.</p>
+			</section>
 
 			<!-- CTA Banner -->
 			<div class="cta-banner">
