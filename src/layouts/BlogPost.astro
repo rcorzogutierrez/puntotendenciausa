@@ -5,10 +5,12 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import { categoryToSlug, getPostCategory } from '../utils/categories';
 
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const category = getPostCategory(Astro.props);
 ---
 
 <html lang="es">
@@ -67,6 +69,18 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				padding: 0.2em 0.7em;
 				font-style: normal;
 			}
+			.category-badge {
+				font-size: 0.72em;
+				font-weight: 700;
+				letter-spacing: 0.08em;
+				text-transform: uppercase;
+				color: var(--accent-light);
+				text-decoration: none;
+				transition: color 0.2s ease;
+			}
+			.category-badge:hover {
+				color: var(--cyan);
+			}
 			.prose h1 {
 				font-size: 2.25em;
 				line-height: 1.2;
@@ -90,6 +104,16 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				<div class="prose">
 					<div class="article-meta">
 						<time class="date"><FormattedDate date={pubDate} /></time>
+						{
+							category && (
+								<a
+									class="category-badge"
+									href={`/categoria/${categoryToSlug(category)}`}
+								>
+									{category}
+								</a>
+							)
+						}
 						{
 							updatedDate && (
 								<span class="updated-badge">

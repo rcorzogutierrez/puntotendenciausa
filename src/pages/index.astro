@@ -6,6 +6,7 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { categoryToSlug, getPostCategory } from '../utils/categories';
 
 const recentPosts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -204,6 +205,7 @@ const recentPosts = (await getCollection('blog'))
 				border: 1px solid var(--border);
 				border-radius: 14px;
 				overflow: hidden;
+				position: relative;
 				transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
 				display: flex;
 				flex-direction: column;
@@ -212,12 +214,6 @@ const recentPosts = (await getCollection('blog'))
 				border-color: var(--border-hover);
 				box-shadow: var(--box-shadow-hover);
 				transform: translateY(-3px);
-			}
-			.card a {
-				display: flex;
-				flex-direction: column;
-				height: 100%;
-				text-decoration: none;
 			}
 			.card-img {
 				overflow: hidden;
@@ -243,11 +239,20 @@ const recentPosts = (await getCollection('blog'))
 				flex: 1;
 			}
 			.card-category {
+				position: relative;
+				z-index: 2;
+				display: inline-flex;
 				font-size: 0.68em;
 				font-weight: 700;
 				letter-spacing: 0.08em;
 				text-transform: uppercase;
 				color: var(--accent-light);
+				text-decoration: none;
+				width: fit-content;
+				transition: color 0.2s ease;
+			}
+			.card-category:hover {
+				color: var(--cyan);
 			}
 			.card-title {
 				font-size: 1em;
@@ -255,6 +260,16 @@ const recentPosts = (await getCollection('blog'))
 				line-height: 1.4;
 				margin: 0;
 				font-weight: 600;
+			}
+			.card-title a {
+				text-decoration: none;
+				color: inherit;
+			}
+			.card-title a::after {
+				content: '';
+				position: absolute;
+				inset: 0;
+				z-index: 1;
 			}
 			.card-desc {
 				color: var(--text-muted);
@@ -370,9 +385,10 @@ const recentPosts = (await getCollection('blog'))
 							<a href="/blog" class="see-all">Ver todos los artículos →</a>
 						</div>
 						<ul class="cards-grid">
-							{recentPosts.map((post) => (
-								<li class="card">
-									<a href={`/blog/${post.id}/`}>
+							{recentPosts.map((post) => {
+								const category = getPostCategory(post.data);
+								return (
+									<li class="card">
 										{post.data.heroImage && (
 											<div class="card-img">
 												<Image
@@ -384,8 +400,17 @@ const recentPosts = (await getCollection('blog'))
 											</div>
 										)}
 										<div class="card-body">
-											<span class="card-category">Tecnología</span>
-											<h2 class="card-title">{post.data.title}</h2>
+											{category && (
+												<a
+													class="card-category"
+													href={`/categoria/${categoryToSlug(category)}`}
+												>
+													{category}
+												</a>
+											)}
+											<h2 class="card-title">
+												<a href={`/blog/${post.id}/`}>{post.data.title}</a>
+											</h2>
 											{post.data.description && (
 												<p class="card-desc">{post.data.description}</p>
 											)}
@@ -393,9 +418,9 @@ const recentPosts = (await getCollection('blog'))
 												<FormattedDate date={post.data.pubDate} />
 											</time>
 										</div>
-									</a>
-								</li>
-							))}
+									</li>
+								);
+							})}
 						</ul>
 					</section>
 				) : (
