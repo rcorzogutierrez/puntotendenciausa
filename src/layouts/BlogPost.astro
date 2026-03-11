@@ -98,7 +98,7 @@ const category = getPostCategory(Astro.props);
 		<main>
 			<article>
 				<div class="hero-image">
-					{heroImage && <img src={heroImage} alt="" decoding="async" />}
+					{heroImage && <img src={heroImage} alt={title} decoding="async" />}
 				</div>
 				<div class="prose">
 					<div class="article-meta">
