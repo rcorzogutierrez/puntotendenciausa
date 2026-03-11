@@ -18,11 +18,19 @@ const { title, description, image = FallbackImage } = Astro.props;
 const imageSrc = typeof image === 'string' ? image : image.src;
 
 // Title: formato "[Título] | La Tendencia USA", máximo 60 caracteres
+// Si el título ya incluye el nombre del sitio (homepage, categorías), se usa tal cual
 const SUFFIX = ` | ${SITE_TITLE}`;
-const truncatedTitle = title.length + SUFFIX.length <= 60
-	? title
-	: title.slice(0, 60 - SUFFIX.length - 3) + '...';
-const pageTitle = `${truncatedTitle}${SUFFIX}`;
+const needsSuffix = !title.includes(SITE_TITLE);
+let pageTitle: string;
+if (needsSuffix) {
+	const maxTitleChars = 60 - SUFFIX.length - 3;
+	const titlePart = title.length + SUFFIX.length <= 60
+		? title
+		: title.slice(0, maxTitleChars) + '...';
+	pageTitle = `${titlePart}${SUFFIX}`;
+} else {
+	pageTitle = title.length <= 60 ? title : title.slice(0, 57) + '...';
+}
 
 // Description: máximo 160 caracteres
 const metaDescription = description.length <= 160
@@ -32,7 +40,7 @@ const metaDescription = description.length <= 160
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <!-- Google Fonts: Inter -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
