@@ -6,8 +6,6 @@ category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1200&q=80"
 ---
 
-# Lucid Motors presenta su concepto de robotaxi llamado 'Lunar'
-
 Si eres seguidor de las innovaciones en vehículos eléctricos, seguramente has estado atento a lo que Lucid Motors está haciendo en el mercado. Pues bien, la compañía acaba de dar un paso gigante presentando su nuevo concepto de robotaxi denominado "Lunar", y hermano, esto podría cambiar completamente la forma en que nos movemos por las ciudades.
 
 ## Un golpe sobre la mesa en el día de inversores

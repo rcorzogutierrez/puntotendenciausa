@@ -6,8 +6,6 @@ category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1200&q=80"
 ---
 
-# Atlassian se suma a la ola de despidos: IA por encima de empleados
-
 Hermano, aquí vamos de nuevo. Otra mega empresa tecnológica decidió que lo mejor para 2026 es despedir gente y apostar todo a la inteligencia artificial. Atlassian, la compañía detrás de herramientas que usan millones de desarrolladores en todo el mundo (incluyendo muchos de nosotros los latinos en USA), acaba de anunciar que está cortando 1,600 empleados, lo que representa aproximadamente el 10% de su fuerza laboral.
 
 ¿Cuál es la razón? Adivina: la IA. Sí, así como lo lees. La empresa quiere redirigir recursos significativos hacia el desarrollo de soluciones de inteligencia artificial. Y honestamente, esto no es una sorpresa. Ya lo hemos visto antes con Block, la empresa matriz de Square y Cash App, que también hizo recortes similares con el mismo argumento.
