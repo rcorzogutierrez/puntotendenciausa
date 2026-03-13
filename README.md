@@ -1,62 +1,117 @@
-# Astro Starter Kit: Blog
+# La Tendencia USA
 
-```sh
-npm create astro@latest -- --template blog
+Blog de tecnología, inteligencia artificial y tendencias digitales en español para la comunidad latina en Estados Unidos.
+
+**URL:** https://latendenciausa.web.app
+
+---
+
+## Stack
+
+| Capa | Tecnología |
+|---|---|
+| Framework | [Astro 6](https://astro.build) |
+| Contenido | Markdown + MDX |
+| Comentarios | [Giscus](https://giscus.app) vía GitHub Discussions |
+| Hosting | Firebase Hosting |
+| CI/CD | GitHub |
+
+---
+
+## Estructura del proyecto
+
+```
+src/
+├── components/
+│   ├── BaseHead.astro       # Meta tags, SEO, Open Graph
+│   ├── Comments.astro       # Sistema de comentarios Giscus
+│   ├── Footer.astro
+│   ├── FormattedDate.astro  # Fecha con timezone UTC
+│   ├── Header.astro
+│   └── HeaderLink.astro
+├── content/
+│   └── blog/                # Artículos en Markdown (.md)
+├── layouts/
+│   └── BlogPost.astro       # Layout de cada artículo
+├── pages/
+│   ├── index.astro          # Home
+│   ├── blog/
+│   │   ├── index.astro      # Listado del blog
+│   │   └── [...slug].astro  # Página de artículo
+│   ├── categoria/
+│   │   └── [categoria].astro
+│   ├── categorias.astro
+│   ├── about.astro
+│   └── rss.xml.js
+└── utils/
+    └── categories.ts
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-Features:
+## Crear un artículo nuevo
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+Crear un archivo `.md` en `src/content/blog/` con este frontmatter:
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
+```markdown
+---
+title: ""
+description: "" # 150-160 caracteres
+pubDate: "YYYY-MM-DD"
+category: "" # Tecnología | Inteligencia Artificial | Gadgets | Ciencia
+heroImage: "" # URL de Unsplash con ?w=1200&q=80
+---
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### Reglas de contenido
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- **600–800 palabras** por artículo
+- **Sin H1** en el cuerpo — el título se renderiza desde el frontmatter
+- Estructura de headings: H2 para secciones, H3 para subsecciones
+- Tono conversacional, perspectiva para audiencia latina en USA
+- Terminar con pregunta o llamado a acción al lector
+- Siempre en español
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+### SEO automático
 
-Any static assets, like images, can be placed in the `public/` directory.
+Cada artículo genera automáticamente:
+- Title tag en formato `[Título] | La Tendencia USA`
+- Meta description desde el campo `description`
+- Schema Markup de tipo `BlogPosting`
+- Open Graph tags para redes sociales
+- Entrada en el sitemap
 
-## 🧞 Commands
+---
 
-All commands are run from the root of the project, from a terminal:
+## Comandos
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+```bash
+npm install        # Instalar dependencias
+npm run dev        # Servidor local en localhost:4321
+npm run build      # Build de producción en ./dist/
+npm run preview    # Preview del build antes de deploy
+```
 
-## 👀 Want to learn more?
+## Deploy
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+```bash
+npm run build
+firebase deploy
+```
 
-## Credit
+---
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+## Comentarios
+
+Los comentarios están integrados con **Giscus**, que usa GitHub Discussions como base de datos. Cada artículo crea automáticamente una Discussion en este repositorio la primera vez que alguien comenta.
+
+Los lectores necesitan cuenta de GitHub para comentar. La moderación se gestiona directamente desde la pestaña Discussions del repo.
+
+---
+
+## Categorías disponibles
+
+- `Tecnología`
+- `Inteligencia Artificial`
+- `Gadgets`
+- `Ciencia`
