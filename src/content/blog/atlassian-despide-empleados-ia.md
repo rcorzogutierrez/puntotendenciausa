@@ -1,7 +1,7 @@
 ---
 title: "Atlassian despide al 10% de su personal para invertir más en IA"
 description: "Atlassian sigue el ejemplo de Block y recorta 1,600 empleados para financiar su estrategia de inteligencia artificial"
-pubDate: "2026-03-12"
+pubDate: "2026-03-13"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1200&q=80"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Lucid Motors presenta su concepto de robotaxi llamado 'Lunar'"
 description: "Lucid Motors revela su ambicioso concepto de robotaxi 'Lunar'. Descubre cómo la empresa planea revolucionar la autonomía y los vehículos eléctricos asequibles."
-pubDate: "2026-03-12"
+pubDate: "2026-03-13"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1200&q=80"
 ---
