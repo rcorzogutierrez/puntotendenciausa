@@ -1,5 +1,10 @@
 # La Tendencia USA
 
+[![Astro](https://img.shields.io/badge/Astro-6.0-FF5D01?logo=astro&logoColor=white)](https://astro.build)
+[![Firebase](https://img.shields.io/badge/Firebase-Hosting-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Giscus](https://img.shields.io/badge/Comentarios-Giscus-1F6FEB?logo=github&logoColor=white)](https://giscus.app)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 Blog de tecnología, inteligencia artificial y tendencias digitales en español para la comunidad latina en Estados Unidos.
 
 **URL:** https://latendenciausa.web.app
