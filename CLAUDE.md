@@ -17,7 +17,7 @@ Stack: Astro + Firebase Hosting + GitHub
 title: ""
 description: "" # 150-160 caracteres
 pubDate: "YYYY-MM-DD"
-category: "" # Tecnología | Inteligencia Artificial | Gadgets | Ciencia
+category: "" # Tecnología | Inteligencia Artificial | Gadgets | Ciencia | Gaming
 heroImage: "" # URL de Unsplash
 
 ## Estilo de escritura
