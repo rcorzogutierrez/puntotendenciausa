@@ -1,4 +1,5 @@
 ---
+import type { GetStaticPathsOptions } from 'astro';
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
@@ -7,18 +8,28 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 import { categoryToSlug, getPostCategory } from '../../utils/categories';
 
-const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+	const posts = (await getCollection('blog')).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	);
+	return paginate(posts, { pageSize: 9 });
+}
 
-const [featured, ...rest] = posts;
+const { page } = Astro.props;
+const isFirstPage = page.currentPage === 1;
+const featured = isFirstPage ? page.data[0] : null;
+const rest = isFirstPage ? page.data.slice(1) : page.data;
 const featuredCategory = featured ? getPostCategory(featured.data) : null;
+
+const pageTitle = isFirstPage
+	? `Blog — ${SITE_TITLE}`
+	: `Blog — Página ${page.currentPage} | ${SITE_TITLE}`;
 ---
 
 <!doctype html>
 <html lang="es">
 	<head>
-		<BaseHead title={`Blog — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<BaseHead title={pageTitle} description={SITE_DESCRIPTION} />
 		<style>
 			.blog-header {
 				padding: 2.5em 0 2em;
@@ -209,6 +220,41 @@ const featuredCategory = featured ? getPostCategory(featured.data) : null;
 				overflow: hidden;
 			}
 
+			/* Pagination */
+			.pagination {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				gap: 1em;
+				margin-top: 3.5em;
+				padding-bottom: 2em;
+			}
+			.pagination-btn {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.4em;
+				padding: 0.55em 1.2em;
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-radius: 8px;
+				color: var(--text-heading);
+				text-decoration: none;
+				font-size: 0.9em;
+				font-weight: 500;
+				transition: border-color 0.2s ease, background 0.2s ease;
+			}
+			.pagination-btn:hover {
+				border-color: var(--border-hover);
+				background: var(--accent-glow);
+				color: var(--accent-light);
+			}
+			.pagination-info {
+				font-size: 0.85em;
+				color: var(--text-muted);
+				min-width: 8em;
+				text-align: center;
+			}
+
 			@media (max-width: 900px) {
 				.cards-grid {
 					grid-template-columns: repeat(2, 1fr);
@@ -302,6 +348,26 @@ const featuredCategory = featured ? getPostCategory(featured.data) : null;
 							);
 						})}
 					</ul>
+				)
+			}
+
+			{
+				page.lastPage > 1 && (
+					<nav class="pagination" aria-label="Paginación del blog">
+						{page.url.prev ? (
+							<a href={page.url.prev} class="pagination-btn">&#8592; Anterior</a>
+						) : (
+							<span class="pagination-btn" style="opacity:0;pointer-events:none">&#8592; Anterior</span>
+						)}
+						<span class="pagination-info">
+							Página {page.currentPage} de {page.lastPage}
+						</span>
+						{page.url.next ? (
+							<a href={page.url.next} class="pagination-btn">Siguiente &#8594;</a>
+						) : (
+							<span class="pagination-btn" style="opacity:0;pointer-events:none">Siguiente &#8594;</span>
+						)}
+					</nav>
 				)
 			}
 		</main>
