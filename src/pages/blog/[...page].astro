@@ -1,5 +1,4 @@
 ---
-import type { GetStaticPathsOptions } from 'astro';
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
@@ -8,22 +7,58 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 import { categoryToSlug, getPostCategory } from '../../utils/categories';
 
-export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-	const posts = (await getCollection('blog')).sort(
+export async function getStaticPaths() {
+	const allPosts = (await getCollection('blog')).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 	);
-	return paginate(posts, { pageSize: 9 });
+
+	// Página 1: 10 artículos (1 destacado + 9 en grid de 3×3)
+	// Páginas siguientes: 9 artículos (grid de 3×3 completo)
+	const PAGE_SIZE = 9;
+	const firstPagePosts = allPosts.slice(0, 10);
+	const remaining = allPosts.slice(10);
+	const extraPages = Math.ceil(remaining.length / PAGE_SIZE);
+	const totalPages = 1 + extraPages;
+
+	const paths = [
+		{
+			params: { page: undefined },
+			props: {
+				posts: firstPagePosts,
+				currentPage: 1,
+				totalPages,
+				prevUrl: null,
+				nextUrl: extraPages > 0 ? '/blog/2' : null,
+			},
+		},
+	];
+
+	for (let i = 0; i < extraPages; i++) {
+		const pageNum = i + 2;
+		paths.push({
+			params: { page: String(pageNum) },
+			props: {
+				posts: remaining.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+				currentPage: pageNum,
+				totalPages,
+				prevUrl: pageNum === 2 ? '/blog' : `/blog/${pageNum - 1}`,
+				nextUrl: pageNum < totalPages ? `/blog/${pageNum + 1}` : null,
+			},
+		});
+	}
+
+	return paths;
 }
 
-const { page } = Astro.props;
-const isFirstPage = page.currentPage === 1;
-const featured = isFirstPage ? page.data[0] : null;
-const rest = isFirstPage ? page.data.slice(1) : page.data;
+const { posts, currentPage, totalPages, prevUrl, nextUrl } = Astro.props;
+const isFirstPage = currentPage === 1;
+const featured = isFirstPage ? posts[0] : null;
+const rest = isFirstPage ? posts.slice(1) : posts;
 const featuredCategory = featured ? getPostCategory(featured.data) : null;
 
 const pageTitle = isFirstPage
 	? `Blog — ${SITE_TITLE}`
-	: `Blog — Página ${page.currentPage} | ${SITE_TITLE}`;
+	: `Blog — Página ${currentPage} | ${SITE_TITLE}`;
 ---
 
 <!doctype html>
@@ -352,18 +387,18 @@ const pageTitle = isFirstPage
 			}
 
 			{
-				page.lastPage > 1 && (
+				totalPages > 1 && (
 					<nav class="pagination" aria-label="Paginación del blog">
-						{page.url.prev ? (
-							<a href={page.url.prev} class="pagination-btn">&#8592; Anterior</a>
+						{prevUrl ? (
+							<a href={prevUrl} class="pagination-btn">&#8592; Anterior</a>
 						) : (
 							<span class="pagination-btn" style="opacity:0;pointer-events:none">&#8592; Anterior</span>
 						)}
 						<span class="pagination-info">
-							Página {page.currentPage} de {page.lastPage}
+							Página {currentPage} de {totalPages}
 						</span>
-						{page.url.next ? (
-							<a href={page.url.next} class="pagination-btn">Siguiente &#8594;</a>
+						{nextUrl ? (
+							<a href={nextUrl} class="pagination-btn">Siguiente &#8594;</a>
 						) : (
 							<span class="pagination-btn" style="opacity:0;pointer-events:none">Siguiente &#8594;</span>
 						)}
