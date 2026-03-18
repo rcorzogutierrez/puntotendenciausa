@@ -3,7 +3,7 @@ title: "Fortnite vs. Age of Empires: la batalla de los bots de IA"
 description: "¿Los bots de Fortnite aprenden de ti o solo te imitan? ¿La IA de Age of Empires es realmente inteligente? Comparamos cómo funciona la IA en los dos juegos más populares del momento."
 pubDate: "2026-03-16"
 category: "Gaming"
-heroImage: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1600&q=85"
 ---
 
 Todos lo hemos vivido: estás en una partida de Fortnite y de la nada aparece un jugador con nombre raro tipo "SwiftBreeze45" que se mueve torpe, falla todos los tiros y te regala la eliminación. O llevas horas intentando vencer al nivel Extremo de Age of Empires II y la computadora te destruye el base antes de que termines tu segundo cuartel. En ambos casos hay una IA detrás, pero funcionan de maneras completamente distintas.

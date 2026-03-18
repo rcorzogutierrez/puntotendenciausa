@@ -3,7 +3,7 @@ title: "OpenAI ya vale más que muchos países: $25 mil millones en ingresos y r
 description: "OpenAI superó $25 mil millones en ingresos anualizados y evalúa salir a bolsa en 2026. Anthropic ya va por $19 mil millones. La IA es el negocio del siglo."
 pubDate: "2026-03-13"
 category: "Inteligencia Artificial"
-heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&q=85"
 ---
 
 Hay números que te hacen parar y releer dos veces para asegurarte de que no es un error. Este es uno de ellos: OpenAI, la empresa detrás de ChatGPT, acaba de superar los **$25 mil millones en ingresos anualizados**. Y como si eso fuera poco, los rumores apuntan a que la compañía podría dar el salto a la bolsa de valores tan pronto como a finales de este mismo año.
