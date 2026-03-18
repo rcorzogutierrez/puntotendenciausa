@@ -20,7 +20,7 @@ Como latinos viviendo en Estados Unidos, quizás te preguntes: "¿Y eso qué me 
 
 El gobierno no puede simplemente esperar mientras Anthropic se toma su tiempo para decidir. Así que está explorando alternativas. Hay otras compañías de IA dispuestas a trabajar más directamente con las fuerzas armadas, sin tantas restricciones éticas cuestionando cada paso.
 
-Esto plantea una pregunta incómoda: ¿Quién va a estar desarrollando la IA para defensa si no es la empresa que más habla sobre responsabilidad? Las alternativas podrían ser empresas con diferentes valores o enfoques, lo que podría cambiar cómo se desarrolla esta tecnología crítica.
+Esto plantea una pregunta incómoda: ¿Quién va a estar desarrollando la IA para defensa si no es la empresa que más habla sobre responsabilidad? Las alternativas podrían ser empresas con diferentes valores o enfoques, lo que podría cambiar cómo se desarrolla esta tecnología crítica. El contexto de urgencia es real: recientemente vimos cómo [hackers pro-Irán borraron miles de dispositivos de Stryker](/blog/hackers-iran-stryker-ataque-cibernetico), lo que deja claro que la guerra cibernética no es ciencia ficción.
 
 ## El lado ético del asunto
 
@@ -34,7 +34,7 @@ El Pentágono continuará su búsqueda de partners tecnológicos que cumplan con
 
 Para quienes seguimos el mundo tech desde una perspectiva latina, esto nos recuerda que incluso las gigantescas corporaciones tecnológicas tienen que tomar decisiones difíciles. No siempre es blanco o negro. A veces, las compañías que dicen preocuparse por la ética tienen que demostrar que realmente lo hacen, incluso cuando eso significa rechazar contratos lucrativos.
 
-La industria de IA sigue evolucionando, y estos movimientos estratégicos entre empresas y gobierno son parte del juego. Lo importante es mantenerse informado sobre estos cambios, porque tarde o temprano, nos van a afectar a todos en una forma u otra.
+La industria de IA sigue evolucionando, y estos movimientos estratégicos entre empresas y gobierno son parte del juego. Lo importante es mantenerse informado sobre estos cambios, porque tarde o temprano, nos van a afectar a todos en una forma u otra. Mientras tanto, Anthropic sigue creciendo por su cuenta: su herramienta [Claude Code alcanzó una valoración de 380 mil millones de dólares](/blog/anthropic-claude-code-380-mil-millones-ipo), lo que muestra que las apuestas en el sector de IA siguen siendo enormes.
 
 ¿Tú crees que Anthropic hizo bien en alejarse del Pentágono, o crees que debería haber buscado una forma de trabajar juntos?
 

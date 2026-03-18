@@ -18,7 +18,7 @@ Esta función permite que el asistente de inteligencia artificial de Google acce
 
 Digamos que tienes un viaje planeado. La Inteligencia Personal podría ayudarte a recordar qué ropa empacaste el año pasado en un viaje similar, basándose en tus fotos. O si necesitas información sobre ese proyecto en el trabajo, el sistema puede revisar tus correos para darte un resumen rápido sin que tengas que buscar entre cientos de mensajes.
 
-Es como si Google finalmente entendiera el contexto completo de tu vida digital. No es solo un buscador o un asistente genérico, sino alguien que realmente conoce lo que está pasando en tu día a día.
+Es como si Google finalmente entendiera el contexto completo de tu vida digital. No es solo un buscador o un asistente genérico, sino alguien que realmente conoce lo que está pasando en tu día a día. Esta tendencia se conecta con la visión más amplia que Google tiene de la IA: el mismo motor que impulsa su [modelo Gemini Flash Lite](/blog/google-gemini-flash-lite-modelo-barato) está detrás de estas nuevas capacidades personales.
 
 ## ¿Por qué esto es importante para los latinos en USA?
 
@@ -32,7 +32,7 @@ Lo mejor es que ya no será una función exclusiva. Google está expandiendo la 
 
 ## Consideraciones sobre privacidad
 
-Ahora bien, es natural preguntarse: ¿qué pasa con mi privacidad? Google accede a información bastante sensible aquí. Lo importante es que tienes control sobre esto. Puedes elegir qué información compartir con la IA y qué mantener privado. No es un acceso total y sin restricciones.
+Ahora bien, es natural preguntarse: ¿qué pasa con mi privacidad? Google accede a información bastante sensible aquí. Lo importante es que tienes control sobre esto. Puedes elegir qué información compartir con la IA y qué mantener privado. No es un acceso total y sin restricciones. Si te preocupa la privacidad en internet, quizás te llame la atención cómo [Kagi propone una alternativa radicalmente opuesta](/blog/kagi-small-web-moviles-internet-autentico): un buscador sin rastreo, sin publicidad y ahora disponible en móviles.
 
 ## El futuro de la IA personal
 

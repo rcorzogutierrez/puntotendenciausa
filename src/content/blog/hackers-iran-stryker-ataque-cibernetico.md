@@ -20,7 +20,7 @@ Stryker, que produce equipos médicos y tecnología para hospitales, se vio obli
 
 ## El contexto geopolítico detrás del ataque
 
-Lo que hace este ataque particularmente preocupante es lo que representa. Durante los últimos tiempos, las tensiones entre Estados Unidos e Irán han aumentado significativamente. Este ciberataque parece ser una respuesta directa a esas tensiones y a las acciones militares estadounidenses.
+Lo que hace este ataque particularmente preocupante es lo que representa. Durante los últimos tiempos, las tensiones entre Estados Unidos e Irán han aumentado significativamente. Este ciberataque parece ser una respuesta directa a esas tensiones y a las acciones militares estadounidenses. No es casualidad que mientras esto ocurre, [el Pentágono esté buscando urgentemente nuevos socios de inteligencia artificial](/blog/el-pentagon-busca-alternativas-anthropic-ruptura) para reforzar sus capacidades de defensa digital.
 
 Para quienes vivimos en USA, especialmente en la comunidad latina, esto es importante porque muestra cómo los conflictos internacionales pueden afectar directamente nuestras vidas. Las empresas que usamos, los hospitales donde recibimos atención médica, todo está conectado a estas redes que ahora son objetivos potenciales de represalias cibernéticas.
 
@@ -34,7 +34,7 @@ Además, esto abre la puerta a más represalias. Si Irán puede atacar empresas 
 
 Stryker está trabajando actualmente en restaurar sus sistemas. No sabemos exactamente cuánto tiempo tomará, pero casos similares en otras industrias han tardado semanas o incluso meses. Durante este tiempo, la empresa opera con capacidad reducida, lo que afecta su productividad y rentabilidad.
 
-La buena noticia es que las compañías estadounidenses ahora están más conscientes de estas amenazas y esperamos que refuercen sus medidas de seguridad cibernética.
+La buena noticia es que las compañías estadounidenses ahora están más conscientes de estas amenazas y esperamos que refuercen sus medidas de seguridad cibernética. De hecho, Apple acaba de dar un paso importante en esa dirección con su [nuevo sistema de actualizaciones de seguridad en segundo plano para iPhones y Macs](/blog/apple-actualizaci), diseñado para parchear vulnerabilidades mucho más rápido que antes.
 
 ## Lo que debes saber
 

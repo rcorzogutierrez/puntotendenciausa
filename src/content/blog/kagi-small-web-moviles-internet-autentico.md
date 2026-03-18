@@ -24,7 +24,7 @@ Aquí está lo mejor: no hay anuncios. Punto. Mientras que Google te muestra pub
 
 ### Privacidad de verdad
 
-Kagi no vende tus datos a publicistas. No te rastrea. No construye un perfil de ti para vendérselo a terceros. Cuando buscas algo en Kagi, solo tú lo sabes.
+Kagi no vende tus datos a publicistas. No te rastrea. No construye un perfil de ti para vendérselo a terceros. Cuando buscas algo en Kagi, solo tú lo sabes. Todo lo contrario a lo que propone Google con su [nueva Inteligencia Personal](/blog/inteligencia-personal-google-llega-usuarios-usa), que accede a tu Gmail, Fotos y Calendario para darte respuestas "personalizadas".
 
 ## Ahora en tu bolsillo
 
@@ -40,7 +40,7 @@ Como latinos viviendo en USA, sabemos lo importante que es mantener conexión co
 
 ## El futuro de internet
 
-Cada búsqueda en Kagi es un voto por un internet diferente. Un internet donde la gente gana dinero creando contenido genuino, no donde las corporaciones ganan dinero vendiendo tu atención.
+Cada búsqueda en Kagi es un voto por un internet diferente. Un internet donde la gente gana dinero creando contenido genuino, no donde las corporaciones ganan dinero vendiendo tu atención. Si además te preocupa la ciberseguridad en general, vale la pena leer sobre [cómo Apple está cambiando la forma de lanzar sus parches de seguridad](/blog/apple-actualizaci) para proteger a sus usuarios.
 
 Así que la pregunta es: ¿estás listo para intentar algo diferente? ¿Darías una oportunidad a un buscador que respeta tu privacidad y te presenta la verdadera riqueza de internet?
 
