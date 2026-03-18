@@ -3,7 +3,7 @@ title: "La Inteligencia Personal de Google llega para todos los usuarios en USA"
 description: "Google expande su nueva función de Inteligencia Personal a todos los usuarios estadounidenses. Conoce cómo esta IA accede a tu información para darte respuestas personalizadas."
 pubDate: "2026-03-18"
 category: "Tecnología"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=1600&q=85"
 ---
 
 Google acaba de anunciar una de sus movidas más interesantes en el mundo de la inteligencia artificial. Si eres usuario de Google en Estados Unidos, tienes que conocer esta nueva función llamada Personal Intelligence (Inteligencia Personal), que está llegando a todos los usuarios. Y créeme, esto puede cambiar la forma en que usas tu teléfono y computadora.

@@ -3,7 +3,7 @@ title: "Apple lanza su primera actualización de 'seguridad en segundo plano' pa
 description: "Apple libera su primera actualización de seguridad en segundo plano para corregir una vulnerabilidad crítica en Safari. Conoce qué debes hacer."
 pubDate: "2026-03-18"
 category: "Tecnología"
-heroImage: "https://images.unsplash.com/photo-1720357632092-aa4504a39b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMHJvbGxzJTIwb3V0JTIwZmlyc3QlMjAlRTIlODAlOThiYWNrZ3JvdW5kJTIwc2VjdXJpdHklRTIlODAlOTklMjB1cGRhdGUlMjBmb3IlMjBpUGhvbmVzJTJDJTIwaVBhZHMlMkMlMjBhbmQlMjBNYWNzJTIwdG8lMjBmaXglMjBTYWZhcmklMjBidWd8ZW58MXwwfHx8MTc3Mzg1MjY2MHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1720357632092-aa4504a39b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMHJvbGxzJTIwb3V0JTIwZmlyc3QlMjAlRTIlODAlOThiYWNrZ3JvdW5kJTIwc2VjdXJpdHklRTIlODAlOTklMjB1cGRhdGUlMjBmb3IlMjBpUGhvbmVzJTJDJTIwaVBhZHMlMkMlMjBhbmQlMjBNYWNzJTIwdG8lMjBmaXglMjBTYWZhcmklMjBidWd8ZW58MXwwfHx8MTc3Mzg1MjY2MHww&ixlib=rb-4.1.0&q=80&w=1080"
 ---
 
 ## Un nuevo tipo de actualización de seguridad llega a Apple

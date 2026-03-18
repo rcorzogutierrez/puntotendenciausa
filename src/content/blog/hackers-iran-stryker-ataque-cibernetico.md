@@ -3,7 +3,7 @@ title: "Hackers pro-Irán borran miles de dispositivos de Stryker en ataque sin 
 description: "Stryker sufre ataque cibernético masivo de hackers pro-Irán. Miles de dispositivos borrados en represalia por política exterior de Trump."
 pubDate: "2026-03-18"
 category: "Tecnología"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1600&q=85"
 ---
 
 ## Un ataque que paraliza operaciones en Estados Unidos
