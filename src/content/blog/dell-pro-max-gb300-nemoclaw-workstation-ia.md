@@ -3,7 +3,7 @@ title: "Dell Pro Max: la workstation de IA que pesa 85 libras"
 description: "Dell y Nvidia anunciaron en GTC 2026 la workstation con GB300 y NemoClaw. 20 petaFLOPS, 784 GB de RAM unificada y agentes de IA que corren sin la nube."
 pubDate: "2026-03-18"
 category: "Inteligencia Artificial"
-heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=85"
 ---
 
 Cuando Dell publicó en X "we heard you like seafood", mucha gente no entendió el chiste. Pero si estás siguiendo la tecnología de IA en 2026, el chiste es buenísimo — y la computadora detrás de él es aún más interesante.
