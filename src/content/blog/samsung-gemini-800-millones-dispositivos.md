@@ -6,7 +6,7 @@ heroImage: 'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=1200&
 category: 'Tecnología'
 ---
 
-Cuando escuchas "inteligencia artificial", probablemente piensas en tu teléfono o en una computadora. Samsung tiene otros planes. La compañía coreana anunció que para finales de 2026 quiere tener Gemini AI integrado en **800 millones de dispositivos** — y eso incluye tu televisor, tu lavadora y, sí, también tu nevera.
+Cuando escuchas "inteligencia artificial", probablemente piensas en tu teléfono o en una computadora. Samsung tiene otros planes. La compañía coreana anunció que para finales de 2026 quiere tener [Gemini AI](https://latendenciausa.web.app/blog/google-gemini-flash-lite-modelo-barato/) integrado en **800 millones de dispositivos** — y eso incluye tu televisor, tu lavadora y, sí, también tu nevera.
 
 No es un experimento. Es una apuesta total por convertirse en la empresa que lleva la IA a cada rincón del hogar.
 

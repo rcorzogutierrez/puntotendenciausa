@@ -24,7 +24,7 @@ Para los emprendedores latinos en USA que usan plataformas como Jira o Confluenc
 
 ## El futuro está aquí, y da miedo
 
-Lo que ves con Atlassian y Block es el futuro que muchos predicen: empresas más pequeñas en términos de personal, pero potencialmente más productivas gracias a la automatización y la IA. Los que se queden tendrán que ser especialistas. Los que se vayan... bueno, eso es otro cuento.
+Lo que ves con Atlassian y Block es el futuro que muchos predicen: empresas más pequeñas en términos de personal, pero potencialmente más productivas gracias a la [automatización y la IA](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/). Los que se queden tendrán que ser especialistas. Los que se vayan... bueno, eso es otro cuento.
 
 Para nosotros como comunidad latina en USA, esto es especialmente relevante porque muchos de nuestros hermanos y hermanas en la industria tech están sintiéndose la presión. El mercado laboral que hace unos años parecía infinito ahora se siente más competitivo que nunca.
 

@@ -10,7 +10,7 @@ Si eres seguidor de las innovaciones en vehículos eléctricos, seguramente has 
 
 ## Un golpe sobre la mesa en el día de inversores
 
-Durante su jornada de inversores, Lucid Motors no solo mostró este fascinante concepto, sino que también detalló sus ambiciones más amplias. Y no, no estamos hablando de cualquier cosa. La empresa está decidida a profundizar aún más en la tecnología autónoma mientras, simultáneamente, saca al mercado nuevos vehículos eléctricos que sean accesibles para la mayoría de nosotros.
+Durante su jornada de inversores, Lucid Motors no solo mostró este fascinante concepto, sino que también detalló sus ambiciones más amplias. Y no, no estamos hablando de cualquier cosa. La empresa está decidida a profundizar aún más en la [tecnología autónoma](https://latendenciausa.web.app/blog/boston-dynamics-atlas-fabricas-hyundai-robots/) mientras, simultáneamente, saca al mercado nuevos vehículos eléctricos que sean accesibles para la mayoría de nosotros.
 
 Entiende que esto es crucial. Muchas compañías hablan de autonomía, pero pocas realmente tienen un plan concreto para hacerlo realidad mientras mantienen los precios bajos. Lucid parece estar jugando un juego diferente aquí.
 

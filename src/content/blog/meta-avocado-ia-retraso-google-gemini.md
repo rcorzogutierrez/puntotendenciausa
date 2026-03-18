@@ -16,7 +16,7 @@ Las comparaciones internas habrían mostrado que Avocado queda por debajo de Gem
 
 ## El detalle que nadie esperaba: ¿Meta usando Gemini de Google?
 
-Aquí viene la parte que realmente sorprende. Según reportes filtrados esta semana, Meta estaría evaluando la posibilidad de licenciar temporalmente Gemini de Google para mantener operativas sus funciones de IA mientras Avocado termina de cocinarse.
+Aquí viene la parte que realmente sorprende. Según reportes filtrados esta semana, Meta estaría evaluando la posibilidad de licenciar temporalmente [Gemini de Google](https://latendenciausa.web.app/blog/google-gemini-flash-lite-modelo-barato/) para mantener operativas sus funciones de IA mientras Avocado termina de cocinarse.
 
 Piénsalo un momento. Meta y Google son competidores directos en publicidad digital, en datos de usuarios, en plataformas sociales. La idea de que Meta tenga que recurrir al modelo de su rival para no quedarse atrás en la carrera de IA dice mucho sobre lo complicado que se está poniendo este juego.
 
@@ -32,7 +32,7 @@ El problema es que en este campo, el dinero no garantiza resultados. Entrenar un
 
 Para la comunidad latina en USA, Meta no es una empresa abstracta. Es Facebook, es Instagram, es WhatsApp. Son las plataformas donde muchos de nosotros nos comunicamos con familia en México, en Colombia, en El Salvador. Son herramientas de trabajo para emprendedores, negocios locales y creadores de contenido.
 
-Meta lleva meses integrando funciones de IA en todas sus apps: asistentes de chat, herramientas de edición de fotos y video, recomendaciones más inteligentes de contenido. Si Avocado se retrasa o no da el nivel esperado, esas funciones se quedarán cortas frente a lo que ofrecen competidores como Google o Apple.
+Meta lleva meses integrando funciones de IA en todas sus apps: asistentes de chat, herramientas de edición de fotos y video, recomendaciones más inteligentes de contenido. Si Avocado se retrasa o no da el nivel esperado, esas funciones se quedarán cortas frente a lo que ofrecen competidores como Google o [Apple](https://latendenciausa.web.app/blog/apple-reinventa-siri-con-ia/).
 
 No significa que Instagram vaya a dejar de funcionar mañana. Pero sí significa que la experiencia de IA dentro de las apps de Meta podría quedarse rezagada durante meses respecto a lo que ofrece la competencia.
 

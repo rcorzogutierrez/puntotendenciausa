@@ -10,7 +10,7 @@ Seamos honestos: Siri nunca fue el asistente que prometía ser. Durante años lo
 
 ## De asistente básico a IA contextual
 
-Apple anunció una colaboración que pocos anticipaban: integrar el modelo **Gemini de Google** directamente en Siri. No como reemplazo, sino como una capa de inteligencia más profunda que le permite al asistente hacer algo que antes simplemente no podía: *entender lo que está pasando en tu pantalla*.
+Apple anunció una colaboración que pocos anticipaban: integrar el modelo [**Gemini de Google**](https://latendenciausa.web.app/blog/google-gemini-flash-lite-modelo-barato/) directamente en Siri. No como reemplazo, sino como una capa de inteligencia más profunda que le permite al asistente hacer algo que antes simplemente no podía: *entender lo que está pasando en tu pantalla*.
 
 Esto es un cambio radical. Antes, Siri vivía en su propia burbuja, desconectado de lo que hacías en tu teléfono. Ahora puede leer el contexto de una conversación en WhatsApp y ayudarte a redactar una respuesta, ver un correo con una dirección y abrirla directamente en Maps, o entender que estás comparando vuelos en Safari y darte información adicional sin que tengas que explicarle nada.
 
