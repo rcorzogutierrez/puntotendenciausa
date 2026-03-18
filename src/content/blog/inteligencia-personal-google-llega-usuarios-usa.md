@@ -44,4 +44,3 @@ Si tienes una cuenta de Google activa en Estados Unidos, prepárate para esta nu
 
 Entonces, ¿ya estás listo para probar la Inteligencia Personal de Google, o prefieres esperar a ver cómo otros usuarios lo experimentan primero?
 
-SLUG: inteligencia-personal-google-llega-usuarios-usa

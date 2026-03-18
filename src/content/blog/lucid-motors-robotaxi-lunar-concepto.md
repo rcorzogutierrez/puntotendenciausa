@@ -40,4 +40,3 @@ Lucid está apostando fuerte al futuro, y el concepto "Lunar" es prueba de ello.
 
 **¿Tú qué piensas? ¿Te subirías en un robotaxi completamente autónomo si estuviera disponible en tu ciudad? ¿Crees que Lucid pueda competir con Tesla en el mercado de masas?**
 
-SLUG: lucid-motors-robotaxi-lunar-concepto

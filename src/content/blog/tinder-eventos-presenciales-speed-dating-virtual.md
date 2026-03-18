@@ -26,4 +26,3 @@ Los eventos presenciales y el speed dating virtual podrían ser justamente lo qu
 
 ¿Tú crees que estos cambios serían suficientes para que volvieras a usar Tinder, o prefieres las alternativas que ya existen en el mercado?
 
-SLUG: tinder-eventos-presenciales-speed-dating-virtual

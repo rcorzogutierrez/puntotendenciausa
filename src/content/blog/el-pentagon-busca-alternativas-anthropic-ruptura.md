@@ -24,7 +24,7 @@ Esto plantea una pregunta incómoda: ¿Quién va a estar desarrollando la IA par
 
 ## El lado ético del asunto
 
-Aquí es donde las cosas se ponen interesantes. Anthropic ha sido bastante vocal sobre la importancia de desarrollar IA de forma segura y responsable. Su rechazo a ciertos proyectos militares podría interpretarse como "tomar una posición ética" o, desde otro ángulo, como "perder un contrato jugoso". 
+Aquí es donde las cosas se ponen interesantes. Anthropic ha sido bastante vocal sobre la importancia de desarrollar IA de forma segura y responsable. Su rechazo a ciertos proyectos militares podría interpretarse como "tomar una posición ética" o, desde otro ángulo, como "perder un contrato jugoso".
 
 La realidad es probablemente una mezcla de ambas. Las compañías de tecnología tienen que equilibrar sus principios con su supervivencia comercial. Es un acto de funambulista constante.
 
@@ -38,4 +38,3 @@ La industria de IA sigue evolucionando, y estos movimientos estratégicos entre 
 
 ¿Tú crees que Anthropic hizo bien en alejarse del Pentágono, o crees que debería haber buscado una forma de trabajar juntos?
 
-SLUG: el-pentagon-busca-alternativas-anthropic-ruptura

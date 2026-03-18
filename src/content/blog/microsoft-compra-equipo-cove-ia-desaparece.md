@@ -16,7 +16,7 @@ Este escenario es familiar en el ecosistema de startups. No es que Cove haya fra
 
 ## Por qué Microsoft sigue comprando equipos de IA
 
-Microsoft ha estado en una carrera acelerada para mantener su posición dominante en inteligencia artificial. Con OpenAI como su aliado principal y millones invertidos en infraestructura, la compañía necesita talento de primer nivel para ejecutar su visión. 
+Microsoft ha estado en una carrera acelerada para mantener su posición dominante en inteligencia artificial. Con OpenAI como su aliado principal y millones invertidos en infraestructura, la compañía necesita talento de primer nivel para ejecutar su visión.
 
 Mientras tanto, [Anthropic ya vale $380 mil millones y se prepara para salir a bolsa](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/), lo que significa que la competencia por talento está más feroz que nunca. Microsoft no puede permitirse quedarse atrás cuando hay equipos brillantes construyendo las próximas generaciones de herramientas colaborativas con IA.
 
@@ -38,5 +38,3 @@ Esto no significa que todas las startups de IA desaparecerán. Algunas encontrar
 
 ---
 
-SLUG: microsoft-compra-equipo-cove-ia-desaparece
-IMAGE_QUERY: Microsoft office AI collaboration team

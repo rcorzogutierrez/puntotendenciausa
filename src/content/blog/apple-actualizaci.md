@@ -20,7 +20,7 @@ Es como si Apple hubiera estado esperando a renovar toda tu casa para reparar un
 
 ## La vulnerabilidad en Safari y por qué debería importarte
 
-Safari es el navegador que viene preinstalado en tu iPhone, iPad o Mac. Millones de latinos en USA lo usamos a diario para ver redes sociales, hacer compras online, revisar el correo y todo lo demás. 
+Safari es el navegador que viene preinstalado en tu iPhone, iPad o Mac. Millones de latinos en USA lo usamos a diario para ver redes sociales, hacer compras online, revisar el correo y todo lo demás.
 
 Resulta que descubrieron un fallo de seguridad que podría permitir que alguien acceda a información que no debería. Apple no dio muchos detalles técnicos sobre la vulnerabilidad, pero eso es normal. No quieren que los ciberdelincuentes sepan exactamente qué explotar antes de que todos actualicemos nuestros dispositivos. Y no es un temor exagerado: hace poco vimos cómo [hackers pro-Irán borraron miles de dispositivos de Stryker](/blog/hackers-iran-stryker-ataque-cibernetico) en uno de los ataques más destructivos que ha vivido una empresa estadounidense.
 
@@ -50,4 +50,3 @@ Lo importante es recordar que la seguridad de tus dispositivos siempre debe ser 
 
 ¿Ya habías notado que Safari ha mejorado su seguridad últimamente, o prefieres usar un navegador diferente en tus dispositivos Apple?
 
-SLUG: apple-actualización-seguridad-safari-iphone-ipad-mac

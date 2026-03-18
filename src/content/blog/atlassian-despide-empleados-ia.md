@@ -36,4 +36,3 @@ Pero eso no significa que debamos aceptar esto sin cuestionarlo. Es importante q
 
 La pregunta real que todos nos hacemos es: ¿esto es progreso inevitable o es simplemente una forma más agresiva de maximizar ganancias a costa del bienestar de los trabajadores?
 
-SLUG: atlassian-despide-empleados-ia

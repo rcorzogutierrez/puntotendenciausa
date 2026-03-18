@@ -38,4 +38,3 @@ Para nosotros como usuarios y ciudadanos latinos en USA, esto significa que los 
 
 ¿Crees que las grandes compañías de tecnología deberían hacer más para usar energía limpia, o crees que Google está en el camino correcto? Déjanos tus pensamiento en los comentarios.
 
-SLUG: la-nueva-estrategia-de-google-para-energizar-sus-data-centers

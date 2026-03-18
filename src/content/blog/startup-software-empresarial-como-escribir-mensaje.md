@@ -46,5 +46,3 @@ Para los trabajadores latinos especialmente, esto es enorme. Menos barreras de l
 
 ¿Te imaginas tener que aprender menos sistemas complicados en tu próximo trabajo en una corporación? ¿Crees que esto llegaría a revolucionar de verdad cómo trabajan las empresas, o es solo otra promesa tech que no llega?
 
-SLUG: startup-software-empresarial-como-escribir-mensaje
-IMAGE_QUERY: AI enterprise software interface conversation

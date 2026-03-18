@@ -55,5 +55,3 @@ La realidad es que en 2026, los ataques cibernéticos a esta escala ya no son la
 
 ---
 
-SLUG: marquis-ransomware-672000-datos-robados
-IMAGE_QUERY: ransomware cyber attack data breach

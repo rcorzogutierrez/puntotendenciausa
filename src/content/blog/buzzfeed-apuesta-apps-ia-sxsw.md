@@ -40,4 +40,3 @@ BuzzFeed une a gente que quiere entretenimiento y contenido divertido. Si sus nu
 
 ¿Crees que BuzzFeed debería enfocarse en lo que alguna vez los hizo especiales, o crees que la IA es realmente el futuro para ellos? Cuéntanos en los comentarios.
 
-SLUG: buzzfeed-apuesta-apps-ia-sxsw

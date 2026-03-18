@@ -44,4 +44,3 @@ Cada búsqueda en Kagi es un voto por un internet diferente. Un internet donde l
 
 Así que la pregunta es: ¿estás listo para intentar algo diferente? ¿Darías una oportunidad a un buscador que respeta tu privacidad y te presenta la verdadera riqueza de internet?
 
-SLUG: kagi-small-web-moviles-internet-autentico

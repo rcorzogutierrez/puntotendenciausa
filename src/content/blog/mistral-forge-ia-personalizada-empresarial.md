@@ -3,7 +3,7 @@ title: "Mistral desafía a OpenAI con 'crea tu propia IA': el futuro empresarial
 description: "Mistral Forge permite a empresas entrenar modelos de IA personalizados desde cero. La competencia contra OpenAI y Anthropic se intensifica en el segmento empresarial."
 pubDate: "2026-03-18"
 category: "Tecnología"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=80"
 ---
 
 Mientras OpenAI y Anthropic dominan los titulares con sus valuaciones millonarias, Mistral está jugando un juego diferente. La startup francesa acaba de lanzar Mistral Forge, una plataforma que promete algo revolucionario: dejar que las empresas entrenen sus propios modelos de IA desde cero, sin depender de ajustes finos ni trucos de recuperación de datos. Es un movimiento audaz que podría cambiar cómo las compañías grandes acceden a la inteligencia artificial.
@@ -49,4 +49,3 @@ Si trabajas en una empresa grande, la pregunta ya no es "¿usamos OpenAI o Anthr
 
 ¿Tu empresa ya está pensando en entrenar su propio modelo de IA, o crees que siempre dependerá de terceros?
 
-SLUG: mistral-forge-ia-personalizada-empresarial

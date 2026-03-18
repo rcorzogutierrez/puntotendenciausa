@@ -3,7 +3,7 @@ title: "El setup de Claude Code de Garry Tan genera amor y odio en la comunidad 
 description: "El setup viral de Claude Code compartido por Garry Tan en GitHub desata opiniones encontradas. Hasta Claude, ChatGPT y Gemini tienen algo que decir al respecto."
 pubDate: "2026-03-18"
 category: "Tecnología"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80"
 ---
 
 Garry Tan, CEO de Y Combinator, compartió en GitHub un setup de Claude Code que se volvió viral en horas. Miles de desarrolladores lo probaron, y la reacción ha sido... digamos que polarizada. Algunos celebran como si hubieran encontrado el Santo Grial del desarrollo de software. Otros critican sin piedad. Y lo más absurdo: hasta los modelos de IA están opinando sobre él.
@@ -44,4 +44,3 @@ La respuesta, como siempre, es matizada. El setup de Garry Tan es una herramient
 
 ¿Ya probaste el setup de Claude Code? ¿Te parece un gamechanger o crees que los puristas tienen razón?
 
-SLUG: setup-claude-code-garry-tan-amor-odio

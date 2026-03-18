@@ -43,4 +43,3 @@ Para aquellos de nosotros que trabajamos en tech o somos emprendedores, esto abr
 
 ¿Crees que es positivo que el gobierno use IA en sus operaciones, o te preocupa algo sobre esto?
 
-SLUG: openai-expande-gobierno-acuerdo-aws
