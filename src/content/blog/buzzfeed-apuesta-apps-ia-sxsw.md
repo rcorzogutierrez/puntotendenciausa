@@ -3,7 +3,7 @@ title: "BuzzFeed apuesta por apps de IA para salvarse financieramente"
 description: "BuzzFeed presenta nuevas aplicaciones impulsadas por IA en SXSW, pero las demostraciones no generaron el entusiasmo esperado entre los asistentes."
 pubDate: "2026-03-18"
 category: "Tecnología"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&q=85"
 ---
 
 ## El último intento de BuzzFeed por reinventarse
