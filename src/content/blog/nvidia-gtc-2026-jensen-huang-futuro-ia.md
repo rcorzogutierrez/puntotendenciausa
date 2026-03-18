@@ -3,7 +3,7 @@ title: "Nvidia GTC 2026: Jensen Huang revela el futuro de la IA más allá de lo
 description: "En su conferencia anual GTC, Nvidia presenta su hoja de ruta para dominar la IA de inferencia, agentes y redes. Lo que significa para el futuro tecnológico."
 pubDate: "2026-03-13"
 category: "Inteligencia Artificial"
-heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1600&q=85"
 ---
 
 Si hay un evento en el mundo tecnológico que genera más expectativa que el keynote de Apple, ese es el GTC de Nvidia. Y esta semana, Jensen Huang vuelve al escenario con su icónica chaqueta de cuero para presentar lo que viene. Las expectativas están altísimas porque Nvidia ya no es solo la empresa que hace las tarjetas gráficas de tu computadora. Es, en este momento, una de las piezas más críticas de toda la industria de la inteligencia artificial.

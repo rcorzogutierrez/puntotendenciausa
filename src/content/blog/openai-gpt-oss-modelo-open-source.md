@@ -3,7 +3,7 @@ title: "OpenAI lanza su primer modelo open source desde GPT-2"
 description: "OpenAI rompe años de secretismo y publica gpt-oss, un modelo de 120B parámetros con licencia Apache 2.0 que cualquiera puede descargar y usar gratis."
 pubDate: "2026-03-14"
 category: "Inteligencia Artificial"
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1600&q=85"
 ---
 
 Durante años, OpenAI fue sinónimo de inteligencia artificial de pago, cerrada y controlada. La empresa que nació con una misión de código abierto terminó siendo una de las más herméticas del sector. Por eso cuando anunciaron gpt-oss, el primer modelo de pesos abiertos desde GPT-2 en 2019, la comunidad de desarrolladores literalmente no lo podía creer.

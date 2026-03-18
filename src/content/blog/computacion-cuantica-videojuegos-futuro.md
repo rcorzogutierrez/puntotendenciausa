@@ -3,7 +3,7 @@ title: "Computación cuántica y videojuegos: ¿qué va a cambiar?"
 description: "Ya existe un juego en Roblox cuyos niveles se generan con computadoras cuánticas reales. Esto es lo que la computación cuántica puede — y no puede — hacer por los videojuegos."
 pubDate: "2026-03-18"
 category: "Ciencia"
-heroImage: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1600&q=85"
 ---
 
 El año pasado, en la feria Gamescom 2025, una empresa llamada MOTH presentó algo que nadie había visto antes: un juego multijugador masivo en Roblox llamado *Space Moths* donde cada nivel es generado en tiempo real por una computadora cuántica real. No simulada, no metafórica — hardware cuántico físico de IBM y del instituto de investigación VTT en Finlandia, de 50 qubits superconductores, creando mundos que ningún algoritmo clásico habría podido producir igual.

@@ -3,7 +3,7 @@ title: "Los robots de Boston Dynamics ya trabajan en fábricas reales"
 description: "Boston Dynamics despliega su robot Atlas en plantas de Hyundai con capacidad para 30,000 unidades anuales. La IA física llega a la manufactura industrial en 2026."
 pubDate: "2026-03-14"
 category: "Tecnología"
-heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1600&q=85"
 ---
 
 Durante años, Boston Dynamics fue famosa por videos virales de robots haciendo parkour, bailando, subiendo escaleras. Impresionante en YouTube, pero siempre quedaba la pregunta: ¿cuándo va a servir para algo real? Esta semana llegó la respuesta. Atlas, el robot humanoide estrella de Boston Dynamics, comenzó su despliegue en plantas de fabricación de Hyundai con una capacidad de producción de 30,000 unidades anuales.

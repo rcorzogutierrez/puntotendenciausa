@@ -3,7 +3,7 @@ title: "EE.UU. lanza la Misión Génesis: cómo Trump quiere ganar la carrera de
 description: "La administración Trump lanza la Misión Génesis para usar IA en energía, defensa y ciencia. Dell y el Departamento de Energía lideran el plan de supercomputación."
 pubDate: "2026-03-13"
 category: "Tecnología"
-heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=85"
 ---
 
 La carrera por la inteligencia artificial ya no es solo entre empresas. Ahora es una competencia entre naciones, y el gobierno de Estados Unidos acaba de hacer un movimiento importante. La administración Trump anunció esta semana la Misión Génesis, un plan federal para aplicar IA y tecnologías emergentes a los sectores más estratégicos del país: energía, defensa, descubrimiento de medicamentos y ciencia. El objetivo es claro: que EE.UU. no solo lidere la IA comercial sino también la IA que determina el futuro de la seguridad nacional y el bienestar de sus ciudadanos.

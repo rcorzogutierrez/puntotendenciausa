@@ -3,7 +3,7 @@ title: "SpaceX compra xAI: la fusión más grande de la historia"
 description: "SpaceX adquirió xAI de Elon Musk en $1.25 billones, superando cualquier fusión anterior. Centros de datos en órbita, IPO inminente y el Muskonomy."
 pubDate: "2026-03-16"
 category: "Inteligencia Artificial"
-heroImage: "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?w=1600&q=85"
 ---
 
 El 2 de febrero de 2026 quedará en los libros de historia corporativa. Elon Musk anunció que SpaceX adquirió xAI —su propia startup de inteligencia artificial— en una transacción valorada en **$1.25 billones de dólares**. No es un error tipográfico: billones con "b". La fusión más grande de todos los tiempos, superando incluso la histórica compra de Mannesmann por Vodafone en el año 2000, que durante 25 años ostentó ese récord.

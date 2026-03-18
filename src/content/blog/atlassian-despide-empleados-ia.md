@@ -3,7 +3,7 @@ title: "Atlassian despide al 10% de su personal para invertir más en IA"
 description: "Atlassian sigue el ejemplo de Block y recorta 1,600 empleados para financiar su estrategia de inteligencia artificial"
 pubDate: "2026-03-13"
 category: "Tecnología"
-heroImage: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1600&q=85"
 ---
 
 Hermano, aquí vamos de nuevo. Otra mega empresa tecnológica decidió que lo mejor para 2026 es despedir gente y apostar todo a la inteligencia artificial. Atlassian, la compañía detrás de herramientas que usan millones de desarrolladores en todo el mundo (incluyendo muchos de nosotros los latinos en USA), acaba de anunciar que está cortando 1,600 empleados, lo que representa aproximadamente el 10% de su fuerza laboral.

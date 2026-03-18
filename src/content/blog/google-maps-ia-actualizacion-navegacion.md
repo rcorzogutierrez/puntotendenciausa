@@ -3,7 +3,7 @@ title: "Google Maps se reinventa con IA y cambia cómo te mueves"
 description: "Google rediseña Maps con inteligencia artificial y Gemini integrado: navegación inmersiva, búsqueda conversacional y recomendaciones que aprenden tus hábitos."
 pubDate: "2026-03-14"
 category: "Tecnología"
-heroImage: "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1600&q=85"
 ---
 
 Google Maps lleva más de veinte años siendo la app de navegación más usada del planeta. En todo ese tiempo ha recibido actualizaciones, nuevas capas, mejoras en el tráfico. Pero lo que acaba de presentar Google esta semana es diferente. No es una actualización incremental. Es la mayor transformación de la app desde que Google compró Where 2 Technologies en 2004 y la convirtió en lo que conocemos hoy.

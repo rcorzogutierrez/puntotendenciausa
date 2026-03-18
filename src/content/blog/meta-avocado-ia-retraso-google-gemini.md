@@ -3,7 +3,7 @@ title: "El plan de IA de Meta está en problemas: retrasa su modelo y considera 
 description: "El modelo de IA Avocado de Meta se retrasa hasta mayo y su rendimiento decepciona. Meta estaría considerando licenciar Gemini de Google temporalmente."
 pubDate: "2026-03-13"
 category: "Inteligencia Artificial"
-heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=85"
 ---
 
 Cuando Meta anunció que fichaba a Alexandr Wang, el fundador de Scale AI, por una cifra que rondó los $14.3 mil millones, la señal era clara: Mark Zuckerberg iba en serio con la inteligencia artificial. Se armó un equipo de élite, se invirtió a lo grande y se prometió que Meta iba a competir con lo mejor de OpenAI, Google y Anthropic. Pues bien, la realidad está resultando más complicada que el plan.

@@ -3,7 +3,7 @@ title: "Microsoft quiere que pagues por sus agentes de IA como si fueran emplead
 description: "Microsoft lanza Microsoft 365 E7 a $99 por usuario al mes. Los agentes de IA tendrán email, cuenta Teams y OneDrive propios, igual que un empleado humano."
 pubDate: "2026-03-13"
 category: "Inteligencia Artificial"
-heroImage: "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=1600&q=85"
 ---
 
 Imagínate que tu jefe te dice que la empresa contrató a un nuevo compañero de trabajo. Tiene correo electrónico, cuenta de Teams, acceso a OneDrive y hasta su propia identidad digital en el sistema. La diferencia es que no es una persona: es un agente de inteligencia artificial. Y Microsoft quiere que tu empresa lo pague igual que si fuera un empleado.
