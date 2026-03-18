@@ -44,5 +44,3 @@ La pregunta final es la de siempre en la industria tech: ¿Prefieres una experie
 
 ---
 
-SLUG: sequen-levanta-16-millones-personalizacion-ia
-IMAGE_QUERY: AI algorithm personalization technology

@@ -42,4 +42,3 @@ Si eres de esos latinos que siempre andan ocupados—entre trabajos, familia y r
 
 Ahora bien, la pregunta que todos deberíamos hacernos es: ¿confiarías en un agente de IA para manejar tus compras en línea si estuviera completamente verificado y seguro? ¿Cuáles serían tus principales preocupaciones antes de usarlo?
 
-SLUG: herramienta-verifica-humanos-agentes-compras-ia

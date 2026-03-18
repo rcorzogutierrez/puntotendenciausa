@@ -3,7 +3,7 @@ title: "Arizona acusa a Kalshi de operar un negocio de juego ilegal: la batalla 
 description: "Arizona presenta los primeros cargos criminales contra Kalshi. La plataforma de predicciones enfrenta reguladores estatales que cuestionan si es realmente legal."
 pubDate: "2026-03-18"
 category: "Tecnología"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&q=80"
 ---
 
 La batalla entre las plataformas de apuestas de predicción y los reguladores estatales acaba de entrar en territorio mucho más peligroso. Arizona acaba de presentar los primeros cargos criminales contra Kalshi, la popular plataforma que permite a usuarios apostar sobre eventos políticos, climáticos y de otra índole. Y esto no es solo un golpe legal más: es la señal de que los estados están listos para jugar duro contra una industria que ha estado operando en una zona gris legal durante años.
@@ -37,5 +37,3 @@ Este es apenas el primer movimiento en lo que probablemente será una guerra pro
 Mientras tanto, la industria de fintech y las plataformas que operan en espacios legales grises están recibiendo un recordatorio claro: los reguladores estatales no se van a quedar de brazos cruzados mientras los negocios miles de millones de dólares evaden la supervisión. La era de operar sin reglas ya está terminando.
 
 ¿Crees que Kalshi debería estar regulada como un casino, o las plataformas de predicción son realmente algo diferente?
-
-SLUG: arizona-kalshi-cargos-criminales-apuestas-ilegales

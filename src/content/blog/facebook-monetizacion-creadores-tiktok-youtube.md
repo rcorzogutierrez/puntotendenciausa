@@ -59,5 +59,3 @@ La estrategia de Meta es clara: no pueden ganarle a TikTok en viralidad ni a You
 
 ---
 
-SLUG: facebook-monetizacion-creadores-tiktok-youtube
-IMAGE_QUERY: Facebook creator monetization earnings

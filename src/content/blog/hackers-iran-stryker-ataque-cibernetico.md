@@ -42,4 +42,3 @@ Este ataque es un recordatorio importante de que la seguridad cibernética no es
 
 ¿Has pensado alguna vez en cómo tu información personal está protegida en las empresas que usas? ¿Crees que deberían haber mayores regulaciones para proteger nuestros datos ante estos ataques?
 
-SLUG: hackers-iran-stryker-ataque-cibernetico

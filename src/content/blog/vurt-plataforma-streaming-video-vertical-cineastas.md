@@ -20,7 +20,7 @@ La plataforma permite que cineastas independientes suban sus producciones y mone
 
 ## Por qué esto importa para creadores latinos
 
-En la comunidad latina aquí en USA, tenemos talento de sobra. Músicos, actores, directores y productores que crean contenido increíble pero muchas veces no encuentran las plataformas adecuadas para monetizar su trabajo. 
+En la comunidad latina aquí en USA, tenemos talento de sobra. Músicos, actores, directores y productores que crean contenido increíble pero muchas veces no encuentran las plataformas adecuadas para monetizar su trabajo.
 
 Vurt cambia ese juego. Imagina que eres un director de una pequeña ciudad que crea mini-series en formato vertical. Con Vurt, puedes llegar directamente a millones de usuarios sin necesidad de pasar por Hollywood o por las decisiones de algoritmos complicados de plataformas masivas.
 
@@ -42,4 +42,3 @@ Si creas contenido en video, tienes historias que contar, y quieres tener contro
 
 La pregunta ahora es: ¿tienes historias esperando ser contadas en formato vertical? ¿Estás listo para llevar tu contenido a una plataforma que realmente lo entienda?
 
-SLUG: vurt-plataforma-streaming-video-vertical-cineastas

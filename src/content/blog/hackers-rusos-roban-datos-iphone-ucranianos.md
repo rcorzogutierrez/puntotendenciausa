@@ -50,5 +50,3 @@ Lo que sí está claro es que la seguridad móvil se ha convertido en un asunto 
 
 ¿Has notado comportamientos extraños en tu iPhone últimamente? ¿Crees que las autoridades deberían obligar a las empresas tecnológicas a revelar más sobre sus vulnerabilidades conocidas?
 
-SLUG: hackers-rusos-roban-datos-iphone-ucranianos
-IMAGE_QUERY: iPhone hacking cyberattack russia
