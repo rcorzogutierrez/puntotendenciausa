@@ -22,11 +22,11 @@ Ya está disponible en Hugging Face y Ollama, las dos plataformas que más usa l
 
 ## Por qué OpenAI cambia de postura ahora
 
-La respuesta honesta tiene que ver con la competencia. DeepSeek, el laboratorio chino de IA, demostró que es posible construir modelos de clase mundial con una fracción del presupuesto de OpenAI y publicarlos abiertamente. Meta lleva años publicando su familia LLaMA. Mistral, empresa francesa, se ha posicionado como la alternativa open source más seria de Europa.
+La respuesta honesta tiene que ver con la competencia. DeepSeek, el laboratorio chino de IA, demostró que es posible construir modelos de clase mundial con una fracción del presupuesto de OpenAI y publicarlos abiertamente. [Meta](https://latendenciausa.web.app/blog/meta-avocado-ia-retraso-google-gemini/) lleva años publicando su familia LLaMA. Mistral, empresa francesa, se ha posicionado como la alternativa open source más seria de Europa.
 
 OpenAI vio que su hermetismo le estaba costando influencia entre desarrolladores. Si los programadores construyen sus proyectos sobre LLaMA o Mistral, aprenden esos ecosistemas, desarrollan herramientas para esos modelos, y eventualmente las empresas que los contratan los usan en producción. OpenAI se quedaba fuera de esa parte del mercado.
 
-Con gpt-oss, OpenAI entra de lleno al juego open source sin renunciar a sus productos comerciales. GPT-5 y sus modelos premium siguen existiendo para quienes quieran las capacidades máximas. gpt-oss es para el ecosistema de desarrolladores que construyen cosas propias.
+Con gpt-oss, OpenAI entra de lleno al juego open source sin renunciar a sus productos comerciales. [GPT-5](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) y sus modelos premium siguen existiendo para quienes quieran las capacidades máximas. gpt-oss es para el ecosistema de desarrolladores que construyen cosas propias.
 
 ## Qué significa para la comunidad latina
 

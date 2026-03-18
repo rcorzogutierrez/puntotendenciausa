@@ -34,7 +34,7 @@ Para la comunidad latina, la respuesta honesta depende de dónde estés y qué n
 
 En Estados Unidos, los 799 dólares siguen siendo una inversión importante, pero por primera vez Apple ofrece algo que puede competir de frente con laptops Windows de gama media-alta como la Dell XPS o la HP Spectre, que rondan precios similares. La diferencia es que el sistema operativo, la integración con iPhone y la duración de batería del Neo son argumentos reales.
 
-Para quien ya vive en el ecosistema Apple — tiene iPhone, usa iCloud, comparte fotos con familia — el Neo elimina la fricción de tener una computadora que no habla el mismo idioma que el resto de sus dispositivos. Para quien viene de Windows y considera cambiar, reduce el costo de esa decisión a su mínimo histórico.
+Para quien ya vive en el [ecosistema Apple](https://latendenciausa.web.app/blog/apple-reinventa-siri-con-ia/) — tiene iPhone, usa iCloud, comparte fotos con familia — el Neo elimina la fricción de tener una computadora que no habla el mismo idioma que el resto de sus dispositivos. Para quien viene de Windows y considera cambiar, reduce el costo de esa decisión a su mínimo histórico.
 
 La trampa a evitar: si sabes que en un año vas a necesitar más potencia, es mejor estirar el presupuesto hasta el Air desde el principio. El Neo es una gran laptop, pero no es infinitamente escalable.
 

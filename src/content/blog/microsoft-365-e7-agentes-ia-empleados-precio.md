@@ -14,7 +14,7 @@ Eso es exactamente lo que está pasando con el nuevo **Microsoft 365 E7**, el pl
 
 E7 es la nueva capa premium de Microsoft 365 que combina tres productos en uno: el plan E5 de siempre, Microsoft 365 Copilot, y algo nuevo llamado **Agent 365**.
 
-Agent 365 es el corazón de todo esto. Es una plataforma que permite a las empresas gestionar, supervisar y controlar sus agentes de IA usando exactamente los mismos sistemas que usan para gestionar empleados humanos: Entra ID para identidades, Teams para comunicación, OneDrive para archivos, Defender para seguridad.
+Agent 365 es el corazón de todo esto. Es una plataforma que permite a las empresas gestionar, supervisar y controlar sus [agentes de IA](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/) usando exactamente los mismos sistemas que usan para gestionar empleados humanos: Entra ID para identidades, Teams para comunicación, OneDrive para archivos, Defender para seguridad.
 
 La lógica de Microsoft es directa: si los agentes de IA van a trabajar dentro de tu empresa, necesitan infraestructura igual que cualquier otro trabajador. Y si necesitan infraestructura, alguien tiene que pagarla.
 
@@ -28,7 +28,7 @@ Microsoft lo justifica argumentando que E7 incluye todo lo del E5 más Copilot m
 
 ## La apuesta que hay detrás de este movimiento
 
-Hay algo que Microsoft dijo abiertamente y que vale la pena entender bien. La empresa espera que muchas compañías reduzcan su plantilla de empleados humanos debido a la automatización con IA, lo que significa que venderán menos licencias de usuario tradicionales. E7 es la respuesta de Microsoft a ese problema: si las empresas tienen menos humanos pero más agentes, Microsoft quiere cobrar por los agentes también.
+Hay algo que Microsoft dijo abiertamente y que vale la pena entender bien. La empresa espera que muchas compañías [reduzcan su plantilla de empleados humanos](https://latendenciausa.web.app/blog/meta-despide-16000-empleados-apuesta-ia/) debido a la automatización con IA, lo que significa que venderán menos licencias de usuario tradicionales. E7 es la respuesta de Microsoft a ese problema: si las empresas tienen menos humanos pero más agentes, Microsoft quiere cobrar por los agentes también.
 
 Es un movimiento brillante desde el punto de vista financiero. Microsoft no pierde cuando las empresas reemplazan empleados con IA, porque esos agentes de IA necesitan sus herramientas y su infraestructura para funcionar.
 
