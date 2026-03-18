@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1668853907313-3334ad773a39?crop=en
 
 Google ha sido durante años un defensor de la energía limpia para sus operaciones, pero lo que está pasando ahora es diferente. Los últimos acuerdos que ha hecho la compañía muestran un cambio importante en la forma en que está obteniendo la energía que necesita para mantener en funcionamiento sus enormes data centers alrededor del mundo.
 
-Si eres alguien que usa Gmail, YouTube o cualquier servicio de Google diariamente, entonces estás usando la electricidad que alimenta estos centros de datos. Y créeme, consumen **muchísima** energía. Por eso, la forma en que Google elige obtener esa energía es importante no solo para la compañía, sino también para el planeta.
+Si eres alguien que usa Gmail, YouTube o cualquier servicio de Google diariamente, entonces estás usando la electricidad que alimenta estos centros de datos. Y créeme, consumen **muchísima** energía. Por eso, la forma en que Google elige obtener esa energía es importante no solo para la compañía, sino también para el planeta. Y esos data centers cada vez necesitan más potencia: funciones como la [nueva Inteligencia Personal de Google](/blog/inteligencia-personal-google-llega-usuarios-usa), que procesa tu Gmail, Fotos y Calendario en tiempo real, son extremadamente demandantes computacionalmente.
 
 ## ¿Qué está cambiando en la estrategia de Google?
 
@@ -34,7 +34,7 @@ Los nuevos acuerdos que Google está haciendo muestran que la compañía está i
 
 Lo que está claro es que Google, al igual que otras grandes tecnológicas, está dándose cuenta de que la energía limpia no es una opción, es una necesidad. Y cuanto más innovadoras sean sus estrategias para obtener esa energía, mejor será para todos.
 
-Para nosotros como usuarios y ciudadanos latinos en USA, esto significa que los servicios que usamos diariamente estarán alimentados cada vez más por fuentes limpias. Es un paso en la dirección correcta, aunque todavía hay mucho camino por recorrer.
+Para nosotros como usuarios y ciudadanos latinos en USA, esto significa que los servicios que usamos diariamente estarán alimentados cada vez más por fuentes limpias. Es un paso en la dirección correcta, aunque todavía hay mucho camino por recorrer. No es solo Google: NVIDIA también está enfrentando el reto energético de la IA en su [conferencia GTC 2026 donde Jensen Huang presentó el futuro de los chips de inteligencia artificial](/blog/nvidia-gtc-2026-jensen-huang-futuro-ia).
 
 ¿Crees que las grandes compañías de tecnología deberían hacer más para usar energía limpia, o crees que Google está en el camino correcto? Déjanos tus pensamiento en los comentarios.
 

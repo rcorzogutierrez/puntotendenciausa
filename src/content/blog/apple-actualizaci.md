@@ -22,7 +22,7 @@ Es como si Apple hubiera estado esperando a renovar toda tu casa para reparar un
 
 Safari es el navegador que viene preinstalado en tu iPhone, iPad o Mac. Millones de latinos en USA lo usamos a diario para ver redes sociales, hacer compras online, revisar el correo y todo lo demás. 
 
-Resulta que descubrieron un fallo de seguridad que podría permitir que alguien acceda a información que no debería. Apple no dio muchos detalles técnicos sobre la vulnerabilidad, pero eso es normal. No quieren que los ciberdelincuentes sepan exactamente qué explotar antes de que todos actualicemos nuestros dispositivos.
+Resulta que descubrieron un fallo de seguridad que podría permitir que alguien acceda a información que no debería. Apple no dio muchos detalles técnicos sobre la vulnerabilidad, pero eso es normal. No quieren que los ciberdelincuentes sepan exactamente qué explotar antes de que todos actualicemos nuestros dispositivos. Y no es un temor exagerado: hace poco vimos cómo [hackers pro-Irán borraron miles de dispositivos de Stryker](/blog/hackers-iran-stryker-ataque-cibernetico) en uno de los ataques más destructivos que ha vivido una empresa estadounidense.
 
 ## ¿Qué debes hacer ahora?
 
@@ -46,7 +46,7 @@ Ahora Apple está reconociendo que necesita poder reaccionar más rápidamente c
 
 Si tienes un dispositivo Apple, no necesitas hacer nada especial. Solo asegúrate de que tus actualizaciones automáticas estén activadas y listo. Apple ya se encargó de protegerte de este problema de Safari.
 
-Lo importante es recordar que la seguridad de tus dispositivos siempre debe ser una prioridad. Mantén tus sistemas actualizados, usa contraseñas fuertes y ten cuidado con los enlaces sospechosos.
+Lo importante es recordar que la seguridad de tus dispositivos siempre debe ser una prioridad. Mantén tus sistemas actualizados, usa contraseñas fuertes y ten cuidado con los enlaces sospechosos. Si eres fan del ecosistema Apple y quieres saber más sobre sus últimas novedades, te puede interesar cómo [Apple está reinventando Siri con inteligencia artificial](/blog/apple-reinventa-siri-con-ia).
 
 ¿Ya habías notado que Safari ha mejorado su seguridad últimamente, o prefieres usar un navegador diferente en tus dispositivos Apple?
 
