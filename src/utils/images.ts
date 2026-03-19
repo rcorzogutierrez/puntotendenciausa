@@ -22,13 +22,14 @@ export function unsplashCard(url: string, width = 400): string {
 
 /**
  * Genera el atributo srcset para imágenes de tarjeta de Unsplash.
- * 400w  → desktop/mobile @1x (≤360px display)
- * 720w  → desktop @2x (360px * 2)
- * 900w  → tablet @2x (450px * 2)
+ * 400w  → @1x mobile/desktop (≤400px display)
+ * 720w  → @2x mobile 360px (360×2=720) / @1x tablet 2-col
+ * 900w  → @2x tablet 450px (450×2=900)
+ * 1080w → @2.625x mobile 412px (Lighthouse Moto G4) / @3x mobile 360px
  */
 export function unsplashCardSrcset(url: string): string {
 	if (!url || !url.includes('unsplash.com')) return '';
-	return [400, 720, 900]
+	return [400, 720, 900, 1080]
 		.map((w) => `${unsplashCard(url, w)} ${w}w`)
 		.join(', ');
 }
