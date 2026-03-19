@@ -185,7 +185,7 @@ const category = getPostCategory(Astro.props);
 		<main>
 			<article data-pagefind-body>
 				<div class="hero-image">
-					{heroImage && <img src={heroImage} alt={title} decoding="async" />}
+					{heroImage && <img src={heroImage} alt={title} decoding="async" fetchpriority="high" loading="eager" />}
 				</div>
 				<div class="prose">
 					<div class="article-meta">
