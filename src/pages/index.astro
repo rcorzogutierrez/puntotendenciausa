@@ -449,7 +449,7 @@ const recentPosts = (await getCollection('blog'))
 												<img
 													src={unsplashCard(post.data.heroImage)}
 													srcset={unsplashCardSrcset(post.data.heroImage)}
-													sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
+													sizes="(max-width: 600px) 100vw, (max-width: 900px) calc(50vw - 1rem), (min-width: 1100px) 360px, 33vw"
 													alt={post.data.title}
 													loading={i === 0 ? "eager" : "lazy"}
 													fetchpriority={i === 0 ? "high" : "auto"}

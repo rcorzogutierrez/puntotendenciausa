@@ -22,11 +22,13 @@ export function unsplashCard(url: string, width = 400): string {
 
 /**
  * Genera el atributo srcset para imágenes de tarjeta de Unsplash.
- * Sirve 400w, 700w y 900w para cubrir móvil, tablet y desktop @2x.
+ * 400w  → desktop/mobile @1x (≤360px display)
+ * 720w  → desktop @2x (360px * 2)
+ * 900w  → tablet @2x (450px * 2)
  */
 export function unsplashCardSrcset(url: string): string {
 	if (!url || !url.includes('unsplash.com')) return '';
-	return [400, 700, 900]
+	return [400, 720, 900]
 		.map((w) => `${unsplashCard(url, w)} ${w}w`)
 		.join(', ');
 }
