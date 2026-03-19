@@ -112,29 +112,30 @@ import Header from '../components/Header.astro';
 				margin-bottom: 0.5em !important;
 			}
 
-			/* Resultados */
-			.pagefind-ui__results-area {
+			/* Resultados — prefijo #search para ganar specificity a pagefind-ui.css */
+			#search .pagefind-ui__results-area {
 				margin-top: 0.5em;
 			}
-			.pagefind-ui__result {
+			#search .pagefind-ui__result {
 				border: 1px solid var(--border) !important;
+				border-left: 3px solid var(--accent) !important;
 				border-radius: 12px !important;
 				background: var(--bg-card) !important;
 				padding: 1.4em 1.6em !important;
 				margin-bottom: 1em !important;
 				transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s !important;
-				border-left: 3px solid var(--accent) !important;
+				cursor: pointer;
 			}
-			.pagefind-ui__result:hover {
-				border-color: var(--border-hover) !important;
+			#search .pagefind-ui__result:hover {
+				border-color: rgba(99, 102, 241, 0.5) !important;
 				border-left-color: var(--accent-light) !important;
 				box-shadow: var(--box-shadow-hover) !important;
 				transform: translateY(-2px) !important;
 			}
-			.pagefind-ui__result-link {
+			#search .pagefind-ui__result-link {
 				text-decoration: none !important;
 			}
-			.pagefind-ui__result-title {
+			#search .pagefind-ui__result-title {
 				font-size: 1.1em !important;
 				font-weight: 700 !important;
 				color: var(--text-heading) !important;
@@ -142,25 +143,28 @@ import Header from '../components/Header.astro';
 				letter-spacing: -0.015em !important;
 				transition: color 0.15s !important;
 			}
-			.pagefind-ui__result:hover .pagefind-ui__result-title {
+			#search .pagefind-ui__result:hover .pagefind-ui__result-title {
 				color: var(--accent-light) !important;
 			}
-			.pagefind-ui__result-excerpt {
+			#search .pagefind-ui__result-excerpt {
 				color: var(--text-muted) !important;
 				font-size: 0.9em !important;
 				line-height: 1.65 !important;
 				margin-top: 0.5em !important;
 			}
-			/* Término resaltado */
-			.pagefind-ui__result-excerpt mark {
-				background: rgba(99, 102, 241, 0.25) !important;
-				color: var(--accent-light) !important;
+			/* Término resaltado — sobreescribe el amarillo de pagefind */
+			#search .pagefind-ui__result-excerpt mark,
+			#search mark {
+				background: rgba(99, 102, 241, 0.28) !important;
+				color: #a5b4fc !important;
 				border-radius: 3px !important;
-				padding: 0 2px !important;
+				padding: 0 3px !important;
+				-webkit-text-decoration: none !important;
+				text-decoration: none !important;
 			}
 
 			/* Imagen del resultado */
-			.pagefind-ui__result-image-container {
+			#search .pagefind-ui__result-image-container {
 				border-radius: 8px !important;
 				overflow: hidden !important;
 				flex-shrink: 0 !important;
