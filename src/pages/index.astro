@@ -440,7 +440,7 @@ const recentPosts = (await getCollection('blog'))
 							<a href="/blog" class="see-all">Ver todos los artículos →</a>
 						</div>
 						<ul class="cards-grid">
-							{recentPosts.map((post) => {
+							{recentPosts.map((post, i) => {
 								const category = getPostCategory(post.data);
 								return (
 									<li class="card">
@@ -449,7 +449,8 @@ const recentPosts = (await getCollection('blog'))
 												<img
 													src={unsplashCard(post.data.heroImage)}
 													alt={post.data.title}
-													loading="lazy"
+													loading={i === 0 ? "eager" : "lazy"}
+													fetchpriority={i === 0 ? "high" : "auto"}
 													decoding="async"
 													width="800"
 													height="450"
