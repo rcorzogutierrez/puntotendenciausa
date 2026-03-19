@@ -1,0 +1,122 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="es">
+	<head>
+		<BaseHead
+			title="Buscar artículos | La Tendencia USA"
+			description="Busca entre todos los artículos de tecnología, inteligencia artificial y tendencias digitales de La Tendencia USA."
+		/>
+		<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+		<style>
+			.search-hero {
+				text-align: center;
+				padding: 4em 1em 2.5em;
+				border-bottom: 1px solid var(--border);
+				margin-bottom: 3em;
+			}
+			.search-hero h1 {
+				font-size: 2.2em;
+				font-weight: 800;
+				letter-spacing: -0.03em;
+				color: var(--text-heading);
+				margin-bottom: 0.4em;
+			}
+			.search-hero p {
+				color: var(--text-muted);
+				font-size: 1em;
+				max-width: 480px;
+				margin: 0 auto;
+				line-height: 1.6;
+			}
+			.search-container {
+				max-width: 760px;
+				margin: 0 auto;
+				padding: 0 1.5em 5em;
+			}
+
+			/* ── Pagefind UI overrides para dark theme ─────────────── */
+			#search {
+				--pagefind-ui-scale: 1;
+				--pagefind-ui-primary: var(--accent-light);
+				--pagefind-ui-text: var(--text);
+				--pagefind-ui-background: var(--bg-card);
+				--pagefind-ui-border: var(--border);
+				--pagefind-ui-tag: var(--bg-card);
+				--pagefind-ui-border-width: 1px;
+				--pagefind-ui-border-radius: 8px;
+				--pagefind-ui-image-border-radius: 6px;
+				--pagefind-ui-font: inherit;
+			}
+			.pagefind-ui__search-input {
+				background: var(--bg-card) !important;
+				color: var(--text) !important;
+				border-color: var(--border) !important;
+			}
+			.pagefind-ui__search-input:focus {
+				border-color: var(--accent) !important;
+				outline: none !important;
+				box-shadow: 0 0 0 3px var(--accent-glow) !important;
+			}
+			.pagefind-ui__result {
+				border-color: var(--border) !important;
+			}
+			.pagefind-ui__result:hover {
+				border-color: var(--border-hover) !important;
+			}
+			.pagefind-ui__result-title {
+				color: var(--text-heading) !important;
+			}
+			.pagefind-ui__result-excerpt {
+				color: var(--text-muted) !important;
+			}
+			.pagefind-ui__button {
+				background: var(--accent) !important;
+				color: #fff !important;
+				border-radius: 999px !important;
+				border: none !important;
+			}
+			.pagefind-ui__button:hover {
+				background: var(--accent-light) !important;
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<div class="search-hero">
+				<h1>Buscar artículos</h1>
+				<p>Encuentra contenido sobre IA, tecnología, gadgets y tendencias digitales.</p>
+			</div>
+			<div class="search-container">
+				<div id="search"></div>
+			</div>
+		</main>
+		<Footer />
+
+		<script src="/pagefind/pagefind-ui.js" is:inline></script>
+		<script>
+			window.addEventListener('DOMContentLoaded', () => {
+				new PagefindUI({
+					element: '#search',
+					showSubResults: false,
+					resetStyles: false,
+					translations: {
+						placeholder: 'Buscar artículos...',
+						zero_results: 'No se encontraron resultados para "[QUERY]"',
+						many_results: '[COUNT] resultados para "[QUERY]"',
+						one_result: '1 resultado para "[QUERY]"',
+						alt_search: 'No se encontraron resultados. Intentando buscar "[DIFFERENT_QUERY]"...',
+						search_suggestion: '¿Quisiste decir "[DIFFERENT_QUERY]"?',
+						searching: 'Buscando "[QUERY]"...',
+					},
+				});
+			});
+		</script>
+	</body>
+</html>
