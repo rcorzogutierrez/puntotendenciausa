@@ -323,6 +323,34 @@ const recentPosts = (await getCollection('blog'))
 				max-width: 760px;
 			}
 
+			/* ── Quote section ──────────────────────────────────── */
+			.quote-section {
+				padding: 3em 1.5em;
+				text-align: center;
+			}
+			blockquote.featured-quote {
+				max-width: 680px;
+				margin: 0 auto;
+				border-left: 4px solid var(--accent);
+				padding: 1.2em 1.8em;
+				background: var(--bg-card);
+				border-radius: 0 8px 8px 0;
+				text-align: left;
+			}
+			blockquote.featured-quote p {
+				font-size: 1.15em;
+				font-style: italic;
+				color: var(--text);
+				line-height: 1.7;
+				margin: 0 0 0.8em;
+			}
+			blockquote.featured-quote cite {
+				font-size: 0.9em;
+				color: var(--text-muted);
+				font-style: normal;
+				font-weight: 600;
+			}
+
 			/* ── CTA bottom banner ──────────────────────────────── */
 			.cta-banner {
 				background: var(--bg-card);
@@ -461,6 +489,14 @@ const recentPosts = (await getCollection('blog'))
 				<h2>¿Qué cubrimos en La Tendencia USA?</h2>
 				<p>Inteligencia artificial, tecnología, gaming y ciencia — todo en español y sin tecnicismos innecesarios. Seguimos los modelos de IA más recientes como ChatGPT, Claude y Gemini, los gadgets que vale la pena conocer, los lanzamientos de videojuegos que generan conversación, y los descubrimientos científicos que serán la tecnología de mañana. También cubrimos las decisiones estratégicas de Apple, Google, Microsoft y Meta, startups de Silicon Valley, ciberseguridad y todo lo que transforma nuestra vida digital.</p>
 				<p>Escribimos para más de 500 millones de hispanohablantes: emprendedores, profesionales, estudiantes y curiosos de México, Colombia, Argentina, España, Chile, Venezuela y cualquier rincón del mundo donde se hable español. La tendencia es global — y este espacio es para todos.</p>
+			</section>
+
+			<!-- Quote Section -->
+			<section class="quote-section">
+				<blockquote class="featured-quote">
+					<p>"La tecnología va a cambiar el mundo más rápido de lo que la mayoría de las personas se puede imaginar. La pregunta es: ¿estarás tú entre quienes lo entienden?"</p>
+					<cite>— Satya Nadella, CEO de Microsoft</cite>
+				</blockquote>
 			</section>
 
 			<!-- CTA Banner -->
