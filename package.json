@@ -21,6 +21,7 @@
     "sharp": "^0.34.3"
   },
   "devDependencies": {
+    "@astrojs/partytown": "^2.1.5",
     "pagefind": "^1.4.0"
   }
 }

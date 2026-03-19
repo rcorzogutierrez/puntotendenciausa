@@ -79,9 +79,9 @@ const metaDescription = description.length <= 160
 <meta property="twitter:description" content={metaDescription} />
 <meta property="twitter:image" content={new URL(imageSrc, Astro.url)} />
 
-<!-- Google Analytics 4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QK0Z3S712M"></script>
-<script>
+<!-- Google Analytics 4 — ejecutado en Web Worker via Partytown (off main thread) -->
+<script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-QK0Z3S712M"></script>
+<script type="text/partytown">
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
