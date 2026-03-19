@@ -322,7 +322,7 @@ const pageTitle = isFirstPage
 					<div class="featured-card">
 						{featured.data.heroImage && (
 							<div class="card-img">
-								<img src={unsplashCard(featured.data.heroImage, 1200)} alt={featured.data.title} loading="lazy" decoding="async" width="1200" height="675" />
+								<img src={unsplashCard(featured.data.heroImage, 1200)} alt={featured.data.title} loading="eager" fetchpriority="high" decoding="async" width="1200" height="675" />
 							</div>
 						)}
 						<div class="card-body">
