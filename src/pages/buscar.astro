@@ -99,9 +99,10 @@ import Header from '../components/Header.astro';
 		</main>
 		<Footer />
 
-		<script src="/pagefind/pagefind-ui.js" is:inline></script>
-		<script>
-			window.addEventListener('DOMContentLoaded', () => {
+		<script is:inline>
+			const s = document.createElement('script');
+			s.src = '/pagefind/pagefind-ui.js';
+			s.onload = () => {
 				new PagefindUI({
 					element: '#search',
 					showSubResults: false,
@@ -116,7 +117,8 @@ import Header from '../components/Header.astro';
 						searching: 'Buscando "[QUERY]"...',
 					},
 				});
-			});
+			};
+			document.head.appendChild(s);
 		</script>
 	</body>
 </html>
