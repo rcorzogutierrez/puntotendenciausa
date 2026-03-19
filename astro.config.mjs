@@ -8,6 +8,9 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://latendenciausa.web.app',
+	build: {
+		inlineStylesheets: 'always',
+	},
 	integrations: [
 		mdx(),
 		sitemap(),
