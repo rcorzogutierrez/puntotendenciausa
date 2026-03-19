@@ -6,6 +6,7 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import { categoryToSlug, getPostCategory } from '../../utils/categories';
+import { unsplashCard } from '../../utils/images';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
@@ -209,7 +210,7 @@ const posts = allPosts
 								{post.data.heroImage && (
 									<div class="card-img">
 										<img
-											src={post.data.heroImage}
+											src={unsplashCard(post.data.heroImage)}
 											alt={post.data.title}
 											loading="lazy"
 											decoding="async"
