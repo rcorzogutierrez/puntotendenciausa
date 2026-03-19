@@ -1,7 +1,8 @@
 :root {
-	--accent: #6366f1;
+	--accent: #4f46e5;
 	--accent-light: #818cf8;
-	--accent-glow: rgba(99, 102, 241, 0.18);
+	--accent-btn-hover: #6060e8;
+	--accent-glow: rgba(79, 70, 229, 0.18);
 	--cyan: #22d3ee;
 	--bg: #0f172a;
 	--bg-surface: #141e35;
