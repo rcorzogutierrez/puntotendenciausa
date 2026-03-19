@@ -3,9 +3,9 @@
  * Evita descargar imágenes de 5000x3000px cuando se muestran como miniaturas.
  *
  * @param url   URL original de heroImage
- * @param width Ancho máximo deseado en px (default 800 para tarjetas)
+ * @param width Ancho máximo deseado en px (default 400 para tarjetas)
  */
-export function unsplashCard(url: string, width = 800): string {
+export function unsplashCard(url: string, width = 400): string {
 	if (!url || !url.includes('unsplash.com')) return url;
 
 	try {
@@ -18,4 +18,15 @@ export function unsplashCard(url: string, width = 800): string {
 	} catch {
 		return url;
 	}
+}
+
+/**
+ * Genera el atributo srcset para imágenes de tarjeta de Unsplash.
+ * Sirve 400w, 700w y 900w para cubrir móvil, tablet y desktop @2x.
+ */
+export function unsplashCardSrcset(url: string): string {
+	if (!url || !url.includes('unsplash.com')) return '';
+	return [400, 700, 900]
+		.map((w) => `${unsplashCard(url, w)} ${w}w`)
+		.join(', ');
 }

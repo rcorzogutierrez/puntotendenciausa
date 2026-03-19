@@ -6,7 +6,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import { categoryToSlug, getPostCategory } from '../utils/categories';
-import { unsplashCard } from '../utils/images';
+import { unsplashCard, unsplashCardSrcset } from '../utils/images';
 
 const recentPosts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -448,12 +448,14 @@ const recentPosts = (await getCollection('blog'))
 											<div class="card-img">
 												<img
 													src={unsplashCard(post.data.heroImage)}
+													srcset={unsplashCardSrcset(post.data.heroImage)}
+													sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
 													alt={post.data.title}
 													loading={i === 0 ? "eager" : "lazy"}
 													fetchpriority={i === 0 ? "high" : "auto"}
 													decoding="async"
-													width="800"
-													height="450"
+													width="400"
+													height="225"
 												/>
 											</div>
 										)}
