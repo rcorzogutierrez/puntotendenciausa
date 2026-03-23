@@ -3,6 +3,7 @@ title: "Kagi trae su 'pequeña web' a dispositivos móviles: internet sin algori
 description: "Kagi lleva su 'Small Web' a móviles con más de 30,000 sitios auténticos y sin publicidad. Descubre la alternativa humana a Google."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["privacidad", "productividad"]
 heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=85"
 ---
 

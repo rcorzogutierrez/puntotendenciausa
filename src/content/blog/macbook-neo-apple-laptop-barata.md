@@ -4,6 +4,7 @@ description: 'El MacBook Neo llega como la laptop más accesible del catálogo d
 pubDate: '2026-03-11'
 heroImage: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=85'
 category: 'Gadgets'
+tags: ["apple", "hardware", "gadgets"]
 ---
 
 Durante años, la entrada al mundo Apple en computadoras tuvo un precio que muchos en América Latina simplemente no podían justificar. El MacBook Air más barato nunca bajaba de los mil dólares. El Pro era territorio de profesionales con presupuesto de empresa. Y el MacBook, el modelo intermedio que Apple discontinuó hace años, dejó un hueco que muchos esperaban que alguien llenara.

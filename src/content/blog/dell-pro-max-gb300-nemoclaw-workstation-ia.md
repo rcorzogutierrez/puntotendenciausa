@@ -3,6 +3,7 @@ title: "Dell Pro Max: la workstation de IA que pesa 85 libras"
 description: "Dell y Nvidia anunciaron en GTC 2026 la workstation con GB300 y NemoClaw. 20 petaFLOPS, 784 GB de RAM unificada y agentes de IA que corren sin la nube."
 pubDate: "2026-03-18"
 category: "Inteligencia Artificial"
+tags: ["hardware", "nvidia", "ia-generativa"]
 heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=85"
 ---
 

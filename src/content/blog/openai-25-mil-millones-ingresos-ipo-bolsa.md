@@ -3,6 +3,7 @@ title: "OpenAI ya vale más que muchos países: $25 mil millones en ingresos y r
 description: "OpenAI superó $25 mil millones en ingresos anualizados y evalúa salir a bolsa en 2026. Anthropic ya va por $19 mil millones. La IA es el negocio del siglo."
 pubDate: "2026-03-13"
 category: "Inteligencia Artificial"
+tags: ["openai", "ipo", "startups"]
 heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&q=85"
 ---
 

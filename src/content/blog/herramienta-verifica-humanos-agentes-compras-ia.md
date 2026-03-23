@@ -3,6 +3,7 @@ title: "El mundo lanza herramienta para verificar humanos detrás de agentes de 
 description: "Sam Altman expande verificación para agentes de comercio IA. Descubre cómo protegen tus compras online mientras la IA toma el control."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["ia-generativa", "agentes-ia", "privacidad"]
 heroImage: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1600&q=85"
 ---
 

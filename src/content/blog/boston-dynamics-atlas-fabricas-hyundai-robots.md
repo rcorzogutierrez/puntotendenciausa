@@ -3,6 +3,7 @@ title: "Los robots de Boston Dynamics ya trabajan en fábricas reales"
 description: "Boston Dynamics despliega su robot Atlas en plantas de Hyundai con capacidad para 30,000 unidades anuales. La IA física llega a la manufactura industrial en 2026."
 pubDate: "2026-03-14"
 category: "Tecnología"
+tags: ["robots", "ia-generativa", "hardware"]
 heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1600&q=85"
 ---
 

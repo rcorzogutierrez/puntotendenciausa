@@ -3,6 +3,7 @@ title: "Marquis: 672,000 personas pierden datos personales y financieros en ataq
 description: "La fintech Marquis notifica a cientos de miles de usuarios que hackers robaron sus datos personales, números de Seguro Social e información financiera."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["ciberseguridad", "privacidad"]
 heroImage: "https://images.unsplash.com/photo-1614064642578-7faacdc6336e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxyYW5zb213YXJlJTIwY3liZXIlMjBhdHRhY2slMjBkYXRhJTIwYnJlYWNofGVufDF8MHx8fDE3NzM4Njc1Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

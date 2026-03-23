@@ -3,6 +3,7 @@ title: "Google Maps se reinventa con IA y cambia cómo te mueves"
 description: "Google rediseña Maps con inteligencia artificial y Gemini integrado: navegación inmersiva, búsqueda conversacional y recomendaciones que aprenden tus hábitos."
 pubDate: "2026-03-14"
 category: "Tecnología"
+tags: ["google", "ia-generativa", "productividad"]
 heroImage: "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1600&q=85"
 ---
 

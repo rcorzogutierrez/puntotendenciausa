@@ -4,6 +4,7 @@ description: 'La IA agéntica puede tomar decisiones, ejecutar tareas y resolver
 pubDate: '2026-03-11'
 heroImage: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1600&q=85'
 category: 'Inteligencia Artificial'
+tags: ["ia-generativa", "agentes-ia", "productividad"]
 ---
 
 Imagina llegar un lunes por la mañana y encontrar tu bandeja de correo ya ordenada, los reportes semanales redactados y las reuniones del día agendadas. No porque contrataste a alguien nuevo. Sino porque una IA lo hizo mientras dormías.

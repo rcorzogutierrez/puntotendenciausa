@@ -3,6 +3,7 @@ title: "Tinder intenta reconquistar usuarios con eventos presenciales y citas r�
 description: "Tinder se reinventa con eventos presenciales, mejoras de IA y speed dating virtual para atraer a usuarios más jóvenes. Descubre cómo la app de citas busca recuperar engagement."
 pubDate: "2026-03-13"
 category: "Tecnología"
+tags: ["redes-sociales", "startups"]
 heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=85"
 ---
 

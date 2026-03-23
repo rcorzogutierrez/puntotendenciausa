@@ -3,6 +3,7 @@ title: "Apps para escapar del doomscrolling infinito y recuperar tu tiempo"
 description: "Descubre las mejores apps para romper el ciclo del doomscrolling y recuperar horas de tu día con contenido realmente productivo y útil."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["productividad", "redes-sociales"]
 heroImage: "https://images.unsplash.com/photo-1676738386065-233f1d585023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwaG9uZSUyMGRpc3RyYWN0ZWQlMjBzY3JvbGxpbmclMjBwcm9kdWN0aXZpdHl8ZW58MXwwfHx8MTc3Mzg3MDI5NXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

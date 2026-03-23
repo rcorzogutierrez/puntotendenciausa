@@ -3,6 +3,7 @@ title: "DLSS 4.5: Nvidia dobla los FPS con inteligencia artificial"
 description: "Nvidia lanzó DLSS 4.5 con un modelo de IA dos veces más capaz que el anterior. Qué significa para tu PC gamer y si realmente vale la pena actualizar."
 pubDate: "2026-03-18"
 category: "Gaming"
+tags: ["nvidia", "gaming", "ia-generativa"]
 heroImage: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1600&q=85"
 ---
 

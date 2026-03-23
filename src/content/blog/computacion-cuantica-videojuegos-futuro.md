@@ -3,6 +3,7 @@ title: "Computación cuántica y videojuegos: ¿qué va a cambiar?"
 description: "Ya existe un juego en Roblox cuyos niveles se generan con computadoras cuánticas reales. Esto es lo que la computación cuántica puede — y no puede — hacer por los videojuegos."
 pubDate: "2026-03-18"
 category: "Ciencia"
+tags: ["ciencia", "gaming"]
 heroImage: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1600&q=85"
 ---
 

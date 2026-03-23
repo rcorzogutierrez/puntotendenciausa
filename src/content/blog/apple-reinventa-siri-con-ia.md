@@ -4,6 +4,7 @@ description: 'Apple está transformando Siri con inteligencia artificial avanzad
 pubDate: '2026-03-10'
 heroImage: 'https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1600&q=85'
 category: 'Inteligencia Artificial'
+tags: ["apple", "ia-generativa", "google"]
 ---
 
 Seamos honestos: Siri nunca fue el asistente que prometía ser. Durante años lo usamos para poner alarmas, reproducir música y hacer preguntas básicas que Google respondía mucho mejor. Pero algo está cambiando, y esta vez parece que Apple va en serio.

@@ -3,6 +3,7 @@ title: "Google lanza Gemini Flash-Lite: IA poderosa al precio más bajo del merc
 description: "Google presenta Gemini 2.5 Flash-Lite, 2.5 veces más rápido que versiones anteriores y a solo $0.25 por millón de tokens. El acceso a la IA sigue abaratándose."
 pubDate: "2026-03-13"
 category: "Inteligencia Artificial"
+tags: ["google", "ia-generativa", "modelos-ia"]
 heroImage: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=1600&q=85"
 ---
 

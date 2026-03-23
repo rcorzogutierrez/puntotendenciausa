@@ -3,6 +3,7 @@ title: "Vurt: La plataforma de streaming para cineastas independientes que apues
 description: "Vurt es la app de streaming móvil que permite a cineastas independientes monetizar contenido en video vertical. Descubre cómo funciona."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["streaming", "creadores", "startups"]
 heroImage: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1600&q=85"
 ---
 

@@ -3,6 +3,7 @@ title: "Arizona acusa a Kalshi de operar un negocio de juego ilegal: la batalla 
 description: "Arizona presenta los primeros cargos criminales contra Kalshi. La plataforma de predicciones enfrenta reguladores estatales que cuestionan si es realmente legal."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["startups", "gobierno"]
 heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&q=80"
 ---
 

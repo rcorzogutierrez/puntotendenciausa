@@ -3,6 +3,7 @@ title: "Hackers rusos roban datos personales de ucranianos con nuevas herramient
 description: "Grupo de hackers del gobierno ruso capturado usando herramientas avanzadas para espiar iPhones de ucranianos y robar criptomonedas."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["ciberseguridad", "apple", "privacidad"]
 heroImage: "https://images.unsplash.com/photo-1647606452977-3691d6624f13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjBoYWNraW5nJTIwY3liZXJhdHRhY2slMjBydXNzaWF8ZW58MXwwfHx8MTc3Mzg2NzM1MHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

@@ -3,6 +3,7 @@ title: "Microsoft compra el equipo de Cove: otra startup de IA desaparece"
 description: "Cove cierra sus puertas tras ser absorbida por Microsoft. El equipo se une a la empresa de Satya Nadella mientras los datos de usuarios serán eliminados."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["microsoft", "ia-generativa", "startups"]
 heroImage: "https://images.unsplash.com/photo-1646579886741-12b59840c63f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBvZmZpY2UlMjBBSSUyMGNvbGxhYm9yYXRpb24lMjB0ZWFtfGVufDF8MHx8fDE3NzM4Njg0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

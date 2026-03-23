@@ -4,6 +4,7 @@ description: 'Qualcomm lanzó el chip Snapdragon Wear Elite para una nueva gener
 pubDate: '2026-03-10'
 heroImage: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1600&q=85'
 category: 'Gadgets'
+tags: ["gadgets", "wearables", "ia-generativa"]
 ---
 
 Durante décadas, la promesa del futuro tecnológico vino en el mismo formato: una pantalla más grande, más delgada, más brillante. Primero el televisor, luego la computadora, después el smartphone. Pero algo está cambiando. Los gadgets más interesantes de 2026 no tienen pantalla, y eso lo cambia todo.
