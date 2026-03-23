@@ -2,7 +2,7 @@
 title: "Blue Origin de Jeff Bezos entra al juego de los centros de datos espaciales"
 description: "Project Sunrise: Blue Origin planea 50,000 satélites en órbita para procesamiento de IA. La carrera por computar en el espacio se intensifica."
 pubDate: "2026-03-21"
-category: "Tecnología"
+category: "Ciencia"
 tags: ["ciencia", "ia-generativa", "energia"]
 heroImage: "https://images.unsplash.com/photo-1770370419338-f9a813302baa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzYXRlbGxpdGUlMjBzcGFjZSUyMGRhdGElMjBjZW50ZXIlMjBvcmJpdHxlbnwxfDB8fHwxNzc0MTI5MzI3fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

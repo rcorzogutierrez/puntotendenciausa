@@ -2,7 +2,7 @@
 title: "El setup de Claude Code de Garry Tan genera amor y odio en la comunidad tech"
 description: "El setup viral de Claude Code compartido por Garry Tan en GitHub desata opiniones encontradas. Hasta Claude, ChatGPT y Gemini tienen algo que decir al respecto."
 pubDate: "2026-03-18"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["anthropic", "ia-generativa", "startups"]
 heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80"
 ---

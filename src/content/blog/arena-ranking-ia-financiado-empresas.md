@@ -2,7 +2,7 @@
 title: "Arena: el ranking de IA que nadie puede 'hackear' (pero que financian las empresas que clasifica)"
 description: "Arena se convierte en el ranking definitivo de modelos de IA. Pero hay un problema: las empresas que compite financian la plataforma que las mide."
 pubDate: "2026-03-18"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["ia-generativa", "modelos-ia"]
 heroImage: "https://images.unsplash.com/photo-1624185441616-232e5ac481ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxsZWFkZXJib2FyZCUyMHJhbmtpbmclMjBjb21wZXRpdGlvbiUyMGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MXwwfHx8MTc3Mzg3MDI3OXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

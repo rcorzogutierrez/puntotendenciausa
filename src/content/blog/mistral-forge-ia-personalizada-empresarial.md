@@ -2,7 +2,7 @@
 title: "Mistral desafía a OpenAI con 'crea tu propia IA': el futuro empresarial es personalizado"
 description: "Mistral Forge permite a empresas entrenar modelos de IA personalizados desde cero. La competencia contra OpenAI y Anthropic se intensifica en el segmento empresarial."
 pubDate: "2026-03-18"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["ia-generativa", "modelos-ia", "startups"]
 heroImage: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=80"
 ---

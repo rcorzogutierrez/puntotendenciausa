@@ -2,7 +2,7 @@
 title: "K2 lanza su primer satélite de alta potencia para computación en el espacio"
 description: "K2 presenta Gravitas, un proyecto ambicioso para demostrar la tecnología necesaria para construir centros de datos en órbita. El futuro del cómputo está en el espacio."
 pubDate: "2026-03-20"
-category: "Tecnología"
+category: "Ciencia"
 tags: ["ciencia", "hardware", "startups"]
 heroImage: "https://images.unsplash.com/photo-1770370419338-f9a813302baa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzYXRlbGxpdGUlMjBzcGFjZSUyMGRhdGElMjBjZW50ZXIlMjBvcmJpdHxlbnwxfDB8fHwxNzc0MDE0MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

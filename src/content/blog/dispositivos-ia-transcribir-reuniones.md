@@ -2,7 +2,7 @@
 title: "Dispositivos de IA para tomar notas: cómo grabar y transcribir tus reuniones sin levantar la mano"
 description: "Estos dispositivos físicos transcriben reuniones con IA, generan resúmenes y listas de tareas. Algunos incluyen traducción en vivo. Descubre cuál elegir."
 pubDate: "2026-03-21"
-category: "Tecnología"
+category: "Gadgets"
 tags: ["ia-generativa", "gadgets", "productividad"]
 heroImage: "https://images.unsplash.com/photo-1667572588211-e8995edf33bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMG5vdGUlMjB0YWtpbmclMjBkZXZpY2UlMjBtZWV0aW5nJTIwdHJhbnNjcmlwdGlvbnxlbnwxfDB8fHwxNzc0MDcxNzA5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

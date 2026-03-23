@@ -2,7 +2,7 @@
 title: "Los bots de IA superarán a los humanos en internet en 2027, advierte CEO de Cloudflare"
 description: "El tráfico de bots de IA excederá al de humanos en 2027, según Matthew Prince de Cloudflare. Qué significa esto para la infraestructura web y tu experiencia online."
 pubDate: "2026-03-20"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["ia-generativa", "agentes-ia"]
 heroImage: "https://images.unsplash.com/photo-1550346607-59e01007432d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMGJvdHMlMjBpbnRlcm5ldCUyMHRyYWZmaWMlMjBpbmZyYXN0cnVjdHVyZXxlbnwxfDB8fHwxNzc0MDQyODkxfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

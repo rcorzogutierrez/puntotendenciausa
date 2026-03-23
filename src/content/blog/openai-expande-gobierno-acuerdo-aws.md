@@ -2,7 +2,7 @@
 title: "OpenAI se expande en el gobierno con acuerdo con AWS"
 description: "OpenAI firma alianza con AWS para vender sistemas de IA al gobierno estadounidense en trabajos clasificados y no clasificados."
 pubDate: "2026-03-18"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["openai", "gobierno", "ia-generativa"]
 heroImage: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1600&q=85"
 ---
