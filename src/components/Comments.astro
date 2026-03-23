@@ -8,6 +8,7 @@ const CATEGORY_ID = "DIC_kwDORjYm584C4VfN";
 ---
 
 <div class="comments-section">
+  <h2 class="comments-title">Comentarios</h2>
   <script
     src="https://giscus.app/client.js"
     data-repo={REPO}
@@ -31,6 +32,23 @@ const CATEGORY_ID = "DIC_kwDORjYm584C4VfN";
     width: 760px;
     max-width: calc(100% - 2em);
     margin: 0 auto;
-    padding: 0 1em 4em;
+    padding: 2em 1em 4em;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .comments-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(var(--gray-light));
+    margin-bottom: 1.5em;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  /* Forzar el iframe de Giscus a ancho completo */
+  .comments-section :global(.giscus),
+  .comments-section :global(.giscus-frame) {
+    width: 100% !important;
+    min-width: unset !important;
   }
 </style>
