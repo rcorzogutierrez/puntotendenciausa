@@ -8,6 +8,19 @@
     ],
     "headers": [
       {
+        "source": "/giscus-theme.css",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "https://giscus.app"
+          },
+          {
+            "key": "Content-Type",
+            "value": "text/css"
+          }
+        ]
+      },
+      {
         "source": "**",
         "headers": [
           {
