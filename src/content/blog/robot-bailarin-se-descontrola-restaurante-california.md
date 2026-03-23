@@ -3,6 +3,7 @@ title: "Robot bailarín se descontrola en restaurante de California y causa caos
 description: "Un robot humanoid se vuelve loco bailando en un restaurante Haidilao. Los empleados tuvieron que detenerlo físicamente. Descubre qué pasó."
 pubDate: "2026-03-20"
 category: "Tecnología"
+tags: ["robots", "ia-generativa"]
 heroImage: "https://images.unsplash.com/photo-1767966787868-2db51cb84de5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxkYW5jaW5nJTIwcm9ib3QlMjByZXN0YXVyYW50JTIwY2hhb3N8ZW58MXwwfHx8MTc3NDA0NDA2MHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

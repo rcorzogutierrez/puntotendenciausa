@@ -3,6 +3,7 @@ title: "Elon Musk engañó a inversores de Twitter para escapar de la compra, se
 description: "Un jurado determina que Elon Musk mintió sobre bots en Twitter para intentar cancelar su adquisición de $44 mil millones. Las implicaciones legales y financieras."
 pubDate: "2026-03-22"
 category: "Tecnología"
+tags: ["redes-sociales", "gobierno", "startups"]
 heroImage: "https://images.unsplash.com/photo-1593115057322-e94b77572f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxFbG9uJTIwTXVzayUyMGxhd3N1aXQlMjBjb3VydCUyMHZlcmRpY3R8ZW58MXwwfHx8MTc3NDIxNjAwNXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

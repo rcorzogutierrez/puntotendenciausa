@@ -3,6 +3,7 @@ title: "Wall Street no se dejó impresionar por la gran conferencia de Nvidia"
 description: "A pesar de los temores sobre una burbuja de IA, la conferencia de Nvidia muestra que la industria no está preocupada. Descubre qué pasó."
 pubDate: "2026-03-23"
 category: "Tecnología"
+tags: ["nvidia", "ia-generativa", "ipo"]
 heroImage: "https://images.unsplash.com/photo-1662947683395-1ce33bdcd094?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxOdmlkaWElMjBjb25mZXJlbmNlJTIwdGVjaG5vbG9neSUyMHN0b2NrJTIwbWFya2V0fGVufDF8MHx8fDE3NzQyNDQ4MTV8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

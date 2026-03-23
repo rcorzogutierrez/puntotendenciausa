@@ -3,6 +3,7 @@ title: "20 años del primer tweet: cómo Jack Dorsey cambió internet para siemp
 description: "Jack Dorsey publicó el primer tweet hace 20 años. Descubre cómo ese mensaje simple revolucionó la comunicación digital y qué significa hoy."
 pubDate: "2026-03-23"
 category: "Tecnología"
+tags: ["redes-sociales", "historia", "startups"]
 heroImage: "https://images.unsplash.com/photo-1598956500944-c413e3f09884?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxUd2l0dGVyJTIwZmlyc3QlMjB0d2VldCUyMDIwMDYlMjBoaXN0b3J5fGVufDF8MHx8fDE3NzQyNzMyODl8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

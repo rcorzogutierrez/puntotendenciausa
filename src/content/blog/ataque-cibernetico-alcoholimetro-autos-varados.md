@@ -3,6 +3,7 @@ title: "Ataque cibernético a empresa de alcoholímetros deja a conductores vara
 description: "Un ciberataque masivo a empresa de alcoholímetros para autos paraliza a miles de conductores. Qué pasó y cómo proteger tu vehículo."
 pubDate: "2026-03-21"
 category: "Tecnología"
+tags: ["ciberseguridad", "privacidad"]
 heroImage: "https://images.unsplash.com/photo-1727893372771-b4ccae9b9f0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxjeWJlcmF0dGFjayUyMGNvbm5lY3RlZCUyMGNhcnMlMjB2ZWhpY2xlc3xlbnwxfDB8fHwxNzc0MTAwNTA4fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

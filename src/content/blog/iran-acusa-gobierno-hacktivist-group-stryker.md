@@ -3,6 +3,7 @@ title: "El gobierno de EE.UU. acusa a Irán de operar grupo de hackers que atac�
 description: "El Departamento de Justicia de EE.UU. revela que un ministerio de seguridad iraní opera el grupo Handala, responsable del ataque destructivo contra el fabricante de dispositivos médicos Stryker."
 pubDate: "2026-03-21"
 category: "Tecnología"
+tags: ["ciberseguridad", "gobierno"]
 heroImage: "https://images.unsplash.com/photo-1719255417989-b6858e87359e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxjeWJlciUyMGF0dGFjayUyMGdvdmVybm1lbnQlMjBoYWNraW5nfGVufDF8MHx8fDE3NzQxMjkzMDl8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

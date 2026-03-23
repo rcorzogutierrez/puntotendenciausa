@@ -3,6 +3,7 @@ title: "Tubi se alía con creadores de TikTok para contenido original exclusivo"
 description: "Tubi lanza su 'Creatorverse Incubator' para que creadores de TikTok produzcan series originales exclusivas en la plataforma de streaming."
 pubDate: "2026-03-20"
 category: "Tecnología"
+tags: ["streaming", "creadores", "redes-sociales"]
 heroImage: "https://images.unsplash.com/photo-1661347998648-79ad2d81bf26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxUaWtUb2slMjBjcmVhdG9ycyUyMHN0cmVhbWluZyUyMGNvbnRlbnQlMjBwcm9kdWN0aW9ufGVufDF8MHx8fDE3NzM5ODUyOTB8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

@@ -3,6 +3,7 @@ title: "¿Los tokens de IA son el nuevo bono de contratación o solo otro gasto 
 description: "Las empresas tech ofrecen tokens de IA como compensación a ingenieros. ¿Es realmente una victoria o los trabajadores deberían negociar mejor?"
 pubDate: "2026-03-23"
 category: "Tecnología"
+tags: ["ia-generativa", "startups", "openai"]
 heroImage: "https://images.unsplash.com/photo-1528747045269-390fe33c19f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxlbmdpbmVlciUyMGNvbnRyYWN0JTIwbmVnb3RpYXRpb24lMjB0b2tlbnN8ZW58MXwwfHx8MTc3NDI3MzYxMnww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

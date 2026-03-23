@@ -3,6 +3,7 @@ title: "El marco de IA de Trump quiere controlar a los estados y poner la seguri
 description: "Trump propone un marco de IA que prioriza innovación sobre regulación estatal y traslada responsabilidad de seguridad infantil a los padres. Qué significa para la industria tech."
 pubDate: "2026-03-21"
 category: "Tecnología"
+tags: ["gobierno", "ia-generativa", "privacidad"]
 heroImage: "?w=1200&q=80"
 ---
 

@@ -3,6 +3,7 @@ title: "La energía es el cuello de botella de la IA: por qué los inversores ap
 description: "La energía se convierte en el mayor obstáculo para expandir data centers de IA. Descubre por qué invertir en tecnología energética es la oportunidad del momento."
 pubDate: "2026-03-21"
 category: "Tecnología"
+tags: ["ia-generativa", "energia", "startups"]
 heroImage: "https://images.unsplash.com/photo-1763202426102-3bdd6a721c82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxwb3dlciUyMHBsYW50JTIwZW5lcmd5JTIwZ3JpZCUyMHRlY2hub2xvZ3l8ZW58MXwwfHx8MTc3NDA3MTcyOHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

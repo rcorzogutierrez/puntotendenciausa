@@ -3,6 +3,7 @@ title: "Energía de fusión: la promesa de electricidad limpia ilimitada"
 description: "Cómo funciona la fusión nuclear y las startups que compiten por revolucionar la energía limpia con combustible casi infinito."
 pubDate: "2026-03-23"
 category: "Tecnología"
+tags: ["ciencia", "energia", "startups"]
 heroImage: "https://images.unsplash.com/photo-1559961365-2d3e791180a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxudWNsZWFyJTIwZnVzaW9uJTIwcmVhY3RvciUyMHBsYXNtYSUyMGVuZXJneXxlbnwxfDB8fHwxNzc0MjQ0NDk0fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

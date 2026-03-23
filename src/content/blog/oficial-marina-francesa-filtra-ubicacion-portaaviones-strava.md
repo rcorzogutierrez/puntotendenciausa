@@ -3,6 +3,7 @@ title: "Un oficial de la Marina francesa filtró la ubicación de un portaavione
 description: "Un militar francés reveló accidentalmente dónde estaba el Charles de Gaulle al compartir su entrenamiento. El riesgo de seguridad de las apps fitness."
 pubDate: "2026-03-22"
 category: "Tecnología"
+tags: ["ciberseguridad", "privacidad", "gobierno"]
 heroImage: "https://images.unsplash.com/photo-1685178362030-9b574eb9ae7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMGFpcmNyYWZ0JTIwY2FycmllciUyMG5hdnl8ZW58MXwwfHx8MTc3NDE1ODQxNnww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

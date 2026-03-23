@@ -3,6 +3,7 @@ title: "Amazon compra Rivr: el robot que sube escaleras llegará a tu puerta"
 description: "Amazon adquiere Rivr, la startup de robots repartidores. Jeff Bezos había invertido previamente. Qué significa para las entregas a domicilio."
 pubDate: "2026-03-21"
 category: "Tecnología"
+tags: ["amazon", "robots", "startups"]
 heroImage: "https://images.unsplash.com/photo-1615354017884-1e03473898f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzdGFpciUyMGNsaW1iaW5nJTIwcm9ib3QlMjBkZWxpdmVyeSUyMHBhY2thZ2V8ZW58MXwwfHx8MTc3NDA3MTY4OHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

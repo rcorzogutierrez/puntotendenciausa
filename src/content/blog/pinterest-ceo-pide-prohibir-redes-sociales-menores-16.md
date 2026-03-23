@@ -3,6 +3,7 @@ title: "El CEO de Pinterest pide a gobiernos prohibir redes sociales para menore
 description: "Pinterest compara las redes sociales con el tabaco y alcohol. Un llamado global para proteger a los niños de la adicción digital."
 pubDate: "2026-03-22"
 category: "Tecnología"
+tags: ["redes-sociales", "gobierno", "privacidad"]
 heroImage: "https://images.unsplash.com/photo-1567140274023-25fa6956c9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx0ZWVuYWdlciUyMHBob25lJTIwc29jaWFsJTIwbWVkaWElMjBhZGRpY3Rpb258ZW58MXwwfHx8MTc3NDE4Njg4OXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

@@ -3,6 +3,7 @@ title: "NHTSA intensifica investigación sobre el Full Self-Driving de Tesla: pr
 description: "La agencia federal de seguridad vial eleva su investigación contra el software de conducción autónoma de Tesla tras descubrir más fallos en condiciones de poca luz."
 pubDate: "2026-03-19"
 category: "Tecnología"
+tags: ["robots", "gobierno", "ciberseguridad"]
 heroImage: "https://images.unsplash.com/photo-1617290848337-15a941ce76db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxUZXNsYSUyMGF1dG9ub21vdXMlMjBkcml2aW5nJTIwcmFpbiUyMHZpc2liaWxpdHl8ZW58MXwwfHx8MTc3Mzk1NjQ5MHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

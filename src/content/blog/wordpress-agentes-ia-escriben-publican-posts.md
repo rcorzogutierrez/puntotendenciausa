@@ -3,6 +3,7 @@ title: "WordPress.com deja que agentes de IA escriban y publiquen posts automát
 description: "WordPress.com permite a agentes de IA escribir y publicar contenido sin intervención humana. Qué significa para los blogs y el futuro de internet."
 pubDate: "2026-03-22"
 category: "Tecnología"
+tags: ["ia-generativa", "agentes-ia", "creadores"]
 heroImage: "https://images.unsplash.com/photo-1605978505713-4fa239312995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMHdyaXRpbmclMjBibG9nJTIwY29udGVudCUyMGF1dG9tYXRpb258ZW58MXwwfHx8MTc3NDE1ODA5Mnww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

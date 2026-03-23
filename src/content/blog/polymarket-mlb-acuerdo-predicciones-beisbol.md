@@ -3,6 +3,7 @@ title: "Polymarket expande su imperio de apuestas con acuerdo con las Grandes Li
 description: "Polymarket cierra otro acuerdo estratégico con la MLB. Descubre cómo las plataformas de predicción están conquistando el deporte estadounidense."
 pubDate: "2026-03-20"
 category: "Tecnología"
+tags: ["startups", "redes-sociales"]
 heroImage: "https://images.unsplash.com/photo-1651002488585-1ed4a57f5d76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxiYXNlYmFsbCUyMHByZWRpY3Rpb24lMjBtYXJrZXQlMjB0cmFkaW5nfGVufDF8MHx8fDE3NzQwNDMzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

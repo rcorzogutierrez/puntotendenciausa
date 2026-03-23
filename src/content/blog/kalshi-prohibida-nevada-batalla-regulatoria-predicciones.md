@@ -3,6 +3,7 @@ title: "Kalshi prohibida temporalmente en Nevada: la batalla legal de los mercad
 description: "Kalshi enfrenta prohibición temporal en Nevada en medio de batalla regulatoria sobre el futuro de los mercados de predicción. Qué significa para las apuestas en IA."
 pubDate: "2026-03-22"
 category: "Tecnología"
+tags: ["startups", "gobierno"]
 heroImage: "https://images.unsplash.com/photo-1737690974141-c964afbdf986?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxwcmVkaWN0aW9uJTIwbWFya2V0JTIwdHJhZGluZyUyMHBsYXRmb3JtJTIwcHJvaGliaXRpb258ZW58MXwwfHx8MTc3NDE4NzIwOXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 
