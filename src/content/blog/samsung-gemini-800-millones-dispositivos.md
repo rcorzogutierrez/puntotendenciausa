@@ -4,6 +4,7 @@ description: 'Samsung tiene un plan ambicioso: integrar Gemini AI en 800 millone
 pubDate: '2026-03-10'
 heroImage: 'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=1600&q=85'
 category: 'Tecnología'
+tags: ["google", "ia-generativa", "gadgets"]
 ---
 
 Cuando escuchas "inteligencia artificial", probablemente piensas en tu teléfono o en una computadora. Samsung tiene otros planes. La compañía coreana anunció que para finales de 2026 quiere tener [Gemini AI](https://latendenciausa.web.app/blog/google-gemini-flash-lite-modelo-barato/) integrado en **800 millones de dispositivos** — y eso incluye tu televisor, tu lavadora y, sí, también tu nevera.

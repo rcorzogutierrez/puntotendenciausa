@@ -3,6 +3,7 @@ title: "Anthropic vale $380 mil millones y prepara su salida a bolsa"
 description: "Anthropic llegó a una valoración de $380 mil millones gracias a Claude Code. La empresa que compite con OpenAI se prepara para su IPO en 2026."
 pubDate: "2026-03-16"
 category: "Inteligencia Artificial"
+tags: ["anthropic", "ipo", "startups"]
 heroImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1600&q=85"
 ---
 

@@ -3,6 +3,7 @@ title: "Sequen levanta $16M para llevar la personalización de TikTok a cualquie
 description: "Sequen cierra ronda Serie A con tecnología de IA para ranking y personalización. Cómo esta startup está revolucionando cómo las empresas conocen a sus usuarios."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["ia-generativa", "startups", "redes-sociales"]
 heroImage: "https://images.unsplash.com/photo-1750816204148-5d02aff367cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMGFsZ29yaXRobSUyMHBlcnNvbmFsaXphdGlvbiUyMHRlY2hub2xvZ3l8ZW58MXwwfHx8MTc3Mzg2OTM3OHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

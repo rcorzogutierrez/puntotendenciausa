@@ -3,6 +3,7 @@ title: "Esta startup quiere que el software empresarial sea tan fácil como escr
 description: "Una startup levanta $12 millones para crear un sistema operativo de IA para empresas. El futuro del software empresarial es conversacional."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["startups", "ia-generativa", "productividad"]
 heroImage: "https://images.unsplash.com/photo-1770170389700-eb0f9b910ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMGVudGVycHJpc2UlMjBzb2Z0d2FyZSUyMGludGVyZmFjZSUyMGNvbnZlcnNhdGlvbnxlbnwxfDB8fHwxNzczODY5MzkzfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

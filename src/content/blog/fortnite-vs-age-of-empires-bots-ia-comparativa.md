@@ -3,6 +3,7 @@ title: "Fortnite vs. Age of Empires: la batalla de los bots de IA"
 description: "¿Los bots de Fortnite aprenden de ti o solo te imitan? ¿La IA de Age of Empires es realmente inteligente? Comparamos cómo funciona la IA en los dos juegos más populares del momento."
 pubDate: "2026-03-16"
 category: "Gaming"
+tags: ["gaming", "ia-generativa"]
 heroImage: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1600&q=85"
 ---
 

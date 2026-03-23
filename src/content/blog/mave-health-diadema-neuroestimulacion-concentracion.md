@@ -3,6 +3,7 @@ title: "Mave Health lanza diadema para mejorar concentración y estado de ánimo
 description: "Mave Health presenta su diadema de neuroestimulación a $495. Dispositivos llegarán a usuarios en USA e India en abril de 2026."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["gadgets", "wearables", "salud-digital"]
 heroImage: "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=1200&q=80"
 ---
 

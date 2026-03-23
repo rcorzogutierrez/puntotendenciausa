@@ -3,6 +3,7 @@ title: "Google Workspace con Gemini: las funciones que realmente valen la pena u
 description: "Descubre las mejores funciones de Gemini en Google Workspace: resúmenes de emails, borradores automáticos, organización de datos y seguimiento de reuniones."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["google", "ia-generativa", "productividad"]
 heroImage: "https://images.unsplash.com/photo-1501250987900-211872d97eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBXb3Jrc3BhY2UlMjBHZW1pbmklMjBBSSUyMHByb2R1Y3Rpdml0eXxlbnwxfDB8fHwxNzczODcwMzEzfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

@@ -3,6 +3,7 @@ title: "Age of Empires II celebra la historia latina con su nueva expansión"
 description: "The Last Chieftains llega a AoE II: DE con Mapuche, Muisca y Tupi. Un juego de 25 años que sigue creciendo y ahora voltea a ver la historia latinoamericana."
 pubDate: "2026-03-15"
 category: "Gaming"
+tags: ["gaming", "historia"]
 heroImage: "https://i.ytimg.com/vi_webp/24VGBMYV0b4/maxresdefault.webp"
 ---
 

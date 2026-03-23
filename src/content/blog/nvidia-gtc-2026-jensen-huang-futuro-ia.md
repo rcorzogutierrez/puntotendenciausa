@@ -3,6 +3,7 @@ title: "Nvidia GTC 2026: Jensen Huang revela el futuro de la IA más allá de lo
 description: "En su conferencia anual GTC, Nvidia presenta su hoja de ruta para dominar la IA de inferencia, agentes y redes. Lo que significa para el futuro tecnológico."
 pubDate: "2026-03-13"
 category: "Inteligencia Artificial"
+tags: ["nvidia", "ia-generativa", "hardware"]
 heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1600&q=85"
 ---
 

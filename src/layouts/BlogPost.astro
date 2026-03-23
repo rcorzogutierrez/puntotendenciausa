@@ -6,10 +6,20 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { categoryToSlug, getPostCategory } from '../utils/categories';
 import Comments from '../components/Comments.astro';
+import { unsplashCard } from '../utils/images';
 
-type Props = CollectionEntry<'blog'>['data'];
+interface RelatedPost {
+	id: string;
+	title: string;
+	heroImage?: string;
+	pubDate: Date;
+	category?: string;
+	tags: string[];
+}
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+type Props = CollectionEntry<'blog'>['data'] & { relatedPosts?: RelatedPost[] };
+
+const { title, description, pubDate, updatedDate, heroImage, tags, relatedPosts = [] } = Astro.props;
 const category = getPostCategory(Astro.props);
 ---
 
@@ -177,6 +187,112 @@ const category = getPostCategory(Astro.props);
 				color: var(--accent-light);
 				align-self: center;
 			}
+
+		/* Topics / Tags */
+		.topics-section {
+			margin-top: 2em;
+			padding-top: 1.5em;
+			border-top: 1px solid var(--border);
+			display: flex;
+			align-items: center;
+			gap: 0.6em;
+			flex-wrap: wrap;
+		}
+		.topics-label {
+			font-size: 0.82em;
+			font-weight: 700;
+			color: var(--text-muted);
+			letter-spacing: 0.04em;
+			white-space: nowrap;
+		}
+		.topic-tag {
+			font-size: 0.78em;
+			font-weight: 600;
+			color: var(--cyan);
+			text-decoration: none;
+			padding: 0.25em 0.75em;
+			border: 1px solid rgba(34, 211, 238, 0.25);
+			border-radius: 999px;
+			background: rgba(34, 211, 238, 0.06);
+			transition: background 0.2s ease, border-color 0.2s ease;
+		}
+		.topic-tag:hover {
+			background: rgba(34, 211, 238, 0.14);
+			border-color: rgba(34, 211, 238, 0.5);
+		}
+		/* Related posts */
+		.related-section {
+			width: 760px;
+			max-width: calc(100% - 2em);
+			margin: 0 auto;
+			padding: 0 1em 4em;
+		}
+		.related-section h2 {
+			font-size: 1.1em;
+			font-weight: 700;
+			letter-spacing: 0.06em;
+			text-transform: uppercase;
+			color: var(--text-muted);
+			margin-bottom: 1.25em;
+		}
+		.related-grid {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 1em;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+		.related-card {
+			background: var(--bg-card);
+			border: 1px solid var(--border);
+			border-radius: 10px;
+			overflow: hidden;
+			position: relative;
+			transition: border-color 0.2s ease, transform 0.2s ease;
+		}
+		.related-card:hover {
+			border-color: var(--border-hover);
+			transform: translateY(-2px);
+		}
+		.related-card-img {
+			aspect-ratio: 16/9;
+			overflow: hidden;
+		}
+		.related-card-img img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			display: block;
+			transition: transform 0.3s ease;
+		}
+		.related-card:hover .related-card-img img { transform: scale(1.04); }
+		.related-card-body { padding: 0.85em; }
+		.related-card-title {
+			font-size: 0.88em;
+			font-weight: 600;
+			line-height: 1.4;
+			color: var(--text-heading);
+			margin: 0 0 0.35em;
+		}
+		.related-card-title a {
+			text-decoration: none;
+			color: inherit;
+		}
+		.related-card-title a::after {
+			content: '';
+			position: absolute;
+			inset: 0;
+			z-index: 1;
+		}
+		.related-card-title a:hover { color: var(--accent-light); }
+		.related-card-date {
+			font-size: 0.75em;
+			color: var(--text-muted);
+		}
+		@media (max-width: 700px) {
+			.related-grid { grid-template-columns: 1fr; }
+		}
 		</style>
 	</head>
 
@@ -212,7 +328,16 @@ const category = getPostCategory(Astro.props);
 					<hr />
 					<slot />
 
-					<div class="share-section">
+					{tags && tags.length > 0 && (
+						<div class="topics-section">
+							<span class="topics-label">Temas:</span>
+							{tags.map((tag) => (
+								<a class="topic-tag" href={`/tag/${tag}`}>#{tag}</a>
+							))}
+						</div>
+					)}
+
+										<div class="share-section">
 						<p class="share-label">Compartir artículo</p>
 						<div class="share-buttons">
 							<a class="share-btn whatsapp" id="share-whatsapp" target="_blank" rel="noopener noreferrer">
@@ -236,7 +361,29 @@ const category = getPostCategory(Astro.props);
 					</div>
 				</div>
 			</article>
-		<Comments />
+		{relatedPosts.length > 0 && (
+			<div class="related-section">
+				<h2>Artículos Relacionados</h2>
+				<ul class="related-grid">
+					{relatedPosts.map((p) => (
+						<li class="related-card">
+							{p.heroImage && (
+								<div class="related-card-img">
+									<img src={unsplashCard(p.heroImage)} alt={p.title} loading="lazy" decoding="async" />
+								</div>
+							)}
+							<div class="related-card-body">
+								<h3 class="related-card-title">
+									<a href={`/blog/${p.id}/`}>{p.title}</a>
+								</h3>
+								<time class="related-card-date"><FormattedDate date={p.pubDate} /></time>
+							</div>
+						</li>
+					))}
+				</ul>
+			</div>
+		)}
+				<Comments />
 		</main>
 		<Footer />
 	<script>

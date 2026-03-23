@@ -3,6 +3,7 @@ title: "Facebook lanza programa de monetización para arrebatar creadores a TikT
 description: "Facebook pagó $3 mil millones a creadores en 2025, un aumento del 35%. Conoce cómo la plataforma busca competir contra TikTok y YouTube."
 pubDate: "2026-03-18"
 category: "Tecnología"
+tags: ["meta", "redes-sociales", "creadores"]
 heroImage: "https://images.unsplash.com/photo-1655199798186-23a85b12c4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxGYWNlYm9vayUyMGNyZWF0b3IlMjBtb25ldGl6YXRpb24lMjBlYXJuaW5nc3xlbnwxfDB8fHwxNzczODY5NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 

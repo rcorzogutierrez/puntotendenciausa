@@ -3,6 +3,7 @@ title: "Trevor Milton intenta recaudar $1B para aviones autónomos impulsados po
 description: "El fundador indultado de Nikola busca financiamiento para desarrollar aviones autónomos. Milton asegura que será '10 veces más difícil que Nikola'."
 pubDate: "2026-03-19"
 category: "Tecnología"
+tags: ["ia-generativa", "startups", "robots"]
 heroImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80"
 ---
 

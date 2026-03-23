@@ -3,6 +3,7 @@ title: "Meta recorta 16,000 empleados para financiar su apuesta por IA"
 description: "Meta planea recortar el 20% de su plantilla (16,000 empleos) mientras Zuckerberg apuesta $600 mil millones en inteligencia artificial para 2028."
 pubDate: "2026-03-16"
 category: "Inteligencia Artificial"
+tags: ["meta", "ia-generativa"]
 heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&q=85"
 ---
 

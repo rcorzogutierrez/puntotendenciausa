@@ -3,6 +3,7 @@ title: "El FBI compra datos de ubicación para rastrear a ciudadanos estadounide
 description: "El director del FBI confirma que la agencia compra datos de ubicación comerciales para rastrear a estadounidenses sin necesidad de orden judicial. Lo que significa para tu privacidad."
 pubDate: "2026-03-19"
 category: "Tecnología"
+tags: ["privacidad", "gobierno", "ciberseguridad"]
 heroImage: "https://images.unsplash.com/photo-1617772718763-f4ddab89311b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxGQkklMjBzdXJ2ZWlsbGFuY2UlMjBsb2NhdGlvbiUyMHRyYWNraW5nJTIwZGF0YXxlbnwxfDB8fHwxNzczOTI4NTE5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 
