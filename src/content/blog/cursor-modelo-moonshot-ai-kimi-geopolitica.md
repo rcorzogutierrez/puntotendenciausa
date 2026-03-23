@@ -3,7 +3,7 @@ title: "Cursor admite usar modelo de IA chino: la polémica que sacude Silicon V
 description: "Cursor revela que su modelo de código se construyó sobre Kimi de Moonshot AI. Las tensiones geopolíticas llegan a las herramientas de desarrollo."
 pubDate: "2026-03-23"
 category: "Tecnología"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80"
 tags: ["IA", "Cursor", "Moonshot AI", "geopolítica tech", "herramientas de desarrollo"]
 ---
 
