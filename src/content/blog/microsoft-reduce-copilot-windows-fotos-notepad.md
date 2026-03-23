@@ -2,7 +2,7 @@
 title: "Microsoft reduce el exceso de Copilot en Windows: menos distracciones, más control"
 description: "Microsoft quita puntos de acceso a Copilot en Fotos, Widgets y Notepad. La IA retrocede ante las críticas por invasividad."
 pubDate: "2026-03-22"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["microsoft", "ia-generativa", "productividad"]
 heroImage: "https://images.unsplash.com/photo-1728556564688-39e3d50bd60a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxXaW5kb3dzJTIwaW50ZXJmYWNlJTIwQUklMjBhc3Npc3RhbnQlMjBibG9hdHxlbnwxfDB8fHwxNzc0MjE1Njg1fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

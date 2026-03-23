@@ -2,7 +2,7 @@
 title: "La Inteligencia Personal de Google llega para todos los usuarios en USA"
 description: "Google expande su nueva función de Inteligencia Personal a todos los usuarios estadounidenses. Conoce cómo esta IA accede a tu información para darte respuestas personalizadas."
 pubDate: "2026-03-18"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["google", "ia-generativa", "productividad"]
 heroImage: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=1600&q=85"
 ---

@@ -2,7 +2,7 @@
 title: "Amazon desarrolla su propio smartphone con Alexa como protagonista"
 description: "Amazon está creando un smartphone revolucionario donde Alexa será el corazón del dispositivo. Descubre cómo cambiaría tu forma de comprar y usar Amazon."
 pubDate: "2026-03-21"
-category: "Tecnología"
+category: "Gadgets"
 tags: ["amazon", "gadgets", "ia-generativa"]
 heroImage: "https://images.unsplash.com/photo-1553624495-5a4561343a52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBbWF6b24lMjBBbGV4YSUyMHNtYXJ0cGhvbmUlMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3NzQxMDA0ODd8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

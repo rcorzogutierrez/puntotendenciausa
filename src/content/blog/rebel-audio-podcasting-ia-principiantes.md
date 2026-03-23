@@ -2,7 +2,7 @@
 title: "Rebel Audio: la herramienta de IA que hace que grabar podcasts sea cosa de principiantes"
 description: "Rebel Audio es la plataforma all-in-one para grabar, editar y publicar podcasts sin salir de una sola app. Perfecta para creadores primerizos."
 pubDate: "2026-03-19"
-category: "Tecnología"
+category: "Gadgets"
 tags: ["ia-generativa", "gadgets", "creadores"]
 heroImage: "https://images.unsplash.com/photo-1627667050609-d4ba6483a368?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxwb2RjYXN0JTIwcmVjb3JkaW5nJTIwc3R1ZGlvJTIwbWljcm9waG9uZXxlbnwxfDB8fHwxNzczOTI2OTc4fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

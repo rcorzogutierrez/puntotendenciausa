@@ -2,7 +2,7 @@
 title: "Jeff Bezos quiere $100 mil millones para comprar fábricas viejas y transformarlas con IA"
 description: "El magnate de Amazon busca adquirir empresas manufactureras antiguas y revolucionarlas con inteligencia artificial. Un proyecto ambicioso que podría cambiar la industria."
 pubDate: "2026-03-20"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["amazon", "ia-generativa", "hardware"]
 heroImage: "https://images.unsplash.com/photo-1667328931918-b6362ed95c1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhYmFuZG9uZWQlMjBmYWN0b3J5JTIwQUklMjBtYW51ZmFjdHVyaW5nfGVufDF8MHx8fDE3NzQwNDQ4NDh8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

@@ -2,7 +2,7 @@
 title: "Las startups de IA devoran la industria de inversión: así está cambiando el venture capital"
 description: "El 41% de los $128 mil millones en inversión de riesgo fueron para startups de IA en 2025. Descubre qué significa esto para emprendedores latinos."
 pubDate: "2026-03-21"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["ia-generativa", "startups", "ipo"]
 heroImage: "https://images.unsplash.com/photo-1593510987459-9a1489817a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbCUyMGludmVzdG1lbnQlMjBmdW5kaW5nJTIwc3RhcnR1cHxlbnwxfDB8fHwxNzc0MTAwNTI5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---

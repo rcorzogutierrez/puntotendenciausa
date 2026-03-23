@@ -2,7 +2,7 @@
 title: "EE.UU. lanza la Misión Génesis: cómo Trump quiere ganar la carrera de la IA con chips y supercomputadoras"
 description: "La administración Trump lanza la Misión Génesis para usar IA en energía, defensa y ciencia. Dell y el Departamento de Energía lideran el plan de supercomputación."
 pubDate: "2026-03-13"
-category: "Tecnología"
+category: "Inteligencia Artificial"
 tags: ["gobierno", "ia-generativa", "energia"]
 heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=85"
 ---
