@@ -1,0 +1,48 @@
+/*
+ * Tema personalizado de Giscus para La Tendencia USA
+ * Usa los colores exactos del sitio para integrarse visualmente.
+ */
+
+:root {
+  --color-canvas-default: #1a2340;
+  --color-canvas-subtle: #141e35;
+  --color-canvas-inset: #0f172a;
+
+  --color-border-default: rgba(255, 255, 255, 0.08);
+  --color-border-muted: rgba(255, 255, 255, 0.05);
+
+  --color-fg-default: #cbd5e1;
+  --color-fg-muted: #94a3b8;
+  --color-fg-subtle: #64748b;
+
+  --color-accent-fg: #818cf8;
+  --color-accent-emphasis: #4f46e5;
+
+  --color-btn-primary-bg: #4f46e5;
+  --color-btn-primary-hover-bg: #6060e8;
+  --color-btn-primary-text: #ffffff;
+  --color-btn-primary-border: rgba(79, 70, 229, 0.4);
+
+  --color-btn-text: #cbd5e1;
+  --color-btn-bg: #1a2340;
+  --color-btn-border: rgba(255, 255, 255, 0.1);
+  --color-btn-hover-bg: #1f2a4d;
+  --color-btn-hover-border: rgba(255, 255, 255, 0.15);
+
+  --color-neutral-muted: rgba(255, 255, 255, 0.06);
+
+  --color-input-bg: #0f172a;
+  --color-input-border: rgba(255, 255, 255, 0.1);
+  --color-input-focus-bg: #0f172a;
+
+  --color-social-reaction-bg-hover: rgba(79, 70, 229, 0.15);
+  --color-social-reaction-bg-reacted-hover: rgba(79, 70, 229, 0.2);
+
+  --color-header-bg: #141e35;
+  --color-header-text: #f1f5f9;
+
+  --color-link: #818cf8;
+  --color-link-hover: #a5b4fc;
+
+  color-scheme: dark;
+}
