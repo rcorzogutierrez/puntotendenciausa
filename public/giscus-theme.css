@@ -43,6 +43,16 @@
   color-scheme: dark;
 }
 
+/* Padding interno del widget */
+.gsc-main,
+.gsc-header,
+.gsc-comments,
+.gsc-comment-box,
+.gsc-footer {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
 /* Fondo de la página: elimina el "box" flotante */
 html, body {
   background-color: #0f172a !important;
