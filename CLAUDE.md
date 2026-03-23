@@ -19,6 +19,17 @@ description: "" # 150-160 caracteres
 pubDate: "YYYY-MM-DD"
 category: "" # Tecnología | Inteligencia Artificial | Gadgets | Ciencia | Gaming
 heroImage: "" # URL de Unsplash
+tags: [] # 2-4 tags obligatorios — ver taxonomía abajo
+
+## Taxonomía de tags (usar exactamente estos valores)
+Empresas: openai, google, apple, meta, nvidia, microsoft, anthropic, amazon, spacex
+IA: ia-generativa, agentes-ia, modelos-ia, open-source
+Productos: gaming, gadgets, wearables, hardware, robots
+Seguridad: ciberseguridad, privacidad
+Negocio: startups, ipo
+Gobierno: gobierno, defensa, energia
+Contenido: redes-sociales, creadores, streaming, productividad
+Ciencia: ciencia, historia, salud-digital
 
 ## Estilo de escritura
 - Tono conversacional y humano, nunca robótico
