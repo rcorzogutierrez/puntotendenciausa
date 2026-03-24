@@ -3,7 +3,7 @@ title: "Elizabeth Warren acusa al Pentágono de represalia contra Anthropic"
 description: "La senadora demócrata critica la decisión del Departamento de Defensa de etiquetar a Anthropic como 'riesgo de cadena de suministro'. ¿Represalia política o seguridad nacional?"
 pubDate: "2026-03-24"
 category: "Inteligencia Artificial"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200&q=80"
 tags: ["Anthropic", "Pentágono", "IA militar", "Elizabeth Warren", "política tecnológica"]
 ---
 
