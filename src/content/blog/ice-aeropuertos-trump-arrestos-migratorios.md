@@ -42,8 +42,3 @@ También considera viajar en grupo o alertar a familiares de tu viaje. En tiempo
 ## La pregunta más grande
 
 ¿Hasta dónde llegará esto? ¿Son solo los aeropuertos, o veremos a ICE en estaciones de tren, paradas de autobús, y otros lugares públicos? La administración Trump ha dejado claro que la inmigración es su prioridad, y mientras el cierre continúe, estas medidas probablemente se expandan. La pregunta es: ¿qué tan cómodo te sientes viajando bajo estas nuevas condiciones?
-
-## Artículos Relacionados
-- [El FBI compra datos de ubicación para rastrear a ciudadanos estadounidenses sin orden judicial](https://latendenciausa.web.app/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/)
-- [El marco de IA de Trump quiere controlar a los estados y poner la seguridad infantil en manos de los padres](https://latendenciausa.web.app/blog/marco-ia-trump-preemption-estados-seguridad-infantil/)
-- [Ataque cibernético a empresa de alcoholímetros deja a conductores varados en EE.UU.](https://latendenciausa.web.app/blog/ataque-cibernetico-alcoholimetro-autos-varados/)

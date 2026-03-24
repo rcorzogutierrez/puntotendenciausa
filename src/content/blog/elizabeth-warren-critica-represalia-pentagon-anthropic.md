@@ -38,8 +38,3 @@ Por ahora, Anthropic está en una posición incómoda. La compañía [valorada e
 Warren está pidiendo transparencia: que el DOD explique públicamente por qué considera a Anthropic un riesgo y qué evidencia lo respalda. Es un llamado razonable en una era donde las decisiones gubernamentales sobre tecnología tienen consecuencias enormes.
 
 La ironía es que mientras el gobierno estadounidense intenta proteger su seguridad nacional limitando el acceso de Anthropic, otros países —incluyendo China— están corriendo a su propio ritmo en IA. ¿Realmente estamos ganando algo al fracturar nuestro ecosistema de innovación, o simplemente nos estamos disparando en el pie?
-
-## Artículos Relacionados
-- [El Pentágono busca alternativas a Anthropic tras ruptura](https://latendenciausa.web.app/blog/el-pentagon-busca-alternativas-anthropic-ruptura/)
-- [Anthropic vale $380 mil millones y prepara su salida a bolsa](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/)
-- [El marco de IA de Trump quiere controlar a los estados y poner la seguridad infantil en manos de los padres](https://latendenciausa.web.app/blog/marco-ia-trump-preemption-estados-seguridad-infantil/)

@@ -42,8 +42,3 @@ La pregunta que todos nos hacemos es: ¿cuánto tiempo puede durar esto? ¿Cuán
 Por ahora, Jensen Huang sigue escribiendo la historia. GTC 2026 fue un capítulo más, pero definitivamente no es el final.
 
 ¿Crees que Nvidia puede mantener su dominio, o eventualmente la competencia va a lograrlo? ¿Qué parte de su presentación te pareció más impresionante?
-
-## Artículos Relacionados
-- [Nvidia GTC 2026: Jensen Huang revela el futuro de la IA más allá de los chips](https://latendenciausa.web.app/blog/nvidia-gtc-2026-jensen-huang-futuro-ia/)
-- [La energía es el cuello de botella de la IA: por qué los inversores apuntan a la tecnología energética](https://latendenciausa.web.app/blog/energia-cuello-botella-ia-inversion/)
-- [Wall Street no se dejó impresionar por la gran conferencia de Nvidia](https://latendenciausa.web.app/blog/wall-street-no-se-impresiono-nvidia-conferencia/)

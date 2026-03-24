@@ -38,8 +38,3 @@ También hay implicaciones geopolíticas. Los países que controlen la energía 
 Para los usuarios latinos en Estados Unidos, esto podría significar acceso a herramientas de IA mejores y más baratas en el futuro. Pero también significa que las empresas tech seguirán creciendo sin límite aparente, consolidando aún más su poder.
 
 ¿Crees que la fusión nuclear es realmente la solución que la IA necesita, o estamos gastando recursos en perseguir fuegos fatuos tecnológicos?
-
-## Artículos Relacionados
-- [La energía es el cuello de botella de la IA: por qué los inversores apuntan a la tecnología energética](https://latendenciausa.web.app/blog/energia-cuello-botella-ia-inversion/)
-- [Blue Origin de Jeff Bezos entra al juego de los centros de datos espaciales](https://latendenciausa.web.app/blog/blue-origin-project-sunrise-satelites-data-center-espacio/)
-- [Energía de fusión: la promesa de electricidad limpia ilimitada](https://latendenciausa.web.app/blog/energia-fusion-startups-electricidad-limpia/)
