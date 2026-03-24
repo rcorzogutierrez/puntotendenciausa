@@ -40,8 +40,3 @@ La startup podría intentar entrenar su propio modelo o negociar con otra altern
 Lo interesante es que esto no es un problema único de Cursor. Cualquier startup de IA que dependa de infraestructura o modelos extranjeros enfrenta la misma presión. La carrera por la IA está llevando a decisiones que hace un año nadie pensaba que serían "decisiones políticas". Ahora lo son.
 
 ¿Crees que las startups deberían tener derecho a construir sobre la mejor tecnología disponible, sin importar su origen? ¿O vivimos en una era donde la soberanía tecnológica tiene que venir primero?
-
-## Artículos Relacionados
-- [Anthropic vale $380 mil millones y prepara su salida a bolsa](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/)
-- [OpenAI se expande en el gobierno con acuerdo con AWS](https://latendenciausa.web.app/blog/openai-expande-gobierno-acuerdo-aws/)
-- [EE.UU. lanza la Misión Génesis: cómo Trump quiere ganar la carrera de la IA con chips y supercomputadoras](https://latendenciausa.web.app/blog/trump-genesis-mission-ia-defensa-energia/)
