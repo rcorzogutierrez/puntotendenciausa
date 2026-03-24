@@ -4,7 +4,7 @@ description: "Trump propone un marco de IA que prioriza innovación sobre regula
 pubDate: "2026-03-21"
 category: "Tecnología"
 tags: ["gobierno", "ia-generativa", "privacidad"]
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200&q=80"
 ---
 
 La administración Trump acaba de presentar su visión para regular la inteligencia artificial en Estados Unidos, y como era de esperarse, el enfoque está lejos de ser restrictivo. El nuevo marco de IA federal busca algo muy específico: asegurarse de que Washington tenga la última palabra, no los estados individuales.

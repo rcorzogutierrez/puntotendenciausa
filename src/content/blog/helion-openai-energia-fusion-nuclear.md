@@ -3,7 +3,7 @@ title: "Helion venderá energía a OpenAI: la fusión nuclear llega a Silicon Va
 description: "Sam Altman abandona su cargo en Helion mientras negocia vender el 12.5% de su energía a OpenAI. La carrera por potencia nuclear para IA se intensifica en 2026."
 pubDate: "2026-03-23"
 category: "Inteligencia Artificial"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1200&q=80"
 tags: ["energía nuclear", "OpenAI", "Helion", "fusión", "data centers IA"]
 ---
 
