@@ -27,6 +27,8 @@ Para cuando se convirtió en vicepresidente regional en San Diego en 1999, la ca
 
 ## La fusión que cambió su historia
 
+Antes de hablar de la fusión, vale la pena detenerse en quién fundó Price Club, porque el árbol genealógico de estas empresas tiene mucho que ver con América Latina. Sol Price —considerado el padre del modelo warehouse club— fundó Price Club en 1976 junto a su hijo Robert Price. Sol fue el mentor directo de Jim Sinegal, cofundador de Costco, quien reconoció públicamente haberle aprendido todo sobre el negocio. Cuando Price Club y Costco se fusionaron en 1993, Robert Price se fue con los activos internacionales y usó esa base para crear **PriceSmart** en 1997: la cadena de membresías que hoy opera en Panamá, Costa Rica, Colombia, República Dominicana y otros 9 países latinoamericanos. Es decir, si alguna vez entraste a un PriceSmart en tu país de origen, estabas en una tienda que desciende directamente de la misma empresa donde Vachris empezó manejando un montacargas. El ADN es el mismo.
+
 En 1993, Price Club se fusionó con Costco. Para muchos empleados eso habría sido una señal de incertidumbre. Para Vachris fue simplemente un nuevo capítulo en la misma historia. Continuó gestionando tiendas y creciendo dentro de la empresa fusionada hasta dar el salto a la dirección corporativa en 2010.
 
 Pero quizás el giro más inesperado llegó en 2015, cuando Jeff Brotman —cofundador de Costco— le preguntó si quería dirigir la división de bienes raíces de la empresa.
