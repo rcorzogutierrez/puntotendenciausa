@@ -13,7 +13,10 @@ export default defineConfig({
 	},
 	integrations: [
 		mdx(),
-		sitemap(),
+		sitemap({
+		  filter: (page) =>
+		    !page.match(/\/blog\/\d+\/?$/),
+		}),
 		partytown({
 			config: {
 				forward: ['dataLayer.push'],
