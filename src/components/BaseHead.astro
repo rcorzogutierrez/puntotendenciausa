@@ -79,6 +79,15 @@ const metaDescription = description.length <= 160
 <meta property="twitter:description" content={metaDescription} />
 <meta property="twitter:image" content={new URL(imageSrc, Astro.url)} />
 
+<!-- Schema Markup: WebSite -->
+<script type="application/ld+json" set:html={JSON.stringify({
+	"@context": "https://schema.org",
+	"@type": "WebSite",
+	"name": "La Tendencia USA",
+	"url": "https://latendenciausa.web.app",
+	"description": "Blog de tecnología en español para latinos en USA"
+})} />
+
 <!-- Google Analytics 4 — ejecutado en Web Worker via Partytown (off main thread) -->
 <script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-QK0Z3S712M"></script>
 <script type="text/partytown">
