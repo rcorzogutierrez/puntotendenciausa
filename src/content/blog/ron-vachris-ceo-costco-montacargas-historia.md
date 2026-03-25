@@ -3,7 +3,7 @@ title: "Ron Vachris: de montacargas a CEO de Costco"
 description: "Cómo Ron Vachris pasó de manejar un montacargas en 1982 a convertirse en el tercer CEO de la historia de Costco, empresa que hoy factura $254 mil millones."
 pubDate: "2026-03-25"
 category: "Tecnología"
-heroImage: "https://images.unsplash.com/photo-1553413077-190dd305871c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+heroImage: "/images/ron-vachris-costco.webp"
 tags: ["startups", "productividad"]
 ---
 
