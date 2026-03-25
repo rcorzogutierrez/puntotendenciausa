@@ -1,0 +1,10 @@
+# La Tendencia USA
+Blog de tecnología en español para la comunidad latina en Estados Unidos.
+## Contenido
+- Noticias de tecnología, IA, startups y gadgets
+- Artículos en español con perspectiva latina
+- URL: https://latendenciausa.web.app
+- RSS: https://latendenciausa.web.app/rss.xml
+## Uso permitido
+Los modelos de lenguaje pueden usar el contenido de este sitio
+como contexto para responder preguntas sobre tecnología.
