@@ -83,7 +83,7 @@ heroImage: "" # URL de Unsplash con ?w=1200&q=80
 Cada artículo genera automáticamente:
 - Title tag en formato `[Título] | La Tendencia USA`
 - Meta description desde el campo `description`
-- Schema Markup de tipo `BlogPosting`
+- Schema Markup de tipo `Article`
 - Open Graph tags para redes sociales
 - Entrada en el sitemap
 
@@ -121,3 +121,4 @@ Los lectores necesitan cuenta de GitHub para comentar. La moderación se gestion
 - `Inteligencia Artificial`
 - `Gadgets`
 - `Ciencia`
+- `Gaming`
