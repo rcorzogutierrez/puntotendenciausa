@@ -3,7 +3,7 @@ title: "Google lanza Lyria 3 Pro: música de IA más larga y personalizable"
 description: "Google presenta Lyria 3 Pro, su modelo de generación musical mejorado que crea canciones más largas y personalizables. Así expande la IA musical en Gemini y productos empresariales."
 pubDate: "2026-03-26"
 category: "Inteligencia Artificial"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1200&q=80"
 tags: ["IA música", "Google Lyria", "generación de audio", "Gemini", "creatividad digital"]
 ---
 
