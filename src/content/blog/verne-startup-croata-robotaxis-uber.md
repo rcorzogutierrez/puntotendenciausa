@@ -3,7 +3,7 @@ title: "Verne: la startup croata que desafía a Tesla en robotaxis"
 description: "Verne, lanzada por Rimac Group, llega al mercado de robotaxis con servicio en Zagreb. Conoce cómo esta startup europea compite contra gigantes tech."
 pubDate: "2026-03-26"
 category: "Startups"
-heroImage: "?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1685984351618-f0c4287590b8?q=80&w=1200"
 tags: ["robotaxis", "vehículos autónomos", "startups europeas", "innovación tech", "transporte autónomo"]
 ---
 
