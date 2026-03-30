@@ -17,6 +17,18 @@ const recentPosts = (await getCollection('blog'))
 <html lang="es">
 	<head>
 		<BaseHead title="La Tendencia USA — Inteligencia Artificial y Tendencias Digitales en Español" description="Tecnología, inteligencia artificial y tendencias digitales explicadas en español para toda la comunidad latina e hispanohablante. Noticias tech sin tecnicismos." />
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"name": "La Tendencia USA",
+			"url": "https://latendenciausa.web.app",
+			"description": "Blog de tecnología, inteligencia artificial y tendencias digitales en español para la comunidad latina en Estados Unidos.",
+			"sameAs": [
+				"https://facebook.com/latendenciausa",
+				"https://instagram.com/latendenciausa",
+				"https://www.threads.com/@latendenciausa"
+			]
+		})} />
 		<style>
 			/* Override global main for full-width layout */
 			main {
