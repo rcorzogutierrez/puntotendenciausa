@@ -3,7 +3,7 @@ title: "Apple abre Siri a Gemini, Claude y más: el iPhone cambia para siempre"
 description: "Con iOS 27, Apple permitirá que Gemini, Claude y otras IAs se integren directamente en Siri. Te explicamos qué significa esto para tu iPhone y por qué Apple lo hace ahora."
 pubDate: "2026-03-30"
 category: "Inteligencia Artificial"
-heroImage: "https://images.unsplash.com/photo-1591994843349-f415893b3a6b?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1200&q=80"
 tags: ["apple", "ia-generativa", "agentes-ia", "modelos-ia", "google"]
 ---
 
