@@ -19,7 +19,7 @@ Hasta ahora, Siri solo tenía esta capacidad con ChatGPT a través del acuerdo e
 
 ## Por qué Apple está haciendo esto ahora
 
-Seamos honestos: Siri quedó rezagada. Mientras ChatGPT, Gemini y Claude avanzaban a velocidades impresionantes, Siri seguía siendo el mismo asistente limitado de siempre. Apple lo sabe y en lugar de competir directamente, tomó una decisión inteligente: convertir el iPhone en la plataforma donde viven todas las IAs.
+Seamos honestos: Siri quedó rezagada. [Apple ya intentó reinventar Siri con IA el año pasado](/blog/apple-reinventa-siri-con-ia/), pero los avances no fueron suficientes. Mientras ChatGPT, [Gemini](/blog/google-gemini-flash-lite-modelo-barato/) y [Claude](/blog/anthropic-claude-code-380-mil-millones-ipo/) avanzaban a velocidades impresionantes, Siri seguía siendo el mismo asistente limitado de siempre. Apple lo sabe y en lugar de competir directamente, tomó una decisión inteligente: convertir el iPhone en la plataforma donde viven todas las IAs.
 
 Es el mismo modelo del App Store, pero para inteligencia artificial. Y si Apple se queda con una comisión de las suscripciones de las apps de IA que pasen por Siri — algo que se está reportando — habrá construido otro negocio de miles de millones sin tener que ganar la carrera de los modelos.
 
@@ -32,7 +32,7 @@ El cambio no es solo la apertura a terceros. Apple está rediseñando Siri desde
 - **Acciones complejas**: editar fotos, organizar archivos, gestionar recordatorios con múltiples pasos
 - **Unificación con Spotlight**: búsqueda y asistente fusionados en una sola experiencia
 
-Todo esto llega junto con iOS 27, que Apple presentará en la **WWDC el 8 de junio** y lanzará en otoño junto al iPhone 18.
+Todo esto llega junto con iOS 27, que Apple presentará en la **WWDC el 8 de junio** y lanzará en otoño junto al iPhone 18. Si eres fan del ecosistema Apple, también te puede interesar el [MacBook Neo, la laptop más accesible que Apple ha lanzado en años](/blog/macbook-neo-apple-laptop-barata/).
 
 ## Lo que esto significa para ti
 
