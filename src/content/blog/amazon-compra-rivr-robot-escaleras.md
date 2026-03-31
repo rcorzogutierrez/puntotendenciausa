@@ -19,7 +19,7 @@ No es magia. Es ingeniería mecánica aplicada a un problema real que Amazon ha 
 
 ## Por qué esto es más grande que una simple compra
 
-La adquisición de Rivr se alinea perfectamente con la visión que Jeff Bezos comunicó hace poco sobre [su plan para invertir $100 mil millones en transformar fábricas antiguas con inteligencia artificial](https://latendenciausa.web.app/blog/jeff-bezos-100-mil-millones-fabrica-ia/). No estamos hablando solo de robots en escaleras. Estamos hablando de una red logística completamente reimaginada, donde cada punto del proceso es automatizado.
+La adquisición de Rivr se alinea perfectamente con la visión que Jeff Bezos comunicó hace poco sobre [su plan para invertir $100 mil millones en transformar fábricas antiguas con inteligencia artificial](/blog/jeff-bezos-100-mil-millones-fabrica-ia/). No estamos hablando solo de robots en escaleras. Estamos hablando de una red logística completamente reimaginada, donde cada punto del proceso es automatizado.
 
 Amazon no está apostando por un robot. Está apostando por que toda la cadena de suministro del futuro sea robótica. Rivr es una pieza de ese rompecabezas mucho más grande.
 
@@ -31,9 +31,9 @@ Lo que sí es cierto es que el papel del repartidor va a cambiar. Menos trabajo 
 
 ## El timing perfecto
 
-Amazon anuncia esto en un momento donde [la administración Trump impulsa la Misión Génesis para desarrollar infraestructura de IA y chips avanzados](https://latendenciausa.web.app/blog/trump-genesis-mission-ia-defensa-energia/). La narrativa nacional es la automatización, la eficiencia, la tecnología que trabaja por ti mientras duermes. Amazon está perfectamente posicionada en esa conversación.
+Amazon anuncia esto en un momento donde [la administración Trump impulsa la Misión Génesis para desarrollar infraestructura de IA y chips avanzados](/blog/trump-genesis-mission-ia-defensa-energia/). La narrativa nacional es la automatización, la eficiencia, la tecnología que trabaja por ti mientras duermes. Amazon está perfectamente posicionada en esa conversación.
 
-Además, con [Boston Dynamics ya desplegando sus robots en plantas de manufactura real](https://latendenciausa.web.app/blog/boston-dynamics-atlas-fabricas-hyundai-robots/), el mercado ya está acostumbrado a ver robots trabajando en serio. Rivr no es una novedad futurista; es solo otro paso en una dirección que ya está clara.
+Además, con [Boston Dynamics ya desplegando sus robots en plantas de manufactura real](/blog/boston-dynamics-atlas-fabricas-hyundai-robots/), el mercado ya está acostumbrado a ver robots trabajando en serio. Rivr no es una novedad futurista; es solo otro paso en una dirección que ya está clara.
 
 ## ¿Y para ti como usuario?
 

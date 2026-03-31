@@ -17,7 +17,7 @@ El sistema de Doss utiliza algoritmos de aprendizaje automático para predecir d
 
 ## El dinero habla, y Doss está escuchando
 
-Madrona y Premji Invest co-lideraron esta ronda de financiamiento, lo que señala algo importante: los inversores ven potencial masivo en la automatización de cadenas de suministro. No es casualidad que [las startups de IA estén devorando todo el capital de riesgo disponible](https://latendenciausa.web.app/blog/startups-ia-devoran-venture-capital-retornos/)—están resolviendo problemas reales que cuestan millones a las empresas.
+Madrona y Premji Invest co-lideraron esta ronda de financiamiento, lo que señala algo importante: los inversores ven potencial masivo en la automatización de cadenas de suministro. No es casualidad que [las startups de IA estén devorando todo el capital de riesgo disponible](/blog/startups-ia-devoran-venture-capital-retornos/)—están resolviendo problemas reales que cuestan millones a las empresas.
 
 Con $55 millones adicionales, Doss planea expandir su equipo de ingeniería, acelerar el desarrollo de nuevas funciones y, probablemente, conquistar más clientes en la región de América Latina donde muchas empresas tradicionales todavía luchan con inventarios ineficientes.
 
@@ -29,7 +29,7 @@ La belleza de Doss está en que no requiere una migración traumática. En lugar
 
 ## El contexto más amplio
 
-Este tipo de financiamiento también refleja una tendencia más grande: la IA ya no es solo para chatbots o generadores de imágenes. [La IA agéntica está automatizando trabajos reales mientras duermes](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), y eso incluye decisiones sobre cuánto producto mantener en stock o cuándo hacer el próximo pedido.
+Este tipo de financiamiento también refleja una tendencia más grande: la IA ya no es solo para chatbots o generadores de imágenes. [La IA agéntica está automatizando trabajos reales mientras duermes](/blog/ia-agentica-automatiza-tu-trabajo/), y eso incluye decisiones sobre cuánto producto mantener en stock o cuándo hacer el próximo pedido.
 
 Las empresas de logística y retail están bajo presión constante para mejorar márgenes. La IA no es un lujo—es una necesidad competitiva. Doss está posicionada para capturar una porción significativa de este mercado.
 

@@ -23,13 +23,13 @@ La visión es colocar servidores en órbita alimentados por energía solar, que 
 
 ## La otra razón: xAI necesitaba dinero
 
-Seamos honestos también sobre el lado práctico del asunto. xAI lleva tiempo quemando caja a ritmo acelerado intentando construir infraestructura para competir con OpenAI, [Anthropic](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/) y Google. La fusión con SpaceX le da acceso al capital y a la infraestructura que necesita para seguir en la carrera.
+Seamos honestos también sobre el lado práctico del asunto. xAI lleva tiempo quemando caja a ritmo acelerado intentando construir infraestructura para competir con OpenAI, [Anthropic](/blog/anthropic-claude-code-380-mil-millones-ipo/) y Google. La fusión con SpaceX le da acceso al capital y a la infraestructura que necesita para seguir en la carrera.
 
 El problema es que apenas semanas después del cierre de la operación, el propio Musk admitió que xAI "no fue construida bien desde el principio" y que está siendo reconstruida desde los cimientos. Eso sí genera algunas preguntas sobre el timing.
 
 ## IPO en camino
 
-Para los que quieren invertir, la noticia importante es esta: SpaceX está preparando una **[oferta pública inicial](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) (IPO)** para finales de junio de 2026, con una valoración objetivo que podría alcanzar los $1.5 billones. Sería uno de los debuts bursátiles más grandes de la historia.
+Para los que quieren invertir, la noticia importante es esta: SpaceX está preparando una **[oferta pública inicial](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) (IPO)** para finales de junio de 2026, con una valoración objetivo que podría alcanzar los $1.5 billones. Sería uno de los debuts bursátiles más grandes de la historia.
 
 Si todo sale como Musk planea, quienes entren al IPO no solo estarían comprando acciones de una empresa de cohetes, sino también de inteligencia artificial, satélites Starlink, y potencialmente los primeros centros de datos orbitales del mundo.
 

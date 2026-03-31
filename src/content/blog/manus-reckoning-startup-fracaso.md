@@ -15,7 +15,7 @@ Lo fascinante de este momento es que, honestamente, nadie debería estar sorpren
 
 ## El patrón que ya hemos visto antes
 
-[Las startups de IA devoran la industria de inversión con retornos cada vez más difíciles de justificar](https://latendenciausa.web.app/blog/startups-ia-devoran-venture-capital-retornos/). Manus encaja perfectamente en este ecosistema donde el dinero fluye sin siempre tener claridad sobre los resultados reales.
+[Las startups de IA devoran la industria de inversión con retornos cada vez más difíciles de justificar](/blog/startups-ia-devoran-venture-capital-retornos/). Manus encaja perfectamente en este ecosistema donde el dinero fluye sin siempre tener claridad sobre los resultados reales.
 
 La diferencia aquí es que Manus tenía todo lo que parecía necesario: financiamiento, talento, visión. Pero en algún punto, la realidad se impone a las promesas. Las métricas no cumplen. Los usuarios no llegan. Las proyecciones se desmorona.
 
@@ -27,7 +27,7 @@ Este tipo de situaciones generan tres efectos dominó: primero, los empleados em
 
 ## La lección que sigue ignorándose
 
-Lo que realmente duele es que esto ya pasó antes. Muchas veces. [Meta incluso despidió al 10% de su personal para invertir más en IA](https://latendenciausa.web.app/blog/meta-despide-16000-empleados-apuesta-ia/), mostrando cómo incluso las gigantes ajustan sus apuestas cuando los números no dan.
+Lo que realmente duele es que esto ya pasó antes. Muchas veces. [Meta incluso despidió al 10% de su personal para invertir más en IA](/blog/meta-despide-16000-empleados-apuesta-ia/), mostrando cómo incluso las gigantes ajustan sus apuestas cuando los números no dan.
 
 Pero en startups, el problema es diferente. No tienen el colchón financiero de Meta o Google. Una mala apuesta no es un trimestre difícil; es potencialmente el fin.
 

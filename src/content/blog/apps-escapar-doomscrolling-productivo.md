@@ -29,19 +29,19 @@ Duolingo ha dominado el arte de la gamificación para bien. En lugar de perder t
 
 ## La estrategia psicológica detrás de estas apps
 
-[El futuro de la tecnología sin pantalla ya está aquí](https://latendenciausa.web.app/blog/gadgets-ia-sin-pantalla-2026/), con wearables que pueden reemplazar tu teléfono por completo. Pero mientras tanto, lo importante es entender que las apps que funcionan para romper el doomscrolling no luchan contra la adicción — la redirigen.
+[El futuro de la tecnología sin pantalla ya está aquí](/blog/gadgets-ia-sin-pantalla-2026/), con wearables que pueden reemplazar tu teléfono por completo. Pero mientras tanto, lo importante es entender que las apps que funcionan para romper el doomscrolling no luchan contra la adicción — la redirigen.
 
 Duolingo no te dice "deja de usar el teléfono", te dice "aprende 5 minutos". Notion no te prohíbe tomar notas, te permite gastar 30 minutos organizando tus ideas. Blinkist no elimina el tiempo de lectura rápida, lo celebra. Tu cerebro sigue dopado, pero con recompensas que realmente vale la pena.
 
 ## El rol de la IA en tu tiempo libre
 
-[Con la IA agéntica trabajando por ti mientras duermes](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), tienes más razones que nunca para recuperar tu tiempo libre de calidad. Si las máquinas hacen tu trabajo, ¿por qué gastar tu tiempo libre en doomscrolling? Es el momento perfecto para desarrollar habilidades o consumir contenido que realmente importa.
+[Con la IA agéntica trabajando por ti mientras duermes](/blog/ia-agentica-automatiza-tu-trabajo/), tienes más razones que nunca para recuperar tu tiempo libre de calidad. Si las máquinas hacen tu trabajo, ¿por qué gastar tu tiempo libre en doomscrolling? Es el momento perfecto para desarrollar habilidades o consumir contenido que realmente importa.
 
 ## El cambio real empieza en ti
 
 Aquí está la verdad incómoda: ninguna app te salvará si no tomas la decisión consciente de cambiar. La tecnología puede facilitarlo, pero tienes que querer romper el ciclo. 
 
-Algunos latinos en USA están tomando esto en serio — están buscando alternativas como [Kagi con su "Small Web" para móviles](https://latendenciausa.web.app/blog/kagi-small-web-moviles-internet-autentico/), internet sin algoritmos de recomendación que te atrapan.
+Algunos latinos en USA están tomando esto en serio — están buscando alternativas como [Kagi con su "Small Web" para móviles](/blog/kagi-small-web-moviles-internet-autentico/), internet sin algoritmos de recomendación que te atrapan.
 
 Otros simplemente están usando aplicaciones de distracción como escudos: Blinkist en el bus, Duolingo en el almuerzo, Notion antes de dormir. El punto es que el tiempo que podrías perder está ahí de todas formas — solo tienes que decidir qué haces con él.
 

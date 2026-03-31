@@ -19,7 +19,7 @@ La comparación es fuerte, pero tiene sentido. El ejecutivo argumenta que las re
 
 Aquí está el detalle importante: no está pidiendo que desaparezcan las redes sociales. Está pidiendo que gobiernos establezcan límites de edad claros, como sucede con productos peligrosos para la salud.
 
-Algunos países ya están experimentando. Australia debatió una ley para prohibir TikTok y otras plataformas a menores de 16. En Europa, regulaciones como la [ley que invierte Siri en Apple con inteligencia artificial avanzada](https://latendenciausa.web.app/blog/apple-reinventa-siri-con-ia/) están llevando a las big tech a replantearse cómo interactúan con usuarios jóvenes.
+Algunos países ya están experimentando. Australia debatió una ley para prohibir TikTok y otras plataformas a menores de 16. En Europa, regulaciones como la [ley que invierte Siri en Apple con inteligencia artificial avanzada](/blog/apple-reinventa-siri-con-ia/) están llevando a las big tech a replantearse cómo interactúan con usuarios jóvenes.
 
 ## El impacto mental que nadie quiere hablar
 

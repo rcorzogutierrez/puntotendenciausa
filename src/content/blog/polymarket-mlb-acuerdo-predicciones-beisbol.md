@@ -29,7 +29,7 @@ La MLB necesita mantener su relevancia entre generaciones más jóvenes. Los mer
 
 ## El contexto más amplio
 
-Este acuerdo llega en un momento en que [las plataformas de predicción enfrentan presión regulatoria](https://latendenciausa.web.app/blog/arizona-kalshi-cargos-criminales-apuestas-ilegales/). Arizona acusó recientemente a Kalshi de operar un negocio de juego ilegal, lo que muestra que el espacio todavía es frágil legalmente. Sin embargo, Polymarket parece estar navegando estas aguas con más cuidado, buscando legitimidad a través de alianzas institucionales como esta.
+Este acuerdo llega en un momento en que [las plataformas de predicción enfrentan presión regulatoria](/blog/arizona-kalshi-cargos-criminales-apuestas-ilegales/). Arizona acusó recientemente a Kalshi de operar un negocio de juego ilegal, lo que muestra que el espacio todavía es frágil legalmente. Sin embargo, Polymarket parece estar navegando estas aguas con más cuidado, buscando legitimidad a través de alianzas institucionales como esta.
 
 El acuerdo con la MLB funciona como un sello de aprobación. Dice: "Si las Grandes Ligas de Béisbol confían en nosotros, entonces somos serios."
 

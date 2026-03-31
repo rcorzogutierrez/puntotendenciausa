@@ -19,9 +19,9 @@ Este nuevo formato es particularmente ingenioso porque permite que múltiples ma
 
 ## Qué significa para los creadores y usuarios
 
-Para los usuarios latinos que dependen de TikTok como entretenimiento gratuito, esto significa más distracciones. Ya pasamos suficiente tiempo desplazándonos sin fin. Ahora, antes de ni siquiera llegar al contenido que queremos ver, estaremos bombardeados con logos y mensajes publicitarios. [Como hemos visto antes con otras plataformas, el doomscrolling ya es un problema serio que afecta nuestro bienestar mental](https://latendenciausa.web.app/blog/apps-escapar-doomscrolling-productivo/).
+Para los usuarios latinos que dependen de TikTok como entretenimiento gratuito, esto significa más distracciones. Ya pasamos suficiente tiempo desplazándonos sin fin. Ahora, antes de ni siquiera llegar al contenido que queremos ver, estaremos bombardeados con logos y mensajes publicitarios. [Como hemos visto antes con otras plataformas, el doomscrolling ya es un problema serio que afecta nuestro bienestar mental](/blog/apps-escapar-doomscrolling-productivo/).
 
-Para los creadores, es una mala noticia disfrazada. Si TikTok está priorizando anuncios más invasivos en lugares prominentes, significa que está dedicando más recursos a monetizar directamente en lugar de mejorar las herramientas para que los creadores ganen dinero. [Plataformas como Facebook ya han demostrado que pueden pagar miles de millones a creadores](https://latendenciausa.web.app/blog/facebook-monetizacion-creadores-tiktok-youtube/), pero TikTok parece estar eligiendo una ruta diferente.
+Para los creadores, es una mala noticia disfrazada. Si TikTok está priorizando anuncios más invasivos en lugares prominentes, significa que está dedicando más recursos a monetizar directamente en lugar de mejorar las herramientas para que los creadores ganen dinero. [Plataformas como Facebook ya han demostrado que pueden pagar miles de millones a creadores](/blog/facebook-monetizacion-creadores-tiktok-youtube/), pero TikTok parece estar eligiendo una ruta diferente.
 
 ## La carrera por la supervivencia
 
@@ -36,6 +36,6 @@ Espera más. Si este nuevo formato de anuncios funciona (y por supuesto que func
 La pregunta real es: ¿estamos dispuestos a aceptar una app cada vez más llena de publicidad, o es hora de buscar alternativas? ¿Crees que TikTok está cruzando la línea entre monetización inteligente y experiencia de usuario destructiva?
 
 ## Artículos Relacionados
-- [Facebook lanza programa de monetización para arrebatar creadores a TikTok y YouTube](https://latendenciausa.web.app/blog/facebook-monetizacion-creadores-tiktok-youtube/)
-- [Apps para escapar del doomscrolling infinito y recuperar tu tiempo](https://latendenciausa.web.app/blog/apps-escapar-doomscrolling-productivo/)
-- [Tinder intenta reconquistar usuarios con eventos presenciales y citas rápidas virtuales](https://latendenciausa.web.app/blog/tinder-eventos-presenciales-speed-dating-virtual/)
+- [Facebook lanza programa de monetización para arrebatar creadores a TikTok y YouTube](/blog/facebook-monetizacion-creadores-tiktok-youtube/)
+- [Apps para escapar del doomscrolling infinito y recuperar tu tiempo](/blog/apps-escapar-doomscrolling-productivo/)
+- [Tinder intenta reconquistar usuarios con eventos presenciales y citas rápidas virtuales](/blog/tinder-eventos-presenciales-speed-dating-virtual/)

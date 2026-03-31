@@ -11,7 +11,7 @@ La carrera por la inteligencia artificial ya no es solo entre empresas. Ahora es
 
 ## Qué es exactamente la Misión Génesis
 
-La Misión Génesis es una iniciativa coordinada entre el sector privado y varias agencias federales. En el centro del plan está la construcción de una nueva [supercomputadora](https://latendenciausa.web.app/blog/nvidia-gtc-2026-jensen-huang-futuro-ia/) que estará operativa a finales de 2026, diseñada específicamente para correr modelos de IA a una escala que hoy no existe en ningún sistema gubernamental del país.
+La Misión Génesis es una iniciativa coordinada entre el sector privado y varias agencias federales. En el centro del plan está la construcción de una nueva [supercomputadora](/blog/nvidia-gtc-2026-jensen-huang-futuro-ia/) que estará operativa a finales de 2026, diseñada específicamente para correr modelos de IA a una escala que hoy no existe en ningún sistema gubernamental del país.
 
 Michael Dell, CEO de Dell Technologies, y el Departamento de Energía son los líderes visibles del esfuerzo. La participación de Dell no es casual. La empresa tiene contratos históricos con el gobierno federal y la capacidad de construir infraestructura de cómputo a gran escala. El Departamento de Energía, por su parte, administra los laboratorios nacionales más avanzados del país, incluyendo Oak Ridge y Argonne, que ya tienen experiencia en supercomputación científica.
 
@@ -39,4 +39,4 @@ En términos de empleo, los proyectos de supercomputación e infraestructura tec
 
 En términos de política tecnológica, es importante seguir de cerca cómo se usa esta infraestructura. La IA gubernamental puede servir para mejorar servicios públicos que la comunidad latina utiliza, pero también puede usarse para vigilancia y control migratorio. La Misión Génesis no especifica límites en ese sentido, y eso merece atención.
 
-¿Crees que el gobierno debería liderar la carrera de la IA en EE.UU., o es mejor dejársela al sector privado como [OpenAI](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/), Google y Meta?
+¿Crees que el gobierno debería liderar la carrera de la IA en EE.UU., o es mejor dejársela al sector privado como [OpenAI](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/), Google y Meta?

@@ -11,7 +11,7 @@ heroImage: "https://images.unsplash.com/photo-1661347998648-79ad2d81bf26?crop=en
 
 Mientras Netflix y Disney+ luchan por captar audiencia, Tubi está jugando un movimiento diferente. En lugar de invertir millones en productoras tradicionales, la plataforma de streaming se está aliar directamente con los creadores de contenido que ya tienen millones de seguidores en TikTok. Y no es un acuerdo cualquiera: es el lanzamiento de su "Creatorverse Incubator", un programa diseñado específicamente para ayudar a estos influenciadores a hacer su propia serie original, exclusivamente en Tubi.
 
-Esto no es casualidad. [Tubi intenta reconquistar usuarios con eventos presenciales y citas rápidas virtuales](https://latendenciausa.web.app/blog/tinder-eventos-presenciales-speed-dating-virtual/) muestra cómo las plataformas están replanteando su estrategia de contenido. Ahora es el turno de Tubi de apostar fuerte por lo que funciona: los creadores con audiencia fiel.
+Esto no es casualidad. [Tubi intenta reconquistar usuarios con eventos presenciales y citas rápidas virtuales](/blog/tinder-eventos-presenciales-speed-dating-virtual/) muestra cómo las plataformas están replanteando su estrategia de contenido. Ahora es el turno de Tubi de apostar fuerte por lo que funciona: los creadores con audiencia fiel.
 
 ## ¿Por qué Tubi apunta a los creadores de TikTok?
 
@@ -37,7 +37,7 @@ Durante años, las plataformas de streaming han operado bajo el modelo tradicion
 
 Esto también es más económico. Mientras Netflix gasta $300 millones anuales en una sola serie, Tubi puede financiar múltiples shows de creadores por la misma cantidad, diversificando su riesgo. Si uno fracasa, otros pueden triunfar. Es una estrategia de portafolio más inteligente.
 
-Además, este movimiento responde a una realidad que la industria audiovisual no puede ignorar: [BuzzFeed apuesta por apps de IA para salvarse financieramente](https://latendenciausa.web.app/blog/buzzfeed-apuesta-apps-ia-sxsw/), mostrando que el contenido tradicional está perdiendo poder. Los creadores son el futuro, y Tubi lo entiende antes que la competencia.
+Además, este movimiento responde a una realidad que la industria audiovisual no puede ignorar: [BuzzFeed apuesta por apps de IA para salvarse financieramente](/blog/buzzfeed-apuesta-apps-ia-sxsw/), mostrando que el contenido tradicional está perdiendo poder. Los creadores son el futuro, y Tubi lo entiende antes que la competencia.
 
 ## ¿Qué esperar de esta alianza?
 

@@ -23,13 +23,13 @@ El reto técnico es brutal: mantener servidores funcionando en un ambiente donde
 
 ## Por qué esto importa para ti
 
-Si trabajas con IA, big data o simplemente usas cualquier servicio en la nube, esto te toca. Los centros de datos terrestres ya consumen una cantidad grotesca de energía. [Vimos cómo Google está revolucionando su estrategia energética](https://latendenciausa.web.app/blog/la-nueva-estrategia-de-google-para-energizar-sus-data-centers/) para alimentar sus operaciones, y la tendencia es clara: los gigantes tech están buscando desesperadamente nuevas formas de acceder a energía limpia sin límite.
+Si trabajas con IA, big data o simplemente usas cualquier servicio en la nube, esto te toca. Los centros de datos terrestres ya consumen una cantidad grotesca de energía. [Vimos cómo Google está revolucionando su estrategia energética](/blog/la-nueva-estrategia-de-google-para-energizar-sus-data-centers/) para alimentar sus operaciones, y la tendencia es clara: los gigantes tech están buscando desesperadamente nuevas formas de acceder a energía limpia sin límite.
 
-Gravitas también conecta con la onda más amplia de [startups que usan IA para transformar industrias completas](https://latendenciausa.web.app/blog/startup-software-empresarial-como-escribir-mensaje/). Pero en este caso, K2 está yendo más lejos: no solo quieren usar IA, quieren reconfigurar la infraestructura misma donde corre esa IA.
+Gravitas también conecta con la onda más amplia de [startups que usan IA para transformar industrias completas](/blog/startup-software-empresarial-como-escribir-mensaje/). Pero en este caso, K2 está yendo más lejos: no solo quieren usar IA, quieren reconfigurar la infraestructura misma donde corre esa IA.
 
 ## El contexto: SpaceX, Amazon y la carrera orbital
 
-No es casualidad que estemos viendo esto ahora. [SpaceX acaba de fusionarse con xAI](https://latendenciausa.web.app/blog/spacex-xai-fusion-mayor-adquisicion-historia/) en una de las adquisiciones más grandes de la historia, y parte de esa estrategia incluye precisamente esto: computación en órbita. Amazon también está explorando territorios similares con Project Kuiper.
+No es casualidad que estemos viendo esto ahora. [SpaceX acaba de fusionarse con xAI](/blog/spacex-xai-fusion-mayor-adquisicion-historia/) en una de las adquisiciones más grandes de la historia, y parte de esa estrategia incluye precisamente esto: computación en órbita. Amazon también está explorando territorios similares con Project Kuiper.
 
 Lo que K2 está haciendo es potencialmente más audaz: no solo quieren usar satélites existentes, quieren construir una infraestructura de computación que viva permanentemente en el espacio.
 

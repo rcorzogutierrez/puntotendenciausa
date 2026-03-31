@@ -19,9 +19,9 @@ Este escenario es familiar en el ecosistema de startups. No es que Cove haya fra
 
 Microsoft ha estado en una carrera acelerada para mantener su posición dominante en inteligencia artificial. Con OpenAI como su aliado principal y millones invertidos en infraestructura, la compañía necesita talento de primer nivel para ejecutar su visión.
 
-Mientras tanto, [Anthropic ya vale $380 mil millones y se prepara para salir a bolsa](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/), lo que significa que la competencia por talento está más feroz que nunca. Microsoft no puede permitirse quedarse atrás cuando hay equipos brillantes construyendo las próximas generaciones de herramientas colaborativas con IA.
+Mientras tanto, [Anthropic ya vale $380 mil millones y se prepara para salir a bolsa](/blog/anthropic-claude-code-380-mil-millones-ipo/), lo que significa que la competencia por talento está más feroz que nunca. Microsoft no puede permitirse quedarse atrás cuando hay equipos brillantes construyendo las próximas generaciones de herramientas colaborativas con IA.
 
-La estrategia de Satya Nadella ha sido clara: invertir masivamente en IA, adquirir talento crítico cuando sea necesario, y crear productos que se integren profundamente en sus ofertas existentes como Microsoft 365. De hecho, [la empresa acaba de lanzar Microsoft 365 E7 con agentes de IA que funcionan como empleados virtuales](https://latendenciausa.web.app/blog/microsoft-365-e7-agentes-ia-empleados-precio/), pagando $99 por usuario al mes.
+La estrategia de Satya Nadella ha sido clara: invertir masivamente en IA, adquirir talento crítico cuando sea necesario, y crear productos que se integren profundamente en sus ofertas existentes como Microsoft 365. De hecho, [la empresa acaba de lanzar Microsoft 365 E7 con agentes de IA que funcionan como empleados virtuales](/blog/microsoft-365-e7-agentes-ia-empleados-precio/), pagando $99 por usuario al mes.
 
 ## El costo oculto para los usuarios
 
@@ -31,7 +31,7 @@ Este patrón nos hace preguntarnos: ¿cuántas startups más veremos desaparecer
 
 ## Lo que significa para el futuro
 
-La desaparición de Cove bajo Microsoft es sintomática de algo más grande. El mercado de IA está madurando rápidamente, y solo hay espacio para unos pocos ganadores. [OpenAI ya vale más que muchos países con $25 mil millones en ingresos anualizados](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/), mientras que startups como Cove, por más prometedoras que sean, simplemente no pueden competir a largo plazo.
+La desaparición de Cove bajo Microsoft es sintomática de algo más grande. El mercado de IA está madurando rápidamente, y solo hay espacio para unos pocos ganadores. [OpenAI ya vale más que muchos países con $25 mil millones en ingresos anualizados](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/), mientras que startups como Cove, por más prometedoras que sean, simplemente no pueden competir a largo plazo.
 
 Esto no significa que todas las startups de IA desaparecerán. Algunas encontrarán su propio nicho, otras serán adquiridas estratégicamente y sus productos sobrevivirán bajo nuevas compañías. Pero el mensaje es claro: en la era de la IA, el dinero, el talento y la infraestructura están concentrándose en las manos de unos pocos gigantes.
 

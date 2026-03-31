@@ -21,7 +21,7 @@ Hoy miles de empresas en todo el mundo, desde startups hasta corporaciones Fortu
 
 ## Anthropic no se queda atrás
 
-Lo que también llama la atención de este reporte es el número de [Anthropic, la empresa detrás de Claude](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/). Con casi **$19 mil millones en ingresos anualizados**, Anthropic está demostrando que hay espacio para más de un ganador en este mercado.
+Lo que también llama la atención de este reporte es el número de [Anthropic, la empresa detrás de Claude](/blog/anthropic-claude-code-380-mil-millones-ipo/). Con casi **$19 mil millones en ingresos anualizados**, Anthropic está demostrando que hay espacio para más de un ganador en este mercado.
 
 Anthropic se ha posicionado como la alternativa más confiable y segura para uso empresarial, especialmente en sectores regulados como finanzas, salud y legal. Mientras OpenAI va por el mercado masivo, Anthropic ha encontrado su nicho en empresas que necesitan un modelo más predecible y con mejor desempeño en tareas complejas de razonamiento.
 

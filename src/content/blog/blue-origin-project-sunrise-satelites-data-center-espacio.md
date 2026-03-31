@@ -13,7 +13,7 @@ El proyecto se llama "Project Sunrise" y es tan audaz como suena. Bezos planea d
 
 ## ¿Por qué esto importa?
 
-La energía es el cuello de botella más grande que enfrenta la industria de IA en este momento. Entrenar y ejecutar modelos como GPT-5 o Gemini consume cantidades obscenas de electricidad. [La energía se convierte en el mayor obstáculo para expandir data centers de IA](https://latendenciausa.web.app/blog/energia-cuello-botella-ia-inversion/), y eso está frenando toda la innovación.
+La energía es el cuello de botella más grande que enfrenta la industria de IA en este momento. Entrenar y ejecutar modelos como GPT-5 o Gemini consume cantidades obscenas de electricidad. [La energía se convierte en el mayor obstáculo para expandir data centers de IA](/blog/energia-cuello-botella-ia-inversion/), y eso está frenando toda la innovación.
 
 ¿La solución de Bezos? Poner los servidores donde hay energía infinita y gratuita: el espacio.
 
@@ -23,11 +23,11 @@ Con 50,000 satélites, Blue Origin estaría creando la red de computación distr
 
 Esto no es un problema menor de ingeniería. Los satélites enfrentan radiación, temperaturas extremas, y la dificultad de mantener comunicaciones confiables. Además, necesitan ser lo suficientemente pequeños para lanzar en volumen, pero lo suficientemente poderosos para ejecutar cargas de trabajo reales.
 
-Blue Origin tiene ventajas. Su cohete New Glenn está diseñado para llevar cargas pesadas al espacio de forma repetida. Y [K2 ya demostró con Gravitas que la computación en órbita es técnicamente posible](https://latendenciausa.web.app/blog/k2-lanza-satelite-computacion-espacio/), aunque en escala mucho menor.
+Blue Origin tiene ventajas. Su cohete New Glenn está diseñado para llevar cargas pesadas al espacio de forma repetida. Y [K2 ya demostró con Gravitas que la computación en órbita es técnicamente posible](/blog/k2-lanza-satelite-computacion-espacio/), aunque en escala mucho menor.
 
 ## La carrera espacial de la IA
 
-Project Sunrise no existe en el vacío (literalmente). [SpaceX ya está planeando data centers conectados a su red Starlink](https://latendenciausa.web.app/blog/spacex-xai-fusion-mayor-adquisicion-historia/), y Amazon está invirtiendo decenas de miles de millones en infraestructura. La competencia por dominar la infraestructura de IA es ahora global y orbital.
+Project Sunrise no existe en el vacío (literalmente). [SpaceX ya está planeando data centers conectados a su red Starlink](/blog/spacex-xai-fusion-mayor-adquisicion-historia/), y Amazon está invirtiendo decenas de miles de millones en infraestructura. La competencia por dominar la infraestructura de IA es ahora global y orbital.
 
 Lo interesante es que esto podría revolucionar cómo funciona internet para países más pequeños o regiones sin infraestructura terrestre robusta. Los latinos en EE.UU. y en América Latina podrían beneficiarse enormemente de latencia ultrabajos y acceso a computación de IA sin depender de centros de datos estadounidenses.
 

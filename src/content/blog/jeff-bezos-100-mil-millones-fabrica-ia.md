@@ -17,7 +17,7 @@ La idea es clara pero ambiciosa. Adquirir empresas manufactureras que están en 
 
 ## ¿Por qué ahora? El contexto lo explica todo
 
-La IA está transformando cada industria, y la manufactura no es la excepción. Como hemos visto con otros gigantes tech como Meta y Atlassian, las empresas están [despidiendo empleados para invertir en IA](https://latendenciausa.web.app/blog/meta-despide-16000-empleados-apuesta-ia/) masivamente. Pero Bezos está tomando un camino diferente: no solo quiere crear IA de consumidor, quiere usar IA para hacer más competitivas las operaciones industriales antiguas.
+La IA está transformando cada industria, y la manufactura no es la excepción. Como hemos visto con otros gigantes tech como Meta y Atlassian, las empresas están [despidiendo empleados para invertir en IA](/blog/meta-despide-16000-empleados-apuesta-ia/) masivamente. Pero Bezos está tomando un camino diferente: no solo quiere crear IA de consumidor, quiere usar IA para hacer más competitivas las operaciones industriales antiguas.
 
 Las fábricas estadounidenses envejecidas son un problema nacional. Muchas cerraron durante las últimas décadas o funcionan con tecnología de hace 20 años. Si Bezos puede adquirirlas a precios bajos y transformarlas con automatización inteligente, podría generar ganancias masivas mientras "re-shora" manufactura a EE.UU.
 
@@ -29,7 +29,7 @@ Es el tipo de apuesta que recuerda a cuando Bezos invirtió más de $1 mil mill�
 
 ## ¿Qué significaría para la IA industrial?
 
-Si el plan funciona, podríamos ver un cambio radical en cómo operan las fábricas estadounidenses. La IA podría manejar desde control de calidad hasta logística, optimización de cadenas de suministro y predicción de demanda. Esto es exactamente lo que [Boston Dynamics ya está haciendo en plantas de Hyundai](https://latendenciausa.web.app/blog/boston-dynamics-atlas-fabricas-hyundai-robots/) con sus robots Atlas.
+Si el plan funciona, podríamos ver un cambio radical en cómo operan las fábricas estadounidenses. La IA podría manejar desde control de calidad hasta logística, optimización de cadenas de suministro y predicción de demanda. Esto es exactamente lo que [Boston Dynamics ya está haciendo en plantas de Hyundai](/blog/boston-dynamics-atlas-fabricas-hyundai-robots/) con sus robots Atlas.
 
 La diferencia es que Bezos estaría haciendo esto a una escala masiva, adquiriendo docenas o cientos de plantas y estandarizando sus operaciones alrededor de tecnología de IA de última generación.
 
@@ -37,7 +37,7 @@ La diferencia es que Bezos estaría haciendo esto a una escala masiva, adquirien
 
 Aquí viene lo que nadie quiere discutir en voz alta. La transformación de fábricas viejas con IA significa menos necesidad de trabajadores tradicionales. Mientras Bezos crearía valor económico para accionistas, miles de empleados de manufactura podrían quedarse sin trabajo.
 
-Es la misma tensión que vemos en toda la industria tech. [La IA agéntica está preparada para automatizar empleos completos](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), y aunque esto puede aumentar la productividad, el costo humano es real.
+Es la misma tensión que vemos en toda la industria tech. [La IA agéntica está preparada para automatizar empleos completos](/blog/ia-agentica-automatiza-tu-trabajo/), y aunque esto puede aumentar la productividad, el costo humano es real.
 
 ## ¿Es realmente factible?
 

@@ -19,7 +19,7 @@ Para una empresa que construye tecnología de IA, esto es devastador. Anthropic 
 
 ## El contexto político es más oscuro
 
-Lo que hace que la acusación de Warren sea interesante es el timing y el contexto. [El Pentágono ya había roto relaciones con Anthropic anteriormente](https://latendenciausa.web.app/blog/el-pentagon-busca-alternativas-anthropic-ruptura/), una ruptura que sorprendió a muchos en la industria. Ahora, con esta nueva clasificación, parece que el conflicto se está escalando.
+Lo que hace que la acusación de Warren sea interesante es el timing y el contexto. [El Pentágono ya había roto relaciones con Anthropic anteriormente](/blog/el-pentagon-busca-alternativas-anthropic-ruptura/), una ruptura que sorprendió a muchos en la industria. Ahora, con esta nueva clasificación, parece que el conflicto se está escalando.
 
 Warren sugiere que esta decisión es más política que técnica. La pregunta implícita es: ¿está el Pentágono usando la seguridad nacional como excusa para castigar a Anthropic por sus políticas internas, o hay realmente preocupaciones legítimas sobre la compañía?
 
@@ -27,13 +27,13 @@ Esto importa porque vivimos en una era donde la IA es tan estratégica como los 
 
 ## El juego político más grande
 
-Lo que está pasando aquí va más allá de Anthropic. [La administración Trump está intentando establecer un marco regulatorio para la IA](https://latendenciausa.web.app/blog/marco-ia-trump-preemption-estados-seguridad-infantil/) que prioriza la innovación y la soberanía tecnológica estadounidense. El conflicto con Anthropic podría ser parte de esa estrategia más amplia.
+Lo que está pasando aquí va más allá de Anthropic. [La administración Trump está intentando establecer un marco regulatorio para la IA](/blog/marco-ia-trump-preemption-estados-seguridad-infantil/) que prioriza la innovación y la soberanía tecnológica estadounidense. El conflicto con Anthropic podría ser parte de esa estrategia más amplia.
 
 Warren, por su parte, ha sido una voz crítica sobre cómo el gobierno federal maneja la tecnología. Su carta no es simplemente una defensa de Anthropic; es un recordatorio de que las decisiones políticas sobre IA no deben tomarse en la sombra.
 
 ## ¿Qué sigue?
 
-Por ahora, Anthropic está en una posición incómoda. La compañía [valorada en $380 mil millones y preparándose para salir a bolsa](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/), no necesita los contratos del Pentágono para sobrevivir. Pero la etiqueta de "riesgo de cadena de suministro" puede afectar su reputación y sus perspectivas futuras.
+Por ahora, Anthropic está en una posición incómoda. La compañía [valorada en $380 mil millones y preparándose para salir a bolsa](/blog/anthropic-claude-code-380-mil-millones-ipo/), no necesita los contratos del Pentágono para sobrevivir. Pero la etiqueta de "riesgo de cadena de suministro" puede afectar su reputación y sus perspectivas futuras.
 
 Warren está pidiendo transparencia: que el DOD explique públicamente por qué considera a Anthropic un riesgo y qué evidencia lo respalda. Es un llamado razonable en una era donde las decisiones gubernamentales sobre tecnología tienen consecuencias enormes.
 

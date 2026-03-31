@@ -45,7 +45,7 @@ Lo que probablemente no sabías es que Gemini también puede extraer items de ac
 
 En Docs, Gemini puede ayudarte de varias formas. Genera párrafos completos basados en viñetas que escribas, revisa la ortografía y gramática (incluyendo español), y hasta sugiere estructuras de documento.
 
-Lo más útil aquí es [cuando trabajas con Google Maps y necesitas documentar ubicaciones específicas](https://latendenciausa.web.app/blog/google-maps-ia-actualizacion-navegacion/) — Gemini puede organizarlo en un formato legible.
+Lo más útil aquí es [cuando trabajas con Google Maps y necesitas documentar ubicaciones específicas](/blog/google-maps-ia-actualizacion-navegacion/) — Gemini puede organizarlo en un formato legible.
 
 ## Las limitaciones que debes saber
 
@@ -53,7 +53,7 @@ Gemini en Workspace funciona bien con inglés y español, pero no perfectamente 
 
 También necesitas una suscripción a Google One o a Workspace con plan premium. No es gratis, pero si pasas 8 horas al día en Gmail y Docs, el costo se justifica rápido.
 
-## El futuro: [cuando la IA agéntica llegue a Workspace](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/) las cosas se van a poner más locas
+## El futuro: [cuando la IA agéntica llegue a Workspace](/blog/ia-agentica-automatiza-tu-trabajo/) las cosas se van a poner más locas
 
 Lo interesante es que Google está explorando agentes de IA completos — no solo herramientas de asistencia, sino IA que puede ejecutar tareas sin que le digas exactamente cómo. Imagina decirle a Gemini "organiza mis facturas de este mes" y que lo haga completamente automático.
 

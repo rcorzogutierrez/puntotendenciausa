@@ -37,7 +37,7 @@ Varias empresas compiten por ser la primera en convertir fusión en electricidad
 
 TAE Technologies está experimentando con boron-11 para evitar radiación completamente. Es como si estuvieran rediseñando el motor de fusión desde cero.
 
-Estas no son compañías aventureras jugando con dinero de VC. Tienen respaldo de fondos multimillonarios, gobiernos interesados y, más importante, avances científicos reales. [Commonwealth ya demostró un imán revolucionario que cambia las matemáticas de la fisión](https://latendenciausa.web.app/blog/energia-cuello-botella-ia-inversion/), acercando los reactores comerciales años más rápido.
+Estas no son compañías aventureras jugando con dinero de VC. Tienen respaldo de fondos multimillonarios, gobiernos interesados y, más importante, avances científicos reales. [Commonwealth ya demostró un imán revolucionario que cambia las matemáticas de la fisión](/blog/energia-cuello-botella-ia-inversion/), acercando los reactores comerciales años más rápido.
 
 ## El desafío económico (el verdadero problema)
 
@@ -45,7 +45,7 @@ Aquí está lo honesto: la ciencia funciona. El reto es hacer que sea *barato*. 
 
 ¿Cuánto cuesta? Más de lo que costó enviar humanos a la luna. ¿Cuándo hay retorno? En 2035-2040 si todo sale bien. Para un inversor en bolsa, eso es eternidad.
 
-Pero aquí viene lo interesante: si *cualquiera* lo logra primero, tendrá un monopolio de facto sobre energía barata infinita. Es por eso que gobiernos y billonarios como Bill Gates (que financia Commonwealth) están enfocados. [La energía es el cuello de botella de la IA moderna](https://latendenciausa.web.app/blog/energia-cuello-botella-ia-inversion/), y si la fusión la resuelve, todo cambia — data centers, transporte, manufactura.
+Pero aquí viene lo interesante: si *cualquiera* lo logra primero, tendrá un monopolio de facto sobre energía barata infinita. Es por eso que gobiernos y billonarios como Bill Gates (que financia Commonwealth) están enfocados. [La energía es el cuello de botella de la IA moderna](/blog/energia-cuello-botella-ia-inversion/), y si la fusión la resuelve, todo cambia — data centers, transporte, manufactura.
 
 ## ¿Fusión o ficción?
 

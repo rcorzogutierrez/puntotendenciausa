@@ -33,7 +33,7 @@ Especialmente relevante para la comunidad latina: muchos emprendedores latinoame
 
 ## ¿Qué sigue ahora?
 
-El jurado ha hablado, pero esto no termina aquí. Podría haber apelaciones, negociaciones de arreglos o compensaciones adicionales a inversores. Lo que está claro es que [Anthropic ya está evaluando cómo la IA puede mejorar la transparencia en transacciones corporativas](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/), justamente porque casos como este demuestran la importancia de la inteligencia artificial para analizar patrones de engaño.
+El jurado ha hablado, pero esto no termina aquí. Podría haber apelaciones, negociaciones de arreglos o compensaciones adicionales a inversores. Lo que está claro es que [Anthropic ya está evaluando cómo la IA puede mejorar la transparencia en transacciones corporativas](/blog/anthropic-claude-code-380-mil-millones-ipo/), justamente porque casos como este demuestran la importancia de la inteligencia artificial para analizar patrones de engaño.
 
 Además, la presión regulatoria sobre figuras como Musk probablemente aumentará. El marco de IA de Trump y su enfoque en innovación deberá equilibrar la libertad empresarial con la responsabilidad legal.
 

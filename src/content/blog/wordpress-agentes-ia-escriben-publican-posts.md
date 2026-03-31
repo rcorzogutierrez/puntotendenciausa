@@ -7,7 +7,7 @@ tags: ["ia-generativa", "agentes-ia", "creadores"]
 heroImage: "https://images.unsplash.com/photo-1605978505713-4fa239312995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMHdyaXRpbmclMjBibG9nJTIwY29udGVudCUyMGF1dG9tYXRpb258ZW58MXwwfHx8MTc3NDE1ODA5Mnww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 
-WordPress acaba de abrir una puerta que muchos no sabían que querían cruzar: dejar que la IA escriba y publique posts completamente sola. Sin que toques una tecla. Sin que hagas clic en "publicar". La plataforma que alimenta el 43% de todos los sitios web del planeta ahora permite a [agentes de IA agéntica](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/) tomar decisiones, redactar contenido y lanzarlo al mundo mientras tú duermes.
+WordPress acaba de abrir una puerta que muchos no sabían que querían cruzar: dejar que la IA escriba y publique posts completamente sola. Sin que toques una tecla. Sin que hagas clic en "publicar". La plataforma que alimenta el 43% de todos los sitios web del planeta ahora permite a [agentes de IA agéntica](/blog/ia-agentica-automatiza-tu-trabajo/) tomar decisiones, redactar contenido y lanzarlo al mundo mientras tú duermes.
 
 ## La IA que escribe mientras no miras
 
@@ -23,17 +23,17 @@ Aquí es donde se pone interesante (y un poco preocupante). WordPress dice que l
 
 ¿Qué pasa si el agente decide que tu blog necesita 5 posts por semana en lugar de 1? ¿Qué pasa si publica información incorrecta porque se entrenó con datos malos? ¿Quién es responsable entonces?
 
-La industria se está moviendo hacia esta dirección inevitablemente. [Meta ya despide empleados para financiar su apuesta en IA](https://latendenciausa.web.app/blog/meta-despide-16000-empleados-apuesta-ia/), y [Microsoft cobra por agentes de IA como si fueran empleados](https://latendenciausa.web.app/blog/microsoft-365-e7-agentes-ia-empleados-precio/). La diferencia es que esos agentes están dentro de empresas donde alguien los supervisa. En WordPress, estás soltándolos en internet.
+La industria se está moviendo hacia esta dirección inevitablemente. [Meta ya despide empleados para financiar su apuesta en IA](/blog/meta-despide-16000-empleados-apuesta-ia/), y [Microsoft cobra por agentes de IA como si fueran empleados](/blog/microsoft-365-e7-agentes-ia-empleados-precio/). La diferencia es que esos agentes están dentro de empresas donde alguien los supervisa. En WordPress, estás soltándolos en internet.
 
 ## El futuro (probablemente caótico) del contenido
 
 Esto plantea una pregunta incómoda: ¿de dónde van a sacar datos los agentes de IA para escribir? ¿Van a scrapear otros blogs? ¿Van a usar información pública de redes sociales? ¿Quién decide qué es "contenido original" cuando una IA lo escribe?
 
-Ya sabemos que [el 41% de la inversión en startups en 2025 fue para empresas de IA](https://latendenciausa.web.app/blog/startups-ia-devoran-venture-capital-retornos/). Eso significa que cada vez hay más dinero empujando esta tecnología hacia adelante, ya sea que estemos listos o no.
+Ya sabemos que [el 41% de la inversión en startups en 2025 fue para empresas de IA](/blog/startups-ia-devoran-venture-capital-retornos/). Eso significa que cada vez hay más dinero empujando esta tecnología hacia adelante, ya sea que estemos listos o no.
 
 Lo bueno es que baja la barrera de entrada para crear contenido. Si no sabes escribir pero quieres tener un blog, ahora puedes decirle a la IA que lo haga por ti. Es democratización en su forma más pura.
 
-Lo malo es que en 2027, [los bots de IA podrían superar a los humanos en internet](https://latendenciausa.web.app/blog/bots-ia-superaran-humanos-internet-2027/). Eso significa que mucho de lo que leas podría estar escrito por máquinas. ¿Cómo sabes si un artículo es genuino o solo ruido de fondo algorítmico?
+Lo malo es que en 2027, [los bots de IA podrían superar a los humanos en internet](/blog/bots-ia-superaran-humanos-internet-2027/). Eso significa que mucho de lo que leas podría estar escrito por máquinas. ¿Cómo sabes si un artículo es genuino o solo ruido de fondo algorítmico?
 
 ## Control de calidad: el verdadero reto
 

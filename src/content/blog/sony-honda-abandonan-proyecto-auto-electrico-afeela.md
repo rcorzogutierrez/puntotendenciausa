@@ -27,7 +27,7 @@ La cancelación del Afeela también refleja una verdad incómoda: no todas las a
 
 Honda no es la única que está retrocediendo. Múltiples fabricantes automotrices están recalculando sus estrategias de electrificación. Algunos están ralentizando la transición, otros están enfocándose primero en mercados específicos donde la demanda es clara.
 
-Lo interesante es que mientras los fabricantes tradicionales luchan, startups y empresas de tecnología [como las que están desarrollando robotaxis y vehículos autónomos más sofisticados](https://latendenciausa.web.app/blog/lucid-motors-robotaxi-lunar-concepto/) continúan atrayendo capital de riesgo. Parece que hay dinero en abundancia para lo "next-next-big-thing", pero menos paciencia para proyectos que toman años en desarrollarse.
+Lo interesante es que mientras los fabricantes tradicionales luchan, startups y empresas de tecnología [como las que están desarrollando robotaxis y vehículos autónomos más sofisticados](/blog/lucid-motors-robotaxi-lunar-concepto/) continúan atrayendo capital de riesgo. Parece que hay dinero en abundancia para lo "next-next-big-thing", pero menos paciencia para proyectos que toman años en desarrollarse.
 
 ## ¿Qué pasa con los clientes y los planes?
 

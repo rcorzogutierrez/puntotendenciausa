@@ -23,15 +23,15 @@ Esto significa que los centros de datos de IA no pueden crecer tan rápido como 
 
 Aquí es donde entra la innovación. Las empresas que logren resolver el problema energético de la IA van a ser literalmente indispensables para el futuro tecnológico.
 
-Startups y empresas establecidas están corriendo para ofrecer soluciones: reactores nucleares modulares más pequeños y seguros, sistemas de refrigeración más eficientes, tecnología de almacenamiento de energía avanzada, paneles solares de próxima generación y hasta [data centers en órbita como el proyecto de K2](https://latendenciausa.web.app/blog/k2-lanza-satelite-computacion-espacio/).
+Startups y empresas establecidas están corriendo para ofrecer soluciones: reactores nucleares modulares más pequeños y seguros, sistemas de refrigeración más eficientes, tecnología de almacenamiento de energía avanzada, paneles solares de próxima generación y hasta [data centers en órbita como el proyecto de K2](/blog/k2-lanza-satelite-computacion-espacio/).
 
-Jeff Bezos ya está poniendo dinero donde está la boca: [busca invertir $100 mil millones para adquirir fábricas viejas y transformarlas con IA](https://latendenciausa.web.app/blog/jeff-bezos-100-mil-millones-fabrica-ia/), incluyendo soluciones de energía integradas.
+Jeff Bezos ya está poniendo dinero donde está la boca: [busca invertir $100 mil millones para adquirir fábricas viejas y transformarlas con IA](/blog/jeff-bezos-100-mil-millones-fabrica-ia/), incluyendo soluciones de energía integradas.
 
-El gobierno también se está moviendo. [La administración Trump lanzó la Misión Génesis para usar IA en energía, defensa y ciencia](https://latendenciausa.web.app/blog/trump-genesis-mission-ia-defensa-energia/), reconociendo que energía e IA son inseparables en la estrategia nacional.
+El gobierno también se está moviendo. [La administración Trump lanzó la Misión Génesis para usar IA en energía, defensa y ciencia](/blog/trump-genesis-mission-ia-defensa-energia/), reconociendo que energía e IA son inseparables en la estrategia nacional.
 
 ## El dilema de la demanda creciente
 
-Lo irónico es que mientras más poderosa se vuelve la IA, más energía necesita. Los modelos de IA más grandes entrenan y corren en infraestructura cada vez más intensiva en energía. Y con [miles de startups lanzando agentes de IA que trabajan continuamente](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), la demanda de energía no va a detenerse.
+Lo irónico es que mientras más poderosa se vuelve la IA, más energía necesita. Los modelos de IA más grandes entrenan y corren en infraestructura cada vez más intensiva en energía. Y con [miles de startups lanzando agentes de IA que trabajan continuamente](/blog/ia-agentica-automatiza-tu-trabajo/), la demanda de energía no va a detenerse.
 
 Las empresas tech están buscando soluciones creativas: algunos firman acuerdos de compra de energía renovable a largo plazo, otros invierten directamente en generación de energía. Pero la verdad es que no hay suficiente capacidad disponible para todos.
 

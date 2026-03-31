@@ -23,7 +23,7 @@ Si creías que los lentes inteligentes eran un experimento fallido desde los tie
 
 ¿Qué cambió? Principalmente el diseño y la utilidad. Los lentes de nueva generación ya no parecen un prototipo de ciencia ficción. Se ven como anteojos normales, pesan casi igual y ofrecen funciones concretas: traducción en tiempo real de lo que ves, notificaciones discretas, asistencia de IA contextual y, en algunos modelos, cámara integrada que captura sin que nadie lo note.
 
-Y los grandes jugadores lo saben. [**Apple**](https://latendenciausa.web.app/blog/apple-reinventa-siri-con-ia/) lleva años desarrollando en silencio su versión de lentes de realidad aumentada. [**OpenAI**](https://latendenciausa.web.app/blog/openai-gpt-oss-modelo-open-source/) anunció colaboraciones con fabricantes de hardware para llevar sus modelos a dispositivos sin pantalla. **Google** regresó al mercado con una versión renovada de sus lentes, esta vez sin el estigma social que hundió al primer Glass. La competencia por el espacio frente a tus ojos acaba de volverse muy seria.
+Y los grandes jugadores lo saben. [**Apple**](/blog/apple-reinventa-siri-con-ia/) lleva años desarrollando en silencio su versión de lentes de realidad aumentada. [**OpenAI**](/blog/openai-gpt-oss-modelo-open-source/) anunció colaboraciones con fabricantes de hardware para llevar sus modelos a dispositivos sin pantalla. **Google** regresó al mercado con una versión renovada de sus lentes, esta vez sin el estigma social que hundió al primer Glass. La competencia por el espacio frente a tus ojos acaba de volverse muy seria.
 
 ## Pins y pendants: la IA que escucha sin que mires
 

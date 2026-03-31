@@ -23,13 +23,13 @@ La estrategia de Roku es ingeniosa. En lugar de crear su propia plataforma compe
 
 Lo fascinante es que Howdy tiene acceso a contenido exclusivo que no encontrarás en otras plataformas sin pagar más. Películas de Lionsgate, series de Sony Pictures, todo en un solo lugar. Es como si Roku hubiera negociado una sala VIP en el cine, pero a precio de cine de barrio.
 
-Esto también conecta con una tendencia más grande en tecnología: [la personalización de contenido usando IA](https://latendenciausa.web.app/blog/sequen-levanta-16-millones-personalizacion-ia/). Roku ha sido pionero en entender qué ves en tu TV inteligente, y ahora está usando esa inteligencia para recomendarte exactamente lo que quieres ver en Howdy.
+Esto también conecta con una tendencia más grande en tecnología: [la personalización de contenido usando IA](/blog/sequen-levanta-16-millones-personalizacion-ia/). Roku ha sido pionero en entender qué ves en tu TV inteligente, y ahora está usando esa inteligencia para recomendarte exactamente lo que quieres ver en Howdy.
 
 ## ¿Es realmente competencia para Netflix?
 
 Aquí viene la parte honesta. Howdy no va a matar a Netflix. Netflix es un ecosistema completo con presupuestos de miles de millones en producciones originales. Pero Howdy sí ofrece algo que Netflix no: acceso a un catálogo masivo sin compromiso de largo plazo y a un precio que cualquiera puede permitirse.
 
-[Tubi y otras plataformas de streaming más baratas](https://latendenciausa.web.app/blog/tubi-creadores-tiktok-contenido-original/) ya demostraron que existe un mercado enorme de personas que prefieren contenido más barato aunque sea con anuncios. Howdy aprovecha exactamente eso.
+[Tubi y otras plataformas de streaming más baratas](/blog/tubi-creadores-tiktok-contenido-original/) ya demostraron que existe un mercado enorme de personas que prefieren contenido más barato aunque sea con anuncios. Howdy aprovecha exactamente eso.
 
 ## La jugada de Amazon
 
@@ -43,7 +43,7 @@ El verdadero ganador aquí podría ser el usuario latino que vive con presupuest
 
 ## El futuro del streaming
 
-Lo que Roku está haciendo nos recuerda algo importante: [la IA está transformando cómo las empresas conocen a sus usuarios](https://latendenciausa.web.app/blog/la-nueva-estrategia-de-google-para-energizar-sus-data-centers/), y eso incluye qué contenido recomendarte. A medida que el streaming siga fragmentándose, podemos esperar más servicios como Howdy: baratos, enfocados y listos para convivir dentro de ecosistemas más grandes.
+Lo que Roku está haciendo nos recuerda algo importante: [la IA está transformando cómo las empresas conocen a sus usuarios](/blog/la-nueva-estrategia-de-google-para-energizar-sus-data-centers/), y eso incluye qué contenido recomendarte. A medida que el streaming siga fragmentándose, podemos esperar más servicios como Howdy: baratos, enfocados y listos para convivir dentro de ecosistemas más grandes.
 
 ¿Ya probaste Howdy dentro de Prime Video, o sigues buscando la plataforma de streaming perfecta?
 

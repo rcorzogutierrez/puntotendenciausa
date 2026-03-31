@@ -31,7 +31,7 @@ La barrera ahora es el conocimiento, y eso es algo que se puede aprender.
 
 ## Google vs OpenAI: la guerra de precios que nos beneficia a todos
 
-No hay que perder de vista el contexto competitivo. OpenAI, [Anthropic](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/) y Google están compitiendo agresivamente no solo en capacidad sino en precio. Cada vez que uno baja sus tarifas, los otros responden. Esa presión competitiva es la razón por la que los precios han caído tan dramáticamente en los últimos dos años.
+No hay que perder de vista el contexto competitivo. OpenAI, [Anthropic](/blog/anthropic-claude-code-380-mil-millones-ipo/) y Google están compitiendo agresivamente no solo en capacidad sino en precio. Cada vez que uno baja sus tarifas, los otros responden. Esa presión competitiva es la razón por la que los precios han caído tan dramáticamente en los últimos dos años.
 
 Para los usuarios finales y los desarrolladores, esto es una excelente noticia. El acceso a modelos de IA de calidad se está volviendo tan barato que dentro de poco será difícil justificar no incorporar IA en cualquier producto digital.
 

@@ -27,7 +27,7 @@ El ataque fue destructivo en el sentido literal. No fue solo robo de datos (aunq
 
 Es el juego moderno de la geopolítica: si no puedes responder militarmente, usas hackers. Si no quieres admitir responsabilidad oficial, creates un grupo "activista" que pueda reclamar la autoría públicamente mientras tú trabajas desde las sombras.
 
-Lo preocupante es que esto establece un precedente. Si Irán puede atacar a Stryker sin consecuencias inmediatas más allá de acusaciones públicas, ¿qué evita que otros gobiernos hagan lo mismo? [Como mencionamos antes, también hay otros ataques cibernéticos de gobiernos extranjeros buscando espiar a ciudadanos](https://latendenciausa.web.app/blog/hackers-rusos-roban-datos-iphone-ucranianos/), así que este es un patrón creciente.
+Lo preocupante es que esto establece un precedente. Si Irán puede atacar a Stryker sin consecuencias inmediatas más allá de acusaciones públicas, ¿qué evita que otros gobiernos hagan lo mismo? [Como mencionamos antes, también hay otros ataques cibernéticos de gobiernos extranjeros buscando espiar a ciudadanos](/blog/hackers-rusos-roban-datos-iphone-ucranianos/), así que este es un patrón creciente.
 
 ## Implicaciones para la seguridad médica y tecnológica
 

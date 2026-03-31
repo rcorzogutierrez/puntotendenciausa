@@ -17,7 +17,7 @@ Carr argumenta que los routers extranjeros representan un riesgo para la infraes
 
 ## El problema real: la cadena de suministro
 
-Lo interesante es que esta prohibición refleja una tendencia más amplia. Gobiernos alrededor del mundo están revisando cada vez más su cadena de suministro de tecnología. Ya hemos visto tensiones similares con [hackers pro-Irán usando herramientas para atacar infraestructura crítica](https://latendenciausa.web.app/blog/hackers-iran-stryker-ataque-cibernetico/) y [ciberataques que paralizan sistemas completos](https://latendenciausa.web.app/blog/ataque-cibernetico-alcoholimetro-autos-varados/).
+Lo interesante es que esta prohibición refleja una tendencia más amplia. Gobiernos alrededor del mundo están revisando cada vez más su cadena de suministro de tecnología. Ya hemos visto tensiones similares con [hackers pro-Irán usando herramientas para atacar infraestructura crítica](/blog/hackers-iran-stryker-ataque-cibernetico/) y [ciberataques que paralizan sistemas completos](/blog/ataque-cibernetico-alcoholimetro-autos-varados/).
 
 La diferencia es que esta vez la FCC no está investigando un ataque. Está siendo proactiva. Está diciendo: "Mejor evitemos el problema desde el inicio".
 
@@ -29,7 +29,7 @@ Si vives en USA y tu router está a punto de morir, tendrás opciones limitadas.
 
 ## La geopolítica en tu gadgets
 
-Este movimiento se alinea con la estrategia más amplia de la administración Trump. Ya vimos cosas similares con [el marco de IA que Trump propone controlando estados y protegiendo la innovación](https://latendenciausa.web.app/blog/marco-ia-trump-preemption-estados-seguridad-infantil/). Es una visión clara: tecnología estadounidense para ciudadanos estadounidenses.
+Este movimiento se alinea con la estrategia más amplia de la administración Trump. Ya vimos cosas similares con [el marco de IA que Trump propone controlando estados y protegiendo la innovación](/blog/marco-ia-trump-preemption-estados-seguridad-infantil/). Es una visión clara: tecnología estadounidense para ciudadanos estadounidenses.
 
 No es sorpresa. Los últimos años han mostrado cómo la tecnología se convirtió en un arma geopolítica. Desde TikTok hasta chips de Nvidia, cada decisión tecnológica tiene implicaciones políticas.
 
@@ -46,6 +46,6 @@ La gran pregunta es si esta prohibición mejorará realmente la seguridad o solo
 ¿Piensas que la FCC está actuando correctamente al bloquear routers extranjeros, o crees que esto solo beneficia a las corporaciones estadounidenses?
 
 ## Artículos Relacionados
-- [El FBI compra datos de ubicación para rastrear a ciudadanos estadounidenses sin orden judicial](https://latendenciausa.web.app/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/)
-- [Hackers pro-Irán borran miles de dispositivos de Stryker en ataque sin precedentes](https://latendenciausa.web.app/blog/hackers-iran-stryker-ataque-cibernetico/)
-- [Ataque cibernético a empresa de alcoholímetros deja a conductores varados en EE.UU.](https://latendenciausa.web.app/blog/ataque-cibernetico-alcoholimetro-autos-varados/)
+- [El FBI compra datos de ubicación para rastrear a ciudadanos estadounidenses sin orden judicial](/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/)
+- [Hackers pro-Irán borran miles de dispositivos de Stryker en ataque sin precedentes](/blog/hackers-iran-stryker-ataque-cibernetico/)
+- [Ataque cibernético a empresa de alcoholímetros deja a conductores varados en EE.UU.](/blog/ataque-cibernetico-alcoholimetro-autos-varados/)

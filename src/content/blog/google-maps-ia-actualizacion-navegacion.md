@@ -19,7 +19,7 @@ Y para la comunidad latina en USA que manejamos por ciudades nuevas, que usamos 
 
 ## Gemini dentro de Maps: pregúntale al mapa
 
-La segunda gran novedad es la integración de [Gemini](https://latendenciausa.web.app/blog/google-gemini-flash-lite-modelo-barato/), el modelo de IA de Google, directamente dentro de Maps. Esto transforma la búsqueda de lugar.
+La segunda gran novedad es la integración de [Gemini](/blog/google-gemini-flash-lite-modelo-barato/), el modelo de IA de Google, directamente dentro de Maps. Esto transforma la búsqueda de lugar.
 
 Antes, si querías encontrar un restaurante mexicano con buenas reseñas, estacionamiento cercano y que no cierre antes de las 10 PM, tenías que hacer múltiples búsquedas y combinar la información manualmente. Ahora puedes escribir esa misma frase en lenguaje natural y Maps la entiende, filtra y muestra resultados que cumplen todos esos criterios.
 

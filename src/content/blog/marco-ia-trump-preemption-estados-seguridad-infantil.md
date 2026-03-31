@@ -25,17 +25,17 @@ El mensaje es claro: las plataformas seguirán tiendo herramientas para controle
 
 El plan también enfatiza lo que se conoce como regulación "light-touch" o de toque ligero. Básicamente significa que las compañías tendrán más libertad para autoregularse y menos interferencia del gobierno. No hay prohibiciones drásticas sobre modelos de IA, sino más bien directrices y estándares que las empresas pueden seguir voluntariamente.
 
-Esto beneficia directamente a compañías como OpenAI, Google, Meta y Anthropic, que han estado [desarrollando sistemas de IA cada vez más potentes](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) sin demasiadas restricciones regulatorias. Pero también significa menos protección para usuarios comunes.
+Esto beneficia directamente a compañías como OpenAI, Google, Meta y Anthropic, que han estado [desarrollando sistemas de IA cada vez más potentes](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) sin demasiadas restricciones regulatorias. Pero también significa menos protección para usuarios comunes.
 
 ## ¿Qué pasa con los datos personales?
 
-El marco no da muchos detalles sobre privacidad de datos, que es la mayor preocupación de los usuarios latinos. Mientras Trump enfatiza libertad para innovar, millones de personas están cada vez más preocupadas de que sus datos personales se usen para entrenar modelos de IA sin consentimiento. El [FBI ya compra datos de ubicación comerciales para rastrear ciudadanos sin orden judicial](https://latendenciausa.web.app/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/), así que la confianza en las instituciones está en mínimos.
+El marco no da muchos detalles sobre privacidad de datos, que es la mayor preocupación de los usuarios latinos. Mientras Trump enfatiza libertad para innovar, millones de personas están cada vez más preocupadas de que sus datos personales se usen para entrenar modelos de IA sin consentimiento. El [FBI ya compra datos de ubicación comerciales para rastrear ciudadanos sin orden judicial](/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/), así que la confianza en las instituciones está en mínimos.
 
 ## El impacto real para latinos
 
 Para la comunidad latina, esto tiene implicaciones reales. Si tu empresa está considerando invertir en tecnología de IA, un marco federal más permisivo podría significar menos costos de cumplimiento normativo. Pero si eres un usuario preocupado por tu privacidad o la de tus hijos, dependerás aún más de tu propia vigilancia.
 
-La estrategia también podría acelerar la [adopción empresarial de agentes de IA](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/) que automatizan trabajos, algo que podría afectar particularmente a trabajadores en sectores que dominan en Estados Unidos.
+La estrategia también podría acelerar la [adopción empresarial de agentes de IA](/blog/ia-agentica-automatiza-tu-trabajo/) que automatizan trabajos, algo que podría afectar particularmente a trabajadores en sectores que dominan en Estados Unidos.
 
 ## ¿Es esto bueno o malo?
 
