@@ -6,6 +6,11 @@ on:
       - main
     paths:
       - 'src/content/blog/**'
+      - 'src/**'
+      - 'public/**'
+      - 'astro.config.mjs'
+      - 'firebase.json'
+      - 'package.json'
   workflow_dispatch:
 
 jobs:
