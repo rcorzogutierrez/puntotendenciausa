@@ -13,7 +13,7 @@ La conferencia GTC de Nvidia es uno de esos eventos que define la conversación 
 
 Jensen Huang subió al escenario con una misión clara: mostrar que Nvidia no es solo una compañía de hardware, sino una arquitectura completa para el futuro de la IA. Presentó avances en sistemas de inferencia, agentes autónomos y redes neuronales que suena como ciencia ficción pero que ya está pasando ahora mismo.
 
-Lo fascinante es que [Nvidia GTC 2026 reveló el futuro de la IA más allá de los chips](https://latendenciausa.web.app/blog/nvidia-gtc-2026-jensen-huang-futuro-ia/), mostrando cómo la compañía está expandiendo su dominio hacia software, servicios y soluciones empresariales que van a impactar directamente cómo trabajamos.
+Lo fascinante es que [Nvidia GTC 2026 reveló el futuro de la IA más allá de los chips](/blog/nvidia-gtc-2026-jensen-huang-futuro-ia/), mostrando cómo la compañía está expandiendo su dominio hacia software, servicios y soluciones empresariales que van a impactar directamente cómo trabajamos.
 
 ## ¿Por qué debería importarte esto?
 
@@ -23,13 +23,13 @@ Lo que Huang presentó en GTC es el blueprint para los próximos años. No se tr
 
 ## El problema de la energía sigue siendo el elefante en la sala
 
-A pesar de los anuncios emocionantes, hay un tema que persigue a toda la industria: la energía. [La energía es el cuello de botella de la IA](https://latendenciausa.web.app/blog/energia-cuello-botella-ia-inversion/), y aunque Nvidia presenta soluciones increíbles, el costo energético de entrenar y ejecutar modelos de IA sigue siendo astronómico.
+A pesar de los anuncios emocionantes, hay un tema que persigue a toda la industria: la energía. [La energía es el cuello de botella de la IA](/blog/energia-cuello-botella-ia-inversion/), y aunque Nvidia presenta soluciones increíbles, el costo energético de entrenar y ejecutar modelos de IA sigue siendo astronómico.
 
 Huang hablará sobre eficiencia, sobre arquitecturas más inteligentes, pero la verdad es que mientras la IA siga creciendo a este ritmo, la demanda de energía va a crecer también. Esto es algo que toda la industria está viendo: desde Google hasta Microsoft, todos están buscando formas de alimentar sus ambiciones de IA sin quebrar la red eléctrica.
 
 ## ¿Qué esperar en los próximos meses?
 
-Después de GTC, Wall Street había esperado una reacción más explosiva. Pero aquí está la ironía: [Wall Street no se dejó impresionar por la gran conferencia de Nvidia](https://latendenciausa.web.app/blog/wall-street-no-se-impresiono-nvidia-conferencia/). A pesar de los temores sobre una burbuja de IA, los inversores fueron bastante cautos.
+Después de GTC, Wall Street había esperado una reacción más explosiva. Pero aquí está la ironía: [Wall Street no se dejó impresionar por la gran conferencia de Nvidia](/blog/wall-street-no-se-impresiono-nvidia-conferencia/). A pesar de los temores sobre una burbuja de IA, los inversores fueron bastante cautos.
 
 Esto no significa que Nvidia no siga siendo importante. Solo significa que el mercado ya ha precioado mucho del hype, y ahora quiere ver resultados reales, no promesas. Las empresas necesitan adoptar estas tecnologías, los data centers necesitan instalarse, y los agentes de IA necesitan empezar a generar dinero real.
 

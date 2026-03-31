@@ -13,7 +13,7 @@ Mientras OpenAI y Anthropic dominan los titulares con sus valuaciones millonaria
 
 Hasta ahora, si eras una empresa grande con datos sensibles, tenías pocas opciones reales. Podías usar los modelos de OpenAI o Anthropic, pero eso significaba enviar tu información a servidores externos. O intentabas hacer "fine-tuning"—ajustar un modelo preentrenado con tus datos específicos—pero eso es como tratar de moldear un martillo para que sea una llave: funciona, pero no es lo ideal.
 
-[La IA agéntica ya está automatizando trabajos](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), y las empresas necesitan modelos que entiendan sus procesos únicos. Mistral Forge ofrece exactamente eso: la capacidad de construir un modelo desde cero, entrenado exclusivamente con los datos de tu compañía, corriendo en tu infraestructura.
+[La IA agéntica ya está automatizando trabajos](/blog/ia-agentica-automatiza-tu-trabajo/), y las empresas necesitan modelos que entiendan sus procesos únicos. Mistral Forge ofrece exactamente eso: la capacidad de construir un modelo desde cero, entrenado exclusivamente con los datos de tu compañía, corriendo en tu infraestructura.
 
 ## ¿Qué es Mistral Forge exactamente?
 
@@ -24,7 +24,7 @@ Mistral Forge es una plataforma que democratiza el entrenamiento de modelos de I
 - **Ejecutar localmente** sin enviar nada a la nube
 - **Escalar según necesidad** desde startup hasta corporativo
 
-Es el equivalente a decir: "Olvida comprar IA, construye la tuya." Y en un mundo donde [Microsoft ya vende agentes de IA como empleados con email y Teams propios](https://latendenciausa.web.app/blog/microsoft-365-e7-agentes-ia-empleados-precio/), tener control total sobre tu modelo es un superpoder competitivo.
+Es el equivalente a decir: "Olvida comprar IA, construye la tuya." Y en un mundo donde [Microsoft ya vende agentes de IA como empleados con email y Teams propios](/blog/microsoft-365-e7-agentes-ia-empleados-precio/), tener control total sobre tu modelo es un superpoder competitivo.
 
 ## Por qué esto importa en la batalla empresarial
 

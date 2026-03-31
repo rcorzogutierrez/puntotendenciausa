@@ -21,7 +21,7 @@ Los anuncios llegarán de forma estratégica. No será caos como en Google Maps.
 
 Junto con los anuncios en Maps, Apple lanzará una suite completa de herramientas empresariales el 14 de abril. Esta estrategia es parte de un plan más grande para conquistar a pequeñas y medianas empresas.
 
-Apple Business es el nombre del nuevo ecosistema. Incluye herramientas para [Google Maps se reinventa con IA y cambia cómo te mueves](https://latendenciausa.web.app/blog/google-maps-ia-actualizacion-navegacion/), pero con enfoque en privacidad y control empresarial. Pequeños negocios podrán manejar reservas, pagos y citas directamente desde sus dispositivos Apple.
+Apple Business es el nombre del nuevo ecosistema. Incluye herramientas para [Google Maps se reinventa con IA y cambia cómo te mueves](/blog/google-maps-ia-actualizacion-navegacion/), pero con enfoque en privacidad y control empresarial. Pequeños negocios podrán manejar reservas, pagos y citas directamente desde sus dispositivos Apple.
 
 Para emprendedores latinos en Estados Unidos, esto es importante. Muchos pequeños negocios operan desde iPhones y iPads. Apple les está dando herramientas integradas para competir con servicios como Square o Shopify, pero dentro del ecosistema Apple.
 
@@ -35,7 +35,7 @@ Para negocios, especialmente latinos que buscan clientes locales, esto abre opor
 
 ## ¿Qué significa para la competencia?
 
-Google debe estar tomando notas. Si Apple logra monetizar Maps sin alienar usuarios, otros servicios "gratuitos" de Apple podrían seguir el mismo camino. Recuerda que [Google Maps se reinventa con IA y cambia cómo te mueves](https://latendenciausa.web.app/blog/google-maps-ia-actualizacion-navegacion/) constantemente para mantener ventaja.
+Google debe estar tomando notas. Si Apple logra monetizar Maps sin alienar usuarios, otros servicios "gratuitos" de Apple podrían seguir el mismo camino. Recuerda que [Google Maps se reinventa con IA y cambia cómo te mueves](/blog/google-maps-ia-actualizacion-navegacion/) constantemente para mantener ventaja.
 
 Pero hay una diferencia fundamental: Apple controla hardware y software. Puede integrar anuncios de formas que Google no puede. Y con millones de usuarios cautivos en el ecosistema Apple, tiene poder de mercado que Google solo puede soñar.
 

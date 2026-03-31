@@ -23,7 +23,7 @@ Lo genial es que no espera a que Instagram, TikTok o X solucionen el problema. B
 
 DeleteMe, la plataforma especializada en eliminar datos personales de internet, ve en Block Party una expansión natural de sus servicios. Es como conectar dos puntos: si ya estás eliminando tu información de bases de datos públicas, tiene sentido también proteger tu presencia actual en redes sociales.
 
-Esta adquisición refleja una tendencia más amplia que estamos viendo en 2026: [las empresas tech están enfocándose cada vez más en la privacidad de los usuarios](https://latendenciausa.web.app/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/). No es porque de repente les importe más —es porque los usuarios exigen herramientas que el propio ecosistema de redes sociales no ofrece.
+Esta adquisición refleja una tendencia más amplia que estamos viendo en 2026: [las empresas tech están enfocándose cada vez más en la privacidad de los usuarios](/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/). No es porque de repente les importe más —es porque los usuarios exigen herramientas que el propio ecosistema de redes sociales no ofrece.
 
 ## Lo que significa para ti como usuario latino
 
@@ -31,7 +31,7 @@ Si eres creador de contenido, activista político o simplemente alguien que comp
 
 Con esta adquisición, DeleteMe espera ofrecer una solución integral: elimina tus datos del pasado y protege tu presencia digital en el presente. Es el combo completo de privacidad.
 
-## El contexto más grande: [ciberseguridad en 2026](https://latendenciausa.web.app/blog/crunchyroll-brecha-datos-seguridad/)
+## El contexto más grande: [ciberseguridad en 2026](/blog/crunchyroll-brecha-datos-seguridad/)
 
 Block Party llega a DeleteMe justo cuando la seguridad digital se ha convertido en un campo de batalla real. Hemos visto brechas masivas de datos, ataques cibernéticos coordinados y gobiernos comprando información privada sin orden judicial.
 

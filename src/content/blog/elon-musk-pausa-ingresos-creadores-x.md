@@ -13,7 +13,7 @@ Cuando parece que las cosas se estabilizan en X, Elon Musk sorprende de nuevo. E
 
 Musk anunció una nueva política para el programa de compartición de ingresos de X, pero la reacción fue casi inmediata. Los creadores de contenido, especialmente aquellos que dependen de esta monetización para vivir, comenzaron a expresar su preocupación en la plataforma. La propuesta generó tanto ruido que el CEO decidió dar marcha atrás... al menos por ahora.
 
-No es la primera vez que vemos este patrón. [La historia de X bajo el liderazgo de Musk está llena de anuncios controvertidos seguidos de cambios rápidos](https://latendenciausa.web.app/blog/elon-musk-engano-inversores-twitter-jurado/). Sin embargo, esto refleja algo más profundo: la tensión constante entre lo que Musk quiere hacer y lo que la comunidad de creadores necesita para sobrevivir.
+No es la primera vez que vemos este patrón. [La historia de X bajo el liderazgo de Musk está llena de anuncios controvertidos seguidos de cambios rápidos](/blog/elon-musk-engano-inversores-twitter-jurado/). Sin embargo, esto refleja algo más profundo: la tensión constante entre lo que Musk quiere hacer y lo que la comunidad de creadores necesita para sobrevivir.
 
 ## Por qué los creadores están molestos
 
@@ -25,9 +25,9 @@ La pausa de Musk sugiere que escuchó el mensaje. O al menos, que sus ejecutivos
 
 ## El patrón de X sigue siendo caótico
 
-La pausa es una victoria pequeña para los creadores, pero también es un recordatorio de la inestabilidad que caracteriza a X desde su adquisición. [Mientras tanto, plataformas como TikTok siguen innovando en cómo monetizar a sus creadores](https://latendenciausa.web.app/blog/tiktok-anuncios-invasivos-logos-competencia/), ofreciendo nuevas formas de generar ingresos que van más allá del simple pago por visualizaciones.
+La pausa es una victoria pequeña para los creadores, pero también es un recordatorio de la inestabilidad que caracteriza a X desde su adquisición. [Mientras tanto, plataformas como TikTok siguen innovando en cómo monetizar a sus creadores](/blog/tiktok-anuncios-invasivos-logos-competencia/), ofreciendo nuevas formas de generar ingresos que van más allá del simple pago por visualizaciones.
 
-Facebook también está en esta batalla. La plataforma de Meta [lanzó un programa agresivo de monetización para arrebatar creadores a TikTok y YouTube](https://latendenciausa.web.app/blog/facebook-monetizacion-creadores-tiktok-youtube/), pagando miles de millones a creadores en 2025.
+Facebook también está en esta batalla. La plataforma de Meta [lanzó un programa agresivo de monetización para arrebatar creadores a TikTok y YouTube](/blog/facebook-monetizacion-creadores-tiktok-youtube/), pagando miles de millones a creadores en 2025.
 
 ## ¿Qué sigue para X?
 

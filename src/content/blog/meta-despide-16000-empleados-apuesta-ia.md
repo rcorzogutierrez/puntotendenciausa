@@ -19,13 +19,13 @@ El motivo declarado del recorte no es una crisis ni malos resultados. Al contrar
 
 ¿En qué exactamente? Nuevos centros de datos, tarjetas gráficas de Nvidia, chips propios y, sobre todo, el reclutamiento de los mejores investigadores de IA del mundo. Se reporta que Meta está ofreciendo paquetes de compensación de **cientos de millones de dólares** repartidos en cuatro años para fichar a talento de primer nivel en su nuevo equipo de superinteligencia.
 
-La lógica es simple, aunque dolorosa para quienes pierden su trabajo: Zuckerberg cree que los empleados que hacían proyectos grandes con equipos de 20 personas van a ser reemplazados por una sola persona con [herramientas de IA](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/).
+La lógica es simple, aunque dolorosa para quienes pierden su trabajo: Zuckerberg cree que los empleados que hacían proyectos grandes con equipos de 20 personas van a ser reemplazados por una sola persona con [herramientas de IA](/blog/ia-agentica-automatiza-tu-trabajo/).
 
 ## Lo que está en juego para la comunidad tech latina
 
 Aquí es donde esto nos toca de cerca. La industria tech en Estados Unidos emplea a cientos de miles de latinos, muchos en roles de ingeniería, operaciones, marketing y soporte. Cuando empresas como Meta hacen cortes de este tamaño, el efecto llega a toda la industria.
 
-Ya en lo que va de 2026, **más de 45,000 empleos tech han sido eliminados globalmente**. Meta no está sola: Block (la empresa de Jack Dorsey) recortó 4,000 empleados en febrero. [Atlassian](https://latendenciausa.web.app/blog/atlassian-despide-empleados-ia/), que también opera en software, hizo lo propio.
+Ya en lo que va de 2026, **más de 45,000 empleos tech han sido eliminados globalmente**. Meta no está sola: Block (la empresa de Jack Dorsey) recortó 4,000 empleados en febrero. [Atlassian](/blog/atlassian-despide-empleados-ia/), que también opera en software, hizo lo propio.
 
 Si estás en el sector tech o aspiras a entrar, el mensaje es claro: los roles que más riesgo tienen son los que se pueden automatizar con IA. Los que se adaptan, los que aprenden a usar estas herramientas como multiplicadores de su propio trabajo, son los que seguirán siendo relevantes.
 

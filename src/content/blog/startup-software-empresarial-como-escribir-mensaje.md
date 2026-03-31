@@ -21,7 +21,7 @@ Suena simple, pero es un cambio sísmico en cómo las empresas operan. Especialm
 
 El software empresarial actual es un laberinto. Una persona promedio en una corporación pasa entre 9 y 10 horas a la semana buscando información o intentando completar tareas simples en sistemas complicados. Es decir: casi una jornada de trabajo perdida.
 
-La IA agéntica que [ya está transformando cómo trabajamos](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/) puede resolver esto. Pero requiere interfaces completamente nuevas. No puedes usar un agent de IA en un software diseñado para la era del mouse y el teclado.
+La IA agéntica que [ya está transformando cómo trabajamos](/blog/ia-agentica-automatiza-tu-trabajo/) puede resolver esto. Pero requiere interfaces completamente nuevas. No puedes usar un agent de IA en un software diseñado para la era del mouse y el teclado.
 
 Por eso esta startup vio la oportunidad: ser la interfaz entre los workers y los miles de sistemas heredados que las empresas usan pero odian.
 
@@ -37,7 +37,7 @@ Es la diferencia entre ser un usuario que espera a que el software le diga qué 
 
 ## El contexto más amplio
 
-[Microsoft ya está monetizando agentes de IA como si fueran empleados](https://latendenciausa.web.app/blog/microsoft-365-e7-agentes-ia-empleados-precio/) con su nuevo paquete Microsoft 365 E7. [Otros modelos como Mistral permiten a empresas entrenar IA personalizada](https://latendenciausa.web.app/blog/mistral-forge-ia-personalizada-empresarial/).
+[Microsoft ya está monetizando agentes de IA como si fueran empleados](/blog/microsoft-365-e7-agentes-ia-empleados-precio/) con su nuevo paquete Microsoft 365 E7. [Otros modelos como Mistral permiten a empresas entrenar IA personalizada](/blog/mistral-forge-ia-personalizada-empresarial/).
 
 Pero lo que esta startup está haciendo es diferente: no es entrenar modelos personalizados ni agregar IA a Microsoft 365. Es rediseñar completamente cómo se ve y funciona el software empresarial desde la base.
 

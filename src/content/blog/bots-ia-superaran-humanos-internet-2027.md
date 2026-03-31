@@ -13,7 +13,7 @@ Matthew Prince, CEO de Cloudflare, acaba de soltar una bomba: en 2027, los bots 
 
 Cloudflare maneja el tráfico de una porción masiva de internet. Desde su posición privilegiada, Prince observa cómo los agentes de IA generativa están multiplicando exponencialmente las solicitudes a servidores web. Estamos hablando de bots que no solo rastrean contenido como los viejos spiders de Google, sino que **interactúan, generan, procesan y toman decisiones** de forma continua.
 
-La razón es simple: [la IA agéntica está automatizando tareas que antes hacían humanos](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/). Cada agente que ejecuta una búsqueda, analiza datos, negocia una compra o genera un reporte equivale a múltiples solicitudes HTTP golpeando los servidores. Y eso es solo el comienzo.
+La razón es simple: [la IA agéntica está automatizando tareas que antes hacían humanos](/blog/ia-agentica-automatiza-tu-trabajo/). Cada agente que ejecuta una búsqueda, analiza datos, negocia una compra o genera un reporte equivale a múltiples solicitudes HTTP golpeando los servidores. Y eso es solo el comienzo.
 
 ## Por qué esto importa más de lo que crees
 
@@ -35,7 +35,7 @@ Para nosotros, la realidad es más directa. Si la infraestructura colapsa bajo e
 
 También significa que los reguladores finalmente tendrán que actuar. Ya vemos presión en Washington y Europa para controlar qué bots pueden hacer y dónde. Cloudflare mismo tendrá que tomar decisiones sobre qué tráfico bot permite y cuál bloquea.
 
-Lo interesante es que [Microsoft y otras empresas ya están invirtiendo billones en infraestructura de IA](https://latendenciausa.web.app/blog/trump-genesis-mission-ia-defensa-energia/) precisamente para anticiparse a este tsunami. Saben que viene, y quien controle la infraestructura controlará la IA.
+Lo interesante es que [Microsoft y otras empresas ya están invirtiendo billones en infraestructura de IA](/blog/trump-genesis-mission-ia-defensa-energia/) precisamente para anticiparse a este tsunami. Saben que viene, y quien controle la infraestructura controlará la IA.
 
 ## La pregunta real
 

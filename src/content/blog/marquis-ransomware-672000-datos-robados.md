@@ -13,7 +13,7 @@ La empresa fintech Marquis acaba de enviar notificaciones a más de 672,000 pers
 
 Los hackers lograron acceder a los sistemas de Marquis y extrajeron una cantidad masiva de información confidencial. Este tipo de ataques ransomware no solo son frustrantes, sino que representan un riesgo real para la identidad y seguridad financiera de cientos de miles de personas. La empresa ha estado notificando a los afectados sobre lo sucedido y las medidas que están tomando.
 
-Lo preocupante es que esto forma parte de [una tendencia creciente de ataques cibernéticos cada vez más sofisticados](https://latendenciausa.web.app/blog/hackers-iran-stryker-ataque-cibernetico/). Ya hemos visto cómo hackers pro-Irán atacan dispositivos médicos y cómo grupos rusos se infiltran en sistemas para robar información de ucranianos. El sector fintech, por su naturaleza, es un blanco especialmente atractivo para los cibercriminales.
+Lo preocupante es que esto forma parte de [una tendencia creciente de ataques cibernéticos cada vez más sofisticados](/blog/hackers-iran-stryker-ataque-cibernetico/). Ya hemos visto cómo hackers pro-Irán atacan dispositivos médicos y cómo grupos rusos se infiltran en sistemas para robar información de ucranianos. El sector fintech, por su naturaleza, es un blanco especialmente atractivo para los cibercriminales.
 
 ## ¿Qué información fue comprometida?
 
@@ -37,7 +37,7 @@ Marquis está ofreciendo servicios de monitoreo de crédito gratuitos y asistenc
 
 ## El patrón se repite: ¿por qué los hackers siguen ganando?
 
-Lo que sucede con Marquis no es aislado. Ya hemos documentado cómo [hackers rusos roban datos personales de ucranianos con herramientas avanzadas para infiltrarse en iPhones](https://latendenciausa.web.app/blog/hackers-rusos-roban-datos-iphone-ucranianos/). Los cibercriminales tienen herramientas cada vez más sofisticadas, presupuestos enormes y, en muchos casos, el respaldo de gobiernos extranjeros.
+Lo que sucede con Marquis no es aislado. Ya hemos documentado cómo [hackers rusos roban datos personales de ucranianos con herramientas avanzadas para infiltrarse en iPhones](/blog/hackers-rusos-roban-datos-iphone-ucranianos/). Los cibercriminales tienen herramientas cada vez más sofisticadas, presupuestos enormes y, en muchos casos, el respaldo de gobiernos extranjeros.
 
 Las empresas fintech son especialmente vulnerables porque manejan dinero real. A diferencia de otros ataques que buscan publicidad o causas políticas, estos ataques ransomware tienen un propósito claro: generar dinero a través del robo de identidad o extorsión directa.
 

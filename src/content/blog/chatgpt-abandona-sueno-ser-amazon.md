@@ -27,9 +27,9 @@ Los números no mienten. La función de compra directa en ChatGPT simplemente no
 
 ## Lo que esto revela sobre OpenAI
 
-Este fracaso es instructivo. [OpenAI ya vale más que muchos países con $25 mil millones en ingresos anualizados](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/), pero eso no significa que todo lo que toca se convierte en oro. La compañía está aprendiendo a enfocarse en lo que realmente funciona: ser el mejor proveedor de inteligencia artificial conversacional del mercado.
+Este fracaso es instructivo. [OpenAI ya vale más que muchos países con $25 mil millones en ingresos anualizados](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/), pero eso no significa que todo lo que toca se convierte en oro. La compañía está aprendiendo a enfocarse en lo que realmente funciona: ser el mejor proveedor de inteligencia artificial conversacional del mercado.
 
-En lugar de intentar reinventar el comercio electrónico, OpenAI está explorando otras áreas. [La compañía está expandiendo su presencia en el gobierno con acuerdos con AWS](https://latendenciausa.web.app/blog/openai-expande-gobierno-acuerdo-aws/) y desarrollando modelos cada vez más poderosos. Parece que aprendió la lección: mejor ser excelente en una cosa que mediocre en muchas.
+En lugar de intentar reinventar el comercio electrónico, OpenAI está explorando otras áreas. [La compañía está expandiendo su presencia en el gobierno con acuerdos con AWS](/blog/openai-expande-gobierno-acuerdo-aws/) y desarrollando modelos cada vez más poderosos. Parece que aprendió la lección: mejor ser excelente en una cosa que mediocre en muchas.
 
 ## ¿Qué significa para ti?
 

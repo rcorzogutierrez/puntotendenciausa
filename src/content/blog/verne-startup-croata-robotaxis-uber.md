@@ -19,13 +19,13 @@ Lo interesante aquí no es solo que sean croatas, sino cómo están estructurand
 
 Lo que hace especialmente relevante a Verne es su relación con Uber. La compañía de transporte compartido ha estado buscando alternativas de conducción autónoma después de diversos contratiempos con otros proveedores. Para Verne, esta asociación es crucial: Uber proporciona acceso a una red de usuarios y datos sobre patrones de transporte que son invaluables.
 
-Esta alianza recuerda a [cómo Blue Origin está revolucionando los centros de datos en el espacio](https://latendenciausa.web.app/blog/blue-origin-project-sunrise-satelites-data-center-espacio/), donde las asociaciones estratégicas aceleran la innovación. En el caso de Verne, Uber no solo valida su tecnología, sino que le abre puertas a mercados que de otro modo tardarían años en alcanzar.
+Esta alianza recuerda a [cómo Blue Origin está revolucionando los centros de datos en el espacio](/blog/blue-origin-project-sunrise-satelites-data-center-espacio/), donde las asociaciones estratégicas aceleran la innovación. En el caso de Verne, Uber no solo valida su tecnología, sino que le abre puertas a mercados que de otro modo tardarían años en alcanzar.
 
 ## ¿Por qué Europa antes que América?
 
 Es una pregunta lógica. ¿Por qué Verne no lanza en Miami o Austin primero? La respuesta es práctica: las regulaciones europeas, aunque complejas, son más predecibles que el caos regulatorio de Estados Unidos. Además, los gobiernos locales en ciudades como Zagreb están más dispuestos a colaborar con startups de tecnología que los municipios estadounidenses.
 
-Esto también le da a Verne tiempo para acumular datos operacionales reales. A diferencia de las simulaciones, los datos de conducción en calles reales de una ciudad real son oro puro para entrenar sistemas de IA. Y [mientras la IA agéntica sigue automatizando cada rincón de nuestras vidas](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), Verne está recogiendo exactamente el tipo de información que necesita para crear agentes de conducción verdaderamente autónomos.
+Esto también le da a Verne tiempo para acumular datos operacionales reales. A diferencia de las simulaciones, los datos de conducción en calles reales de una ciudad real son oro puro para entrenar sistemas de IA. Y [mientras la IA agéntica sigue automatizando cada rincón de nuestras vidas](/blog/ia-agentica-automatiza-tu-trabajo/), Verne está recogiendo exactamente el tipo de información que necesita para crear agentes de conducción verdaderamente autónomos.
 
 ## El panorama competitivo: ¿pueden vencer a Tesla?
 

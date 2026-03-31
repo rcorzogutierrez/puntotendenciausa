@@ -17,7 +17,7 @@ Pero la realidad de la industria EV es brutal. La competencia no da tregua, los 
 
 ## ¿Por qué fracasó el proyecto?
 
-Honda ha estado bajo presión. [La empresa automotriz enfrenta una transición complicada hacia vehículos eléctricos mientras compite con empresas como Tesla y otros fabricantes globales](https://latendenciausa.web.app/blog/fortnite-vs-age-of-empires-bots-ia-comparativa/). El mercado EV en Estados Unidos se está saturando, los precios caen constantemente y los márgenes de ganancia se erosionan.
+Honda ha estado bajo presión. La empresa automotriz enfrenta una transición complicada hacia vehículos eléctricos mientras compite con empresas como Tesla y startups como [Verne, la empresa croata que ya opera robotaxis en Europa y tiene acuerdo con Uber](/blog/verne-startup-croata-robotaxis-uber/). El mercado EV en Estados Unidos se está saturando, los precios caen constantemente y los márgenes de ganancia se erosionan.
 
 Sony, por su parte, descubrió que estar en la industria automotriz es radicalmente diferente a estar en la electrónica de consumo. Los ciclos de desarrollo son más largos, las regulaciones son más complejas y el capital requerido es astronómico.
 
@@ -27,7 +27,7 @@ La cancelación del Afeela también refleja una verdad incómoda: no todas las a
 
 Honda no es la única que está retrocediendo. Múltiples fabricantes automotrices están recalculando sus estrategias de electrificación. Algunos están ralentizando la transición, otros están enfocándose primero en mercados específicos donde la demanda es clara.
 
-Lo interesante es que mientras los fabricantes tradicionales luchan, startups y empresas de tecnología [como las que están desarrollando robotaxis y vehículos autónomos más sofisticados](https://latendenciausa.web.app/blog/lucid-motors-robotaxi-lunar-concepto/) continúan atrayendo capital de riesgo. Parece que hay dinero en abundancia para lo "next-next-big-thing", pero menos paciencia para proyectos que toman años en desarrollarse.
+Lo interesante es que mientras los fabricantes tradicionales luchan, startups y empresas de tecnología [como las que están desarrollando robotaxis y vehículos autónomos más sofisticados](/blog/lucid-motors-robotaxi-lunar-concepto/) continúan atrayendo capital de riesgo. Parece que hay dinero en abundancia para lo "next-next-big-thing", pero menos paciencia para proyectos que toman años en desarrollarse.
 
 ## ¿Qué pasa con los clientes y los planes?
 

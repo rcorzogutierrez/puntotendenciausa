@@ -21,7 +21,7 @@ Un dato importante: en el modo Arena (el competitivo), no hay bots. Cero. El SBM
 
 ## Age of Empires II: bots que calculan cada movimiento
 
-Aquí la historia es diferente, y más antigua. La IA de [Age of Empires II](https://latendenciausa.web.app/blog/age-of-empires-ii-the-last-chieftains-civilizaciones-latinas/) no usa machine learning —eso es Age of Empires IV, el juego más reciente. La IA de AoE2 es un sistema de reglas escrito en un lenguaje propio del juego, parecido a Lisp, con más de 10,000 condiciones del tipo: *"si puedo entrenar un aldeano, entrénalo"* o *"si el enemigo ataca la base, enviar tres espadachines"*.
+Aquí la historia es diferente, y más antigua. La IA de [Age of Empires II](/blog/age-of-empires-ii-the-last-chieftains-civilizaciones-latinas/) no usa machine learning —eso es Age of Empires IV, el juego más reciente. La IA de AoE2 es un sistema de reglas escrito en un lenguaje propio del juego, parecido a Lisp, con más de 10,000 condiciones del tipo: *"si puedo entrenar un aldeano, entrénalo"* o *"si el enemigo ataca la base, enviar tres espadachines"*.
 
 Es IA clásica, pero no la subestimes. El nivel Extremo puede manejar más de 120 aldeanos de forma eficiente, hacer micro con unidades en combate —esquivar flechas, atacar y retroceder— y controlar recursos, expansión y ataques al mismo tiempo. La comunidad estima que el nivel Extremo equivale a un jugador de entre 800 y 1,200 de Elo, que en términos prácticos significa: te va a ganar a casi todos.
 

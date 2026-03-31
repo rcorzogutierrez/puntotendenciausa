@@ -13,7 +13,7 @@ Si hay un evento en el mundo tecnológico que genera más expectativa que el key
 
 Durante años, Nvidia vendía GPUs principalmente para videojuegos y diseño gráfico. Luego llegó el boom de la IA y resultó que esas mismas tarjetas eran exactamente lo que se necesitaba para entrenar modelos de lenguaje masivos. La demanda se disparó, los precios se fueron a las nubes y Nvidia se convirtió en una de las empresas más valiosas del planeta.
 
-Pero el mercado está cambiando. El gran ciclo de entrenamiento de modelos enormes, donde empresas como [OpenAI y Google](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) gastaban cientos de millones de dólares en cómputo, está madurando. Ahora el siguiente campo de batalla es la inferencia: hacer que esos modelos ya entrenados respondan a millones de usuarios en tiempo real, de forma eficiente y a bajo costo.
+Pero el mercado está cambiando. El gran ciclo de entrenamiento de modelos enormes, donde empresas como [OpenAI y Google](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) gastaban cientos de millones de dólares en cómputo, está madurando. Ahora el siguiente campo de batalla es la inferencia: hacer que esos modelos ya entrenados respondan a millones de usuarios en tiempo real, de forma eficiente y a bajo costo.
 
 Jensen Huang lo sabe, y el GTC 2026 está diseñado precisamente para mostrar cómo Nvidia planea liderar también esta nueva etapa.
 
@@ -23,7 +23,7 @@ En la conferencia de este año, se esperan anuncios concretos alrededor de tres 
 
 **Inferencia a escala**: Nvidia presentará nuevas arquitecturas de chips y software optimizados no para entrenar modelos sino para servirlos. El objetivo es que empresas de cualquier tamaño puedan correr IA de forma más eficiente y a menor costo por consulta.
 
-**Agentes de IA**: Esta es la palabra del momento en todo el sector. Los [agentes](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/) son sistemas de IA que no solo responden preguntas sino que ejecutan tareas complejas de forma autónoma: buscar información, tomar decisiones, usar herramientas externas, coordinar con otros agentes. Nvidia quiere ser la infraestructura sobre la que corren todos esos agentes.
+**Agentes de IA**: Esta es la palabra del momento en todo el sector. Los [agentes](/blog/ia-agentica-automatiza-tu-trabajo/) son sistemas de IA que no solo responden preguntas sino que ejecutan tareas complejas de forma autónoma: buscar información, tomar decisiones, usar herramientas externas, coordinar con otros agentes. Nvidia quiere ser la infraestructura sobre la que corren todos esos agentes.
 
 **Redes e infraestructura**: Los modelos de IA más grandes ya no caben en un solo servidor. Necesitan redes de comunicación ultra rápidas entre miles de chips. Nvidia lleva años desarrollando tecnología específicamente para esto, y en el GTC presentará las últimas novedades en esta área que pocas personas fuera de la industria conocen pero que es absolutamente crítica.
 
@@ -35,7 +35,7 @@ Además, Nvidia ofrece plataformas completas, herramientas de desarrollo y servi
 
 ## Qué significa esto para los latinos que usamos IA a diario
 
-Cada vez que usas ChatGPT, Gemini, [Claude](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/) o cualquier herramienta de IA, hay una probabilidad muy alta de que la respuesta que recibes haya pasado por chips de Nvidia en algún servidor en algún lugar del mundo. Cuando una app te traduce texto, te genera una imagen o te resume un documento, Nvidia probablemente está en algún punto de esa cadena.
+Cada vez que usas ChatGPT, Gemini, [Claude](/blog/anthropic-claude-code-380-mil-millones-ipo/) o cualquier herramienta de IA, hay una probabilidad muy alta de que la respuesta que recibes haya pasado por chips de Nvidia en algún servidor en algún lugar del mundo. Cuando una app te traduce texto, te genera una imagen o te resume un documento, Nvidia probablemente está en algún punto de esa cadena.
 
 El dominio de Nvidia no es solo un dato de Wall Street. Define qué tan rápido se desarrolla la IA, quién puede acceder a ella y a qué precio. Si Nvidia mantiene ese control de forma indefinida, hay preguntas legítimas sobre concentración de poder en un sector que está cambiando todo.
 

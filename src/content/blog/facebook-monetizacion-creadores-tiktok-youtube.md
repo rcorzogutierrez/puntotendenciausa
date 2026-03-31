@@ -15,7 +15,7 @@ Durante años, TikTok y YouTube dominaron la industria creativa porque ofrecían
 
 Facebook se quedó rezagado en esta carrera. Muchos creadores preferían otras plataformas simplemente porque ganaban más dinero. Ahora Meta está cambiando la ecuación económica, invirtiendo miles de millones en asegurar que los creadores latinoamericanos y globales encuentren en Facebook una alternativa viable.
 
-Este movimiento no es casual. Ocurre en un momento en que [Meta recorta 16,000 empleados para financiar su apuesta por IA](https://latendenciausa.web.app/blog/meta-despide-16000-empleados-apuesta-ia/), dejando claro que la compañía está reorganizando sus prioridades. La IA y los creadores de contenido son ahora el centro de la estrategia de Zuckerberg.
+Este movimiento no es casual. Ocurre en un momento en que [Meta recorta 16,000 empleados para financiar su apuesta por IA](/blog/meta-despide-16000-empleados-apuesta-ia/), dejando claro que la compañía está reorganizando sus prioridades. La IA y los creadores de contenido son ahora el centro de la estrategia de Zuckerberg.
 
 ## ¿Qué significa esto para los creadores?
 
@@ -30,7 +30,7 @@ El aumento del 35% año tras año sugiere que Meta está aumentando sus inversio
 
 ## La batalla por la supremacía creativa
 
-Lo interesante aquí es que esto refleja una tendencia más amplia en el ecosistema tech. Mientras [Tinder intenta reconquistar usuarios con eventos presenciales y citas virtuales](https://latendenciausa.web.app/blog/tinder-eventos-presenciales-speed-dating-virtual/), Facebook está haciendo algo parecido pero a mayor escala: intentando reconquistar creadores que se fueron a competencia.
+Lo interesante aquí es que esto refleja una tendencia más amplia en el ecosistema tech. Mientras [Tinder intenta reconquistar usuarios con eventos presenciales y citas virtuales](/blog/tinder-eventos-presenciales-speed-dating-virtual/), Facebook está haciendo algo parecido pero a mayor escala: intentando reconquistar creadores que se fueron a competencia.
 
 YouTube ha dominado durante años con su algoritmo sofisticado y su base de usuarios leal. TikTok revolucionó el contenido corto con su tecnología de recomendación impulsada por IA. Ahora Facebook, que tiene tanto recursos como ambición, está diciendo: "Queremos a tus creadores, y les vamos a pagar bien".
 

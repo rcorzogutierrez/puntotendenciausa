@@ -13,7 +13,7 @@ La noticia suena como ciencia ficción, pero es puro cálculo empresarial. Los d
 
 ## La crisis energética que nadie quiere admitir
 
-Durante meses hemos visto cómo [la energía se convierte en el cuello de botella para expandir los data centers de IA](https://latendenciausa.web.app/blog/energia-cuello-botella-ia-inversion/). Las grandes empresas de tech están en una carrera frenética por conseguir electricidad suficiente. Google, Microsoft, Amazon: todos están buscando soluciones energéticas alternativas porque la red eléctrica tradicional simplemente no da abasto.
+Durante meses hemos visto cómo [la energía se convierte en el cuello de botella para expandir los data centers de IA](/blog/energia-cuello-botella-ia-inversion/). Las grandes empresas de tech están en una carrera frenética por conseguir electricidad suficiente. Google, Microsoft, Amazon: todos están buscando soluciones energéticas alternativas porque la red eléctrica tradicional simplemente no da abasto.
 
 Helion no es cualquier startup. Esta empresa ha estado desarrollando tecnología de fusión durante años, prometiendo energía limpia y prácticamente ilimitada. La diferencia con otras startups de fusión es que Helion afirma estar más cerca de la comercialización que sus competidores. Si logran cumplir sus promesas, podrían ser revolucionarios.
 
@@ -25,7 +25,7 @@ Es un movimiento inteligente: desvincularse formalmente de Helion para poder neg
 
 ## El contexto más amplio de la carrera energética
 
-Este acuerdo Helion-OpenAI no ocurre en el vacío. Mientras tanto, [Blue Origin está desarrollando Project Sunrise con satélites para procesamiento de IA en órbita](https://latendenciausa.web.app/blog/blue-origin-project-sunrise-satelites-data-center-espacio/), y [K2 está lanzando su primer satélite de computación en el espacio](https://latendenciausa.web.app/blog/k2-lanza-satelite-computacion-espacio/). Las empresas están literalmente mirando al espacio para resolver sus problemas energéticos.
+Este acuerdo Helion-OpenAI no ocurre en el vacío. Mientras tanto, [Blue Origin está desarrollando Project Sunrise con satélites para procesamiento de IA en órbita](/blog/blue-origin-project-sunrise-satelites-data-center-espacio/), y [K2 está lanzando su primer satélite de computación en el espacio](/blog/k2-lanza-satelite-computacion-espacio/). Las empresas están literalmente mirando al espacio para resolver sus problemas energéticos.
 
 Pero la fusión nuclear es diferente. Si funciona, proporciona energía constante, limpia y en tierra firme. No hay dependen cia de satélites o infraestructura espacial experimental. Es el sueño desde hace 50 años hecho realidad comercial.
 

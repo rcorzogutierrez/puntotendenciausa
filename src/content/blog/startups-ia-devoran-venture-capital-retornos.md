@@ -23,15 +23,15 @@ Los números no mienten: si 41 centavos de cada dólar invertido en startups van
 
 Aquí es donde se pone interesante. El reporte específica que los retornos son buenos "por ahora" — esa cláusula pequeña dice mucho.
 
-Empresas como [Anthropic ya alcanzó una valoración de $380 mil millones gracias a Claude Code](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/), y [OpenAI superó los $25 mil millones en ingresos anualizados](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/). Esos retornos son reales. Pero la pregunta que todos se hacen en privado es: ¿cuánto tiempo puede sostenerse esto?
+Empresas como [Anthropic ya alcanzó una valoración de $380 mil millones gracias a Claude Code](/blog/anthropic-claude-code-380-mil-millones-ipo/), y [OpenAI superó los $25 mil millones en ingresos anualizados](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/). Esos retornos son reales. Pero la pregunta que todos se hacen en privado es: ¿cuánto tiempo puede sostenerse esto?
 
-El problema es que no todas las startups de IA serán OpenAI o Anthropic. Muchas comparten el mismo modelo de negocio: entrenar modelos cada vez más grandes, consumir energía cada vez mayor, y esperar que alguien las compre o que salgan a bolsa antes de quedarse sin dinero. [La energía ya se convirtió en el cuello de botella de la IA](https://latendenciausa.web.app/blog/energia-cuello-botella-ia-inversion/), lo que significa que los costos operativos están subiendo mientras la competencia se intensifica.
+El problema es que no todas las startups de IA serán OpenAI o Anthropic. Muchas comparten el mismo modelo de negocio: entrenar modelos cada vez más grandes, consumir energía cada vez mayor, y esperar que alguien las compre o que salgan a bolsa antes de quedarse sin dinero. [La energía ya se convirtió en el cuello de botella de la IA](/blog/energia-cuello-botella-ia-inversion/), lo que significa que los costos operativos están subiendo mientras la competencia se intensifica.
 
 ## El efecto látigo: consolidación inevitable
 
 Lo que estamos viendo es el efecto látigo de la inversión. Cuando todo el dinero fluye hacia un sector, suceden dos cosas:
 
-Primero, hay un boom genuino de innovación. Las startups que logran captar fondos están construyendo cosas fascinantes — desde agentes de IA que funcionan como empleados hasta [computadoras cuánticas que generan niveles de videojuegos](https://latendenciausa.web.app/blog/computacion-cuantica-videojuegos-futuro/).
+Primero, hay un boom genuino de innovación. Las startups que logran captar fondos están construyendo cosas fascinantes — desde agentes de IA que funcionan como empleados hasta [computadoras cuánticas que generan niveles de videojuegos](/blog/computacion-cuantica-videojuegos-futuro/).
 
 Segundo, viene la consolidación brutal. Los ganadores ganan mucho. Los perdedores desaparecen. Ya lo estamos viendo: Microsoft absorbe equipos completos de startups, Meta invierte $600 mil millones en su estrategia de IA interna, y las empresas consolidadas empiezan a usar su escala para bloquear a los competidores.
 

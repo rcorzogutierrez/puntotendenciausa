@@ -11,7 +11,7 @@ La plataforma de predicciones Kalshi acaba de recibir un golpe más en su batall
 
 ## Nevada se suma a la ofensiva regulatoria
 
-Nevada ha ordenado temporalmente a Kalshi que deje de operar en el estado. La decisión se produce después de que [Arizona acusara a Kalshi de operar un negocio de juego ilegal](https://latendenciausa.web.app/blog/arizona-kalshi-cargos-criminales-apuestas-ilegales/), presentando los primeros cargos criminales contra la plataforma. Ahora, otros estados comienzan a seguir el ejemplo, cuestionando si realmente Kalshi opera dentro de los marcos legales.
+Nevada ha ordenado temporalmente a Kalshi que deje de operar en el estado. La decisión se produce después de que [Arizona acusara a Kalshi de operar un negocio de juego ilegal](/blog/arizona-kalshi-cargos-criminales-apuestas-ilegales/), presentando los primeros cargos criminales contra la plataforma. Ahora, otros estados comienzan a seguir el ejemplo, cuestionando si realmente Kalshi opera dentro de los marcos legales.
 
 El problema central es simple pero complejo: ¿Kalshi es una plataforma de apuestas ilegales disfrazada de mercado de predicciones legítimo, o es realmente una herramienta financiera innovadora?
 
@@ -21,7 +21,7 @@ Kalshi permite a usuarios hacer apuestas sobre eventos futuros: elecciones, dato
 
 Pero los reguladores estatales no lo ven así. Para ellos, si parece una apuesta y funciona como una apuesta, entonces es una apuesta. Y las apuestas en estados como Nevada y Arizona requieren licencias muy específicas que Kalshi no posee.
 
-La ironía es que [Polymarket, otro competidor directo, ya cerró un acuerdo estratégico con las Grandes Ligas de Béisbol](https://latendenciausa.web.app/blog/polymarket-mlb-acuerdo-predicciones-beisbol/), expandiendo su presencia mientras Kalshi enfrenta prohibiciones. El sector de las predicciones está dividido: algunos ven el futuro, otros ven riesgos regulatorios enormes.
+La ironía es que [Polymarket, otro competidor directo, ya cerró un acuerdo estratégico con las Grandes Ligas de Béisbol](/blog/polymarket-mlb-acuerdo-predicciones-beisbol/), expandiendo su presencia mientras Kalshi enfrenta prohibiciones. El sector de las predicciones está dividido: algunos ven el futuro, otros ven riesgos regulatorios enormes.
 
 ## El impacto más allá de Kalshi
 
@@ -42,7 +42,7 @@ Lo que está en juego es enorme. Si Kalshi pierde esta batalla, otras startups d
 
 ## El contexto más amplio
 
-Todo esto ocurre mientras la industria de tecnología en general lidia con regulaciones más estrictas. Desde [ciberseguridad](https://latendenciausa.web.app/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/) hasta IA, los gobiernos están tratando de establecer reglas antes de que sea demasiado tarde.
+Todo esto ocurre mientras la industria de tecnología en general lidia con regulaciones más estrictas. Desde [ciberseguridad](/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/) hasta IA, los gobiernos están tratando de establecer reglas antes de que sea demasiado tarde.
 
 Para los usuarios latinos en Estados Unidos interesados en estos mercados, el mensaje es claro: el paisaje regulatorio es inestable. Lo que es legal hoy en tu estado podría ser prohibido mañana. Investiga bien antes de comprometer dinero en cualquier plataforma de predicciones.
 

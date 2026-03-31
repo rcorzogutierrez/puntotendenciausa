@@ -13,7 +13,7 @@ Hace menos de dos años, Anthropic valía unos $18,000 millones. Hoy vale **$380
 
 La respuesta tiene nombre propio: **Claude Code**.
 
-Lanzado públicamente en mayo de 2025, Claude Code es el [agente de programación](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/) de Anthropic que permite a desarrolladores escribir, revisar y depurar código directamente desde la terminal o el editor. En menos de seis meses de su lanzamiento ya había alcanzado **$1,000 millones en ingresos anualizados**, superando la velocidad de adopción de ChatGPT y de cualquier producto de software empresarial en la historia.
+Lanzado públicamente en mayo de 2025, Claude Code es el [agente de programación](/blog/ia-agentica-automatiza-tu-trabajo/) de Anthropic que permite a desarrolladores escribir, revisar y depurar código directamente desde la terminal o el editor. En menos de seis meses de su lanzamiento ya había alcanzado **$1,000 millones en ingresos anualizados**, superando la velocidad de adopción de ChatGPT y de cualquier producto de software empresarial en la historia.
 
 Para principios de 2026, Claude Code genera **$2,500 millones en ingresos anualizados** y representa más de la mitad de todo el gasto empresarial en productos de Anthropic. El número de empresas gastando más de $100,000 al año en la plataforma creció **siete veces** en doce meses.
 
@@ -45,6 +45,6 @@ Para la comunidad latina en Estados Unidos, esto importa de varias formas:
 
 ## La carrera continúa
 
-Mientras [OpenAI](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) apunta a una valoración de $1 billón y [SpaceX](https://latendenciausa.web.app/blog/spacex-xai-fusion-mayor-adquisicion-historia/) prepara su propio IPO, Anthropic está posicionada como la opción que combina rendimiento, seguridad y crecimiento sostenible. El mercado ya le está dando crédito por eso.
+Mientras [OpenAI](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) apunta a una valoración de $1 billón y [SpaceX](/blog/spacex-xai-fusion-mayor-adquisicion-historia/) prepara su propio IPO, Anthropic está posicionada como la opción que combina rendimiento, seguridad y crecimiento sostenible. El mercado ya le está dando crédito por eso.
 
 ¿Ya usas Claude en tu trabajo diario? ¿Crees que Anthropic merece su lugar entre los gigantes de la IA, o el hype está yendo demasiado lejos? Cuéntanos.

@@ -23,9 +23,9 @@ La startup asegura que esto no afecta la integridad del ranking. Los votos son r
 
 ## Por qué Arena importa más de lo que crees
 
-Si todavía no entiendes por qué debería importarte, piénsalo así: el ranking de Arena influye en dónde invierte el capital de riesgo. Si tu modelo aparece en el top 5, los inversores notan. Si cae del ranking, tu valoración podría caer con él. Eso significa que [miles de trabajos en empresas de IA dependen indirectamente de cómo Arena los clasifique](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/).
+Si todavía no entiendes por qué debería importarte, piénsalo así: el ranking de Arena influye en dónde invierte el capital de riesgo. Si tu modelo aparece en el top 5, los inversores notan. Si cae del ranking, tu valoración podría caer con él. Eso significa que [miles de trabajos en empresas de IA dependen indirectamente de cómo Arena los clasifique](/blog/anthropic-claude-code-380-mil-millones-ipo/).
 
-Además, Arena determina qué modelos los desarrolladores elijen para sus aplicaciones. Si Claude de Anthropic está en el top del ranking, más startups lo usan. Si Gemini de Google cae, Google tiene que explicar por qué. [El modelo de IA que uses en tu negocio podría cambiar dependiendo de dónde aparezca en Arena](https://latendenciausa.web.app/blog/google-gemini-flash-lite-modelo-barato/).
+Además, Arena determina qué modelos los desarrolladores elijen para sus aplicaciones. Si Claude de Anthropic está en el top del ranking, más startups lo usan. Si Gemini de Google cae, Google tiene que explicar por qué. [El modelo de IA que uses en tu negocio podría cambiar dependiendo de dónde aparezca en Arena](/blog/google-gemini-flash-lite-modelo-barato/).
 
 ## El dilema de transparencia vs. conflicto
 
@@ -37,7 +37,7 @@ Lo fascinante es que Arena fue diseñada específicamente para evitar estos prob
 
 Algunas opciones obvias: Arena podría rechazar financiamiento de las empresas que clasifica, o crear una junta editorial independiente que supervise los cambios. Pero eso requeriría que Arena sacrifique flexibilidad financiera que ahora tienen.
 
-Mientras tanto, tú como usuario o desarrollador deberías saber que aunque Arena es útil para comparar modelos, no es la palabra final. [Así como diferentes modelos de IA tienen diferentes fortalezas según la tarea —algunos son mejores para código, otros para escritura creativa](https://latendenciausa.web.app/blog/fortnite-vs-age-of-empires-bots-ia-comparativa/)—, Arena es mejor para comparar lenguaje general que para casos de uso específicos.
+Mientras tanto, tú como usuario o desarrollador deberías saber que aunque Arena es útil para comparar modelos, no es la palabra final. [Así como diferentes modelos de IA tienen diferentes fortalezas según la tarea —algunos son mejores para código, otros para escritura creativa](/blog/fortnite-vs-age-of-empires-bots-ia-comparativa/)—, Arena es mejor para comparar lenguaje general que para casos de uso específicos.
 
 ¿Qué piensas? ¿Confiarías en un ranking que es transparente pero que está financiado por los mismos competidores?
 

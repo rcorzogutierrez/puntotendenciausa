@@ -37,7 +37,7 @@ Para los restaurantes asociados, la transición también promete beneficios. Gra
 
 Algunos analistas cuestionarán si $600 millones es un precio justo. Pero en el contexto del mercado asiático de delivery, que crece a doble dígito cada año, la inversión parece calculada. Grab está apostando a que el dominio del mercado de Taiwan le permitirá generar retornos significativos en los próximos años.
 
-Además, esta adquisición refleja la tendencia más amplia en la industria tech: [las startups de IA devoran el venture capital y la inversión tecnológica sigue fluyendo hacia empresas con potencial de mercado global](https://latendenciausa.web.app/blog/startups-ia-devoran-venture-capital-retornos/). Aunque Grab no es puramente una startup de IA, su inversión en tecnología de delivery y logística es significativa.
+Además, esta adquisición refleja la tendencia más amplia en la industria tech: [las startups de IA devoran el venture capital y la inversión tecnológica sigue fluyendo hacia empresas con potencial de mercado global](/blog/startups-ia-devoran-venture-capital-retornos/). Aunque Grab no es puramente una startup de IA, su inversión en tecnología de delivery y logística es significativa.
 
 ## ¿Qué sigue para Grab?
 

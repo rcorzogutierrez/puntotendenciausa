@@ -29,13 +29,13 @@ Para la comunidad latina en Estados Unidos, Twitter se convirtió en una herrami
 
 Pero la historia de Twitter no es únicamente de éxito. La plataforma que prometía democratizar la voz también se convirtió en un lugar de discordia, desinformación y toxicidad. Dorsey mismo dejó el cargo de CEO en 2015, reconociendo que no era la persona indicada para llevar la visión adelante.
 
-Cuando Elon Musk compró Twitter en 2022 por $44 mil millones, la plataforma enfrentaba críticas sobre su rol en la propagación de bots y desinformación. Curiosamente, hace poco un jurado determinó que [Musk mintió sobre los bots precisamente para intentar cancelar esa adquisición](https://latendenciausa.web.app/blog/elon-musk-engano-inversores-twitter-jurado/).
+Cuando Elon Musk compró Twitter en 2022 por $44 mil millones, la plataforma enfrentaba críticas sobre su rol en la propagación de bots y desinformación. Curiosamente, hace poco un jurado determinó que [Musk mintió sobre los bots precisamente para intentar cancelar esa adquisición](/blog/elon-musk-engano-inversores-twitter-jurado/).
 
 Musk transformó Twitter en X, eliminando el pajarito azul icónico que todos conocíamos y prometiendo convertirla en la "aplicación de todo". Han pasado años desde entonces, y aunque X sigue siendo una plataforma importante, muchos creadores y usuarios han migrado a alternativas como Threads y Bluesky.
 
 ## ¿Qué significa hoy un tweet de hace 20 años?
 
-En 2026, el paisaje de las redes sociales es completamente diferente. La inteligencia artificial está transformando cómo consumimos contenido. Plataformas como [TikTok están revolucionando cómo los creadores monetizan su trabajo](https://latendenciausa.web.app/blog/facebook-monetizacion-creadores-tiktok-youtube/), con millones pagados a creadores de contenido.
+En 2026, el paisaje de las redes sociales es completamente diferente. La inteligencia artificial está transformando cómo consumimos contenido. Plataformas como [TikTok están revolucionando cómo los creadores monetizan su trabajo](/blog/facebook-monetizacion-creadores-tiktok-youtube/), con millones pagados a creadores de contenido.
 
 El mensaje original de Dorsey, "just setting up my twittr", ahora vive en un museo digital. Es un artefacto de una era diferente de internet: más pequeña, más esperanzadora, menos saturada de algoritmos y bots.
 

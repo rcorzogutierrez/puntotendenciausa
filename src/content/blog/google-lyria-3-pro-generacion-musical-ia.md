@@ -19,7 +19,7 @@ Imagina poder escribir una descripción en texto — "dame una canción de regga
 
 Google no está guardándose esta herramienta en un laboratorio. La están integrando en varios lugares:
 
-**En Gemini**: Si usas ChatGPT de OpenAI, ya sabes que [las herramientas de IA pueden ayudarte con tareas creativas](https://latendenciausa.web.app/blog/google-workspace-gemini-funciones-recomendadas/). Lyria 3 Pro llegará a Gemini para que cualquiera pueda experimentar con generación musical sin ser productor profesional.
+**En Gemini**: Si usas ChatGPT de OpenAI, ya sabes que [las herramientas de IA pueden ayudarte con tareas creativas](/blog/google-workspace-gemini-funciones-recomendadas/). Lyria 3 Pro llegará a Gemini para que cualquiera pueda experimentar con generación musical sin ser productor profesional.
 
 **En productos empresariales**: Las compañías de música, publicidades, podcasts y contenido multimedia tendrán acceso a Lyria 3 Pro a través de APIs. Esto abre posibilidades enormes para startups y creadores que no pueden pagar orquestas completas.
 
@@ -39,7 +39,7 @@ Con Lyria 3 Pro, puedes generar música royalty-free en segundos. ¿Necesitas un
 
 Esta es la pregunta incómoda que todos nos hacemos. Si una IA puede generar música "lo suficientemente buena", ¿qué pasa con los compositores, productores y músicos que dependen de este trabajo?
 
-Google dirá que es una herramienta creativa, no un reemplazo. Y técnicamente tienen razón: [la IA está transformando industrias enteras](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), desde la abogacía hasta la programación. La música no es la excepción.
+Google dirá que es una herramienta creativa, no un reemplazo. Y técnicamente tienen razón: [la IA está transformando industrias enteras](/blog/ia-agentica-automatiza-tu-trabajo/), desde la abogacía hasta la programación. La música no es la excepción.
 
 Lo probable es que, como siempre, la tecnología genere nuevas oportunidades. Habrá productores que usen Lyria 3 Pro como punto de partida, mejorando y refinando lo que la IA genera. Otros se especializarán en criar y entrenar modelos personalizados para clientes específicos.
 
@@ -53,7 +53,7 @@ Por ahora, Lyria 3 Pro está en acceso limitado. Google lo va a expandir gradual
 
 ## El futuro de la música generativa
 
-Lyria 3 Pro es un eslabón en una cadena más larga. [El futuro de la IA en el consumo de contenido](https://latendenciausa.web.app/blog/google-tv-gemini-deportes-res/) apunta a que cada persona va a tener acceso a herramientas creativas profesionales que antes solo los ricos podían pagar.
+Lyria 3 Pro es un eslabón en una cadena más larga. [El futuro de la IA en el consumo de contenido](/blog/google-tv-gemini-deportes-res/) apunta a que cada persona va a tener acceso a herramientas creativas profesionales que antes solo los ricos podían pagar.
 
 La música generativa con IA ya existía, pero Lyria 3 Pro la hace accesible de verdad. No es perfecta, pero es lo suficientemente buena para la mayoría de casos de uso: creadores de contenido, productores independientes, marcas pequeñas, cineastas.
 

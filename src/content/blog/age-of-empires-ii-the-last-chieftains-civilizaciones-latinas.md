@@ -35,7 +35,7 @@ Que Age of Empires II siga creciendo en 2026 es, en sí mismo, una historia nota
 
 Esta expansión también llegó por primera vez simultáneamente a PC, Xbox y PlayStation 5, lo que amplía el acceso a una comunidad que siempre fue principalmente de PC. Y el circuito competitivo sigue vivo con el torneo Red Bull Wololo: Londinium, programado para abril de 2026, con nueve mapas nuevos en el pool.
 
-La franquicia no muestra señales de desaceleración. World's Edge, el estudio detrás del juego, también anunció que [Age of Empires IV](https://latendenciausa.web.app/blog/fortnite-vs-age-of-empires-bots-ia-comparativa/) recibirá dos expansiones en 2026: una basada en historia china y otra que introduce a los Vikingos.
+La franquicia no muestra señales de desaceleración. World's Edge, el estudio detrás del juego, también anunció que [Age of Empires IV](/blog/fortnite-vs-age-of-empires-bots-ia-comparativa/) recibirá dos expansiones en 2026: una basada en historia china y otra que introduce a los Vikingos.
 
 ## Por qué importa para la comunidad latina
 

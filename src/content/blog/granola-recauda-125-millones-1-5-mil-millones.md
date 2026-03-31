@@ -11,7 +11,7 @@ tags: ["Granola", "IA empresarial", "startup", "notas inteligentes", "agentes IA
 
 Granola acaba de hacer lo que muchas startups sueñan: multiplicar su valoración por seis en una sola ronda de financiamiento. De $250 millones a $1.5 mil millones. Es el tipo de crecimiento que en Silicon Valley genera envidia, pero también preguntas importantes: ¿qué está haciendo diferente Granola?
 
-La respuesta está en cómo la startup ha evolucionado. Comenzó como una herramienta inteligente para tomar notas en reuniones, algo que muchas empresas necesitan desesperadamente. Pero la verdadera magia sucedió cuando decidieron expandir hacia [agentes de IA que automatizan tareas empresariales](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), transformándose en algo mucho más ambicioso.
+La respuesta está en cómo la startup ha evolucionado. Comenzó como una herramienta inteligente para tomar notas en reuniones, algo que muchas empresas necesitan desesperadamente. Pero la verdadera magia sucedió cuando decidieron expandir hacia [agentes de IA que automatizan tareas empresariales](/blog/ia-agentica-automatiza-tu-trabajo/), transformándose en algo mucho más ambicioso.
 
 ## Lo que cambió con esta ronda
 
@@ -21,7 +21,7 @@ Pero aquí viene la parte interesante: los usuarios anteriormente se quejaban de
 
 ## Competencia en el espacio de la IA empresarial
 
-No es casualidad que Granola crezca justo ahora. El mercado de herramientas empresariales impulsadas por IA está ardiendo. Competidores como [Microsoft con sus agentes de IA que quiere cobrar como empleados](https://latendenciausa.web.app/blog/microsoft-365-e7-agentes-ia-empleados-precio/) están moviendo el mercado hacia nuevas direcciones. Granola necesitaba demostrar que podía competir, y aparentemente lo hizo de manera convincente.
+No es casualidad que Granola crezca justo ahora. El mercado de herramientas empresariales impulsadas por IA está ardiendo. Competidores como [Microsoft con sus agentes de IA que quiere cobrar como empleados](/blog/microsoft-365-e7-agentes-ia-empleados-precio/) están moviendo el mercado hacia nuevas direcciones. Granola necesitaba demostrar que podía competir, y aparentemente lo hizo de manera convincente.
 
 Lo fascinante es que estas herramientas no son solo para Silicon Valley. Cada vez más empresas latinas en Estados Unidos reconocen el valor de automatizar reuniones, extraer información clave y dejar que los agentes manejen tareas repetitivas. Es donde Granola puede ganar terreno importante.
 
@@ -29,7 +29,7 @@ Lo fascinante es que estas herramientas no son solo para Silicon Valley. Cada ve
 
 Si trabajas en una empresa mediana o grande, probablemente pronto verás a Granola en las conversaciones sobre herramientas corporativas. Con esta valoración y financiamiento, la startup está señalando que llegó para quedarse. El dinero les permitirá mejorar su producto, expandir su equipo y, más importante, hacerlo más accesible.
 
-La tendencia es clara: [las empresas están invirtiendo masivamente en IA](https://latendenciausa.web.app/blog/startups-ia-devoran-venture-capital-retornos/), y herramientas como Granola están en el centro de esa revolución. No es solo sobre tomar mejores notas. Es sobre liberar tiempo humano para trabajo que realmente importa.
+La tendencia es clara: [las empresas están invirtiendo masivamente en IA](/blog/startups-ia-devoran-venture-capital-retornos/), y herramientas como Granola están en el centro de esa revolución. No es solo sobre tomar mejores notas. Es sobre liberar tiempo humano para trabajo que realmente importa.
 
 ## El futuro de las reuniones corporativas
 

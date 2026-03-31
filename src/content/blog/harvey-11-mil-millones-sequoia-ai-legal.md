@@ -23,7 +23,7 @@ Harvey no es solo otro chatbot. La plataforma está diseñada específicamente p
 
 Para los bufetes de abogados, especialmente los medianos, esto es un cambio de juego. Significa que menos asociados junior necesitan pasar noches enteras leyendo miles de páginas de documentación. Significa que los abogados pueden enfocarse en lo que realmente importa: estrategia, negociación y relación con clientes.
 
-Es parecido a cómo [startups de IA están revolucionando otros sectores empresariales](https://latendenciausa.web.app/blog/startups-ia-devoran-venture-capital-retornos/), pero en este caso, estamos hablando de una profesión que ha sido prácticamente intacta por la tecnología durante décadas.
+Es parecido a cómo [startups de IA están revolucionando otros sectores empresariales](/blog/startups-ia-devoran-venture-capital-retornos/), pero en este caso, estamos hablando de una profesión que ha sido prácticamente intacta por la tecnología durante décadas.
 
 ## La carrera por dominar la IA vertical
 
@@ -31,7 +31,7 @@ Harvey no existe en un vacío. Hay otras startups pelando por convertirse en "el
 
 La startup ya trabaja con bufetes importantes y su base de usuarios sigue creciendo. Con $11 mil millones de valoración y más inversión entrando, Harvey está en posición de definir cómo se ve el software legal en los próximos 10 años.
 
-Lo interesante es que esto refleja una tendencia más amplia: [empresas como OpenAI y Anthropic están valuadas en decenas de miles de millones](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/), pero los inversores también están viendo oportunidades enormes en IA especializada para industrias específicas.
+Lo interesante es que esto refleja una tendencia más amplia: [empresas como OpenAI y Anthropic están valuadas en decenas de miles de millones](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/), pero los inversores también están viendo oportunidades enormes en IA especializada para industrias específicas.
 
 ## ¿Qué sigue para Harvey?
 

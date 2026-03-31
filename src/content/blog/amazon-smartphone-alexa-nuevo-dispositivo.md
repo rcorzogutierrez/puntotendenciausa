@@ -30,7 +30,7 @@ Prime Video tendría una experiencia optimizada donde el teléfono se convierte 
 
 ## Cómo Alexa sería el verdadero jefe
 
-Aquí es donde las cosas se ponen interesantes. Si [la IA agéntica puede automatizar tu trabajo mientras duermes](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), imagina lo que Alexa podría hacer en un teléfono donde tienes ese nivel de control.
+Aquí es donde las cosas se ponen interesantes. Si [la IA agéntica puede automatizar tu trabajo mientras duermes](/blog/ia-agentica-automatiza-tu-trabajo/), imagina lo que Alexa podría hacer en un teléfono donde tienes ese nivel de control.
 
 El asistente no estaría limitado a responder preguntas. Podría:
 
@@ -45,12 +45,12 @@ Amazon ha estado probando aguas en el mundo de los dispositivos móviles durante
 
 Piénsalo: ¿cuántas horas al mes pasas en Amazon Shopping, Prime Video o escuchando música? Para millones de latinos en Estados Unidos, esas plataformas son parte de la vida diaria. Un teléfono optimizado específicamente para eso tendría sentido.
 
-Además, sabemos que [Samsung quiere meter IA en 800 millones de dispositivos incluyendo tu nevera](https://latendenciausa.web.app/blog/samsung-gemini-800-millones-dispositivos/). Amazon estaría siguiendo la misma lógica: integración total de IA en todos tus dispositivos, pero enfocado en lo que Amazon hace mejor: conocer exactamente qué quieres comprar.
+Además, sabemos que [Samsung quiere meter IA en 800 millones de dispositivos incluyendo tu nevera](/blog/samsung-gemini-800-millones-dispositivos/). Amazon estaría siguiendo la misma lógica: integración total de IA en todos tus dispositivos, pero enfocado en lo que Amazon hace mejor: conocer exactamente qué quieres comprar.
 
 ## Lo que esto significa para ti
 
 Si Amazon lanza este teléfono, no sería para reemplazar tu actual smartphone. Sería un complemento perfecto para quien ya es cliente Prime, quien ya usa Alexa en casa, quien ya confía en Amazon para sus compras diarias.
 
-El verdadero valor no estaría en las especificaciones técnicas, sino en cómo el dispositivo entiende *quién eres tú*. En una época donde [Microsoft quiere que pagues por agentes de IA como si fueran empleados](https://latendenciausa.web.app/blog/microsoft-365-e7-agentes-ia-empleados-precio/), Amazon va un paso más allá: quiere que tu teléfono mismo sea el agente que trabaja para ti.
+El verdadero valor no estaría en las especificaciones técnicas, sino en cómo el dispositivo entiende *quién eres tú*. En una época donde [Microsoft quiere que pagues por agentes de IA como si fueran empleados](/blog/microsoft-365-e7-agentes-ia-empleados-precio/), Amazon va un paso más allá: quiere que tu teléfono mismo sea el agente que trabaja para ti.
 
 ¿Ya usas Alexa en casa? ¿Te gustaría tener un smartphone diseñado específicamente para maximizar tu experiencia en el ecosistema Amazon, o prefieres un dispositivo más neutral?

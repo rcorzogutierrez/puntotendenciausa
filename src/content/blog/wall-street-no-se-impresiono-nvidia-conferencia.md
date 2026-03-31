@@ -7,7 +7,7 @@ tags: ["nvidia", "ia-generativa", "ipo"]
 heroImage: "https://images.unsplash.com/photo-1662947683395-1ce33bdcd094?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxOdmlkaWElMjBjb25mZXJlbmNlJTIwdGVjaG5vbG9neSUyMHN0b2NrJTIwbWFya2V0fGVufDF8MHx8fDE3NzQyNDQ4MTV8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
 ---
 
-Cuando Nvidia convoca a su conferencia anual GTC, el mundo tech se detiene. Pero esta vez, algo fue diferente. A pesar de que [Jensen Huang presentó el futuro de la IA más allá de los chips](https://latendenciausa.web.app/blog/nvidia-gtc-2026-jensen-huang-futuro-ia/), Wall Street no se emocionó tanto como se esperaba. Y eso es fascinante.
+Cuando Nvidia convoca a su conferencia anual GTC, el mundo tech se detiene. Pero esta vez, algo fue diferente. A pesar de que [Jensen Huang presentó el futuro de la IA más allá de los chips](/blog/nvidia-gtc-2026-jensen-huang-futuro-ia/), Wall Street no se emocionó tanto como se esperaba. Y eso es fascinante.
 
 ## El optimismo que no llegó a las bolsas
 
@@ -21,7 +21,7 @@ Aquí es donde entra el debate que nadie quiere tener en voz alta: ¿existe real
 
 La industria no está asustada. De hecho, está tranquila. Y eso es más preocupante para algunos inversores que un pánico generalizado. Porque significa que los grandes jugadores ya interiorizaron los riesgos y siguen adelante como si nada.
 
-Empresas como [Anthropic que ya vale $380 mil millones y prepara su salida a bolsa](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/) no muestra señales de debilidad. [OpenAI superó los $25 mil millones en ingresos](https://latendenciausa.web.app/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) y tambaleándose hacia el IPO. Las startups de IA devoran inversión como si fuera un buffet infinito.
+Empresas como [Anthropic que ya vale $380 mil millones y prepara su salida a bolsa](/blog/anthropic-claude-code-380-mil-millones-ipo/) no muestra señales de debilidad. [OpenAI superó los $25 mil millones en ingresos](/blog/openai-25-mil-millones-ingresos-ipo-bolsa/) y tambaleándose hacia el IPO. Las startups de IA devoran inversión como si fuera un buffet infinito.
 
 ## Lo que Wall Street realmente quería ver
 

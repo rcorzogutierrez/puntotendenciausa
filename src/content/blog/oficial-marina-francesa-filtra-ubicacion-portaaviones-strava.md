@@ -23,7 +23,7 @@ El problema es que Strava publica públicamente esa información en su plataform
 
 Lo que hace este incidente particularmente grave es la escala y la precisión. El oficial no solo reveló "aproximadamente aquí", sino que Strava mostró la ruta exacta alrededor del portaaviones. Para cualquiera que vigile movimientos militares — ya sean competidores geopolíticos o actores maliciosos — esto es oro puro. Saben exactamente dónde estaba el Charles de Gaulle en ese momento.
 
-La Marina francesa no fue la única que enfrentó este problema. En 2018, [un ataque cibernético masivo a una empresa de alcoholímetros dejó a conductores estadounidenses varados](https://latendenciausa.web.app/blog/ataque-cibernetico-alcoholimetro-autos-varados/), demostrando cómo la tecnología supuestamente conveniente puede convertirse en un vector de seguridad. Del mismo modo, Strava ha sido el epicentro de incidentes similares antes, con investigadores de seguridad advirtiendo sobre los riesgos de rastrear ubicaciones de personal militar.
+La Marina francesa no fue la única que enfrentó este problema. En 2018, [un ataque cibernético masivo a una empresa de alcoholímetros dejó a conductores estadounidenses varados](/blog/ataque-cibernetico-alcoholimetro-autos-varados/), demostrando cómo la tecnología supuestamente conveniente puede convertirse en un vector de seguridad. Del mismo modo, Strava ha sido el epicentro de incidentes similares antes, con investigadores de seguridad advirtiendo sobre los riesgos de rastrear ubicaciones de personal militar.
 
 ## El dilema del fitness y la privacidad
 

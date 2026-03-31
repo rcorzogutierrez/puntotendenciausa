@@ -27,11 +27,11 @@ Las empresas presentan los tokens como si fueran parte de la compensación total
 
 Esto crea un dilema: ¿cómo negociar si no sabes el verdadero valor de lo que estás recibiendo? Las empresas pueden inflar artificialmente el valor de los tokens para justificar salarios base más bajos. Es como si te pagaran parcialmente en una moneda que solo funciona en una tienda específica.
 
-Además, [algunos modelos de IA podrían costar casi nada en el futuro](https://latendenciausa.web.app/blog/google-gemini-flash-lite-modelo-barato/). ¿Qué pasa entonces con esos tokens que recibiste hoy? Su valor podría evaporarse rápidamente.
+Además, [algunos modelos de IA podrían costar casi nada en el futuro](/blog/google-gemini-flash-lite-modelo-barato/). ¿Qué pasa entonces con esos tokens que recibiste hoy? Su valor podría evaporarse rápidamente.
 
 ## ¿Cuándo los tokens tienen sentido?
 
-No todo es negativo. Si trabajas en una empresa donde los modelos de IA son realmente el corazón de lo que se construye, los tokens podrían tener valor tangible. [Empresas como Anthropic, que está valuada en $380 mil millones](https://latendenciausa.web.app/blog/anthropic-claude-code-380-mil-millones-ipo/), están en una posición donde los tokens podrían apreciarse significativamente si la empresa sale a bolsa o es adquirida.
+No todo es negativo. Si trabajas en una empresa donde los modelos de IA son realmente el corazón de lo que se construye, los tokens podrían tener valor tangible. [Empresas como Anthropic, que está valuada en $380 mil millones](/blog/anthropic-claude-code-380-mil-millones-ipo/), están en una posición donde los tokens podrían apreciarse significativamente si la empresa sale a bolsa o es adquirida.
 
 Los ingenieros que se unen a startups de IA temprano podrían estar posicionándose inteligentemente. Si esos tokens representan participación futura en ganancias o en el éxito de la empresa, podrían valer mucho. Pero el riesgo es alto: si la empresa fracasa, esos tokens son básicamente papel.
 

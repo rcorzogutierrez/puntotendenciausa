@@ -21,7 +21,7 @@ El problema que resuelven es real: la mayoría de empresas grandes tienen datos 
 
 ## Por qué esto importa ahora
 
-Estamos en un momento donde la IA agéntica está transformando cómo trabajan las empresas. [Microsoft ya está cobrando por agentes de IA como si fueran empleados](https://latendenciausa.web.app/blog/microsoft-365-e7-agentes-ia-empleados-precio/), y [otros están invirtiendo billones en infraestructura de IA](https://latendenciausa.web.app/blog/trump-genesis-mission-ia-defensa-energia/). Sequen entra en ese mercado explosivo con un enfoque muy específico: el engagement.
+Estamos en un momento donde la IA agéntica está transformando cómo trabajan las empresas. [Microsoft ya está cobrando por agentes de IA como si fueran empleados](/blog/microsoft-365-e7-agentes-ia-empleados-precio/), y [otros están invirtiendo billones en infraestructura de IA](/blog/trump-genesis-mission-ia-defensa-energia/). Sequen entra en ese mercado explosivo con un enfoque muy específico: el engagement.
 
 Si logran que usuarios pasen más tiempo en una plataforma porque ven contenido que realmente les interesa, eso se traduce en más dinero. Publicidad, suscripciones, transacciones. Todo mejora cuando la experiencia es personal.
 
@@ -29,13 +29,13 @@ Si logran que usuarios pasen más tiempo en una plataforma porque ven contenido 
 
 Con $16 millones en el banco, Sequen puede hacer varias cosas: escalar su equipo de ingenieros, mejorar su producto, y lo más importante, convencer a grandes empresas de que prueben su tecnología. En Silicon Valley, ese dinero es gasolina para crecer rápido.
 
-El timing es perfecto. Las empresas de consumo están desesperadas por experiencias que compitan con TikTok. Desde Tinder (que [acaba de invertir en nuevas funciones de IA](https://latendenciausa.web.app/blog/tinder-eventos-presenciales-speed-dating-virtual/)) hasta marcas de retail, todos quieren ese "efecto TikTok" en sus propios negocios.
+El timing es perfecto. Las empresas de consumo están desesperadas por experiencias que compitan con TikTok. Desde Tinder (que [acaba de invertir en nuevas funciones de IA](/blog/tinder-eventos-presenciales-speed-dating-virtual/)) hasta marcas de retail, todos quieren ese "efecto TikTok" en sus propios negocios.
 
 ## El riesgo: ¿quién cuida tus datos?
 
 Aquí viene la parte menos cómoda. Para que Sequen personalice tu experiencia, necesita entender qué te gusta, qué ves, qué haces. Eso significa datos. Mucho datos. La pregunta que deberían hacer los usuarios es: ¿qué pasa con mi información? ¿Quién la ve? ¿Cuánto tiempo se guarda?
 
-Estas son preguntas que también aplican a [Google con su Inteligencia Personal](https://latendenciausa.web.app/blog/inteligencia-personal-google-llega-usuarios-usa/) que ahora accede a más información de ti. La privacidad y la personalización siempre están en tensión.
+Estas son preguntas que también aplican a [Google con su Inteligencia Personal](/blog/inteligencia-personal-google-llega-usuarios-usa/) que ahora accede a más información de ti. La privacidad y la personalización siempre están en tensión.
 
 ## Lo que viene
 

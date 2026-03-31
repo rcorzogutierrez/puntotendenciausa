@@ -21,13 +21,13 @@ Los usuarios comenzaron a reportar que Copilot aparecía en lugares inesperados,
 
 El cambio más notable es en la app de Fotos. Microsoft está removiendo el botón de Copilot que permitía generar imágenes con IA directamente desde la galería. Para Widgets, el asistente ya no será un punto de acceso tan prominente. Notepad también perderá su integración de Copilot en ciertos contextos.
 
-Esto es especialmente relevante porque estas apps son [donde muchos usuarios trabajan diariamente](https://latendenciausa.web.app/blog/apple-actualizacion-seguridad-safari/). Cuando Copilot estaba ahí compitiendo por atención, creaba fricción innecesaria.
+Esto es especialmente relevante porque estas apps son [donde muchos usuarios trabajan diariamente](/blog/apple-actualizacion-seguridad-safari/). Cuando Copilot estaba ahí compitiendo por atención, creaba fricción innecesaria.
 
 ## Por qué esto importa (más allá de Windows)
 
 El retroceso de Microsoft en Copilot dice algo importante sobre el estado actual de la IA en 2026. No es que la IA sea mala o inútil. Es que **el exceso de IA es tan problemático como la falta de IA**.
 
-Vemos algo similar en toda la industria. [Las empresas están descubriendo que integrar agentes de IA en cada superficie](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/) no siempre resulta en experiencias mejores. A veces resulta en ruido.
+Vemos algo similar en toda la industria. [Las empresas están descubriendo que integrar agentes de IA en cada superficie](/blog/ia-agentica-automatiza-tu-trabajo/) no siempre resulta en experiencias mejores. A veces resulta en ruido.
 
 Este es el contraste con lo que otros están haciendo. Mientras Microsoft retira Copilot de ciertos lugares, startups y otras compañías siguen buscando formas más sutiles y contextuales de agregar IA.
 

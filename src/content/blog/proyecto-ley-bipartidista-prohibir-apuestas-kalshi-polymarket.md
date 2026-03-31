@@ -19,19 +19,19 @@ Las plataformas de mercados de predicción como Kalshi y Polymarket operan en un
 
 Lo que realmente está pasando aquí es un conflicto entre dos modelos de negocio diferentes. Las casas de apuestas deportivas establecidas como FanDuel y DraftKings han construido sus imperios sobre la base de colaboraciones con ligas deportivas profesionales. Ganan dinero, los estados recaudan impuestos, y las ligas deportivas reciben millones en patrocinios. Es un ecosistema cerrado y predecible.
 
-Los mercados de predicción, en cambio, son algo diferente. Permiten que cualquiera apueste sobre prácticamente cualquier cosa: resultados deportivos, elecciones políticas, eventos climáticos. [Como hemos visto con Kalshi y su batalla regulatoria](https://latendenciausa.web.app/blog/kalshi-prohibida-nevada-batalla-regulatoria-predicciones/), estos mercados no necesariamente colaboran con ligas deportivas. Eso los hace menos controlables y más impredecibles para las autoridades.
+Los mercados de predicción, en cambio, son algo diferente. Permiten que cualquiera apueste sobre prácticamente cualquier cosa: resultados deportivos, elecciones políticas, eventos climáticos. [Como hemos visto con Kalshi y su batalla regulatoria](/blog/kalshi-prohibida-nevada-batalla-regulatoria-predicciones/), estos mercados no necesariamente colaboran con ligas deportivas. Eso los hace menos controlables y más impredecibles para las autoridades.
 
 ## Las consecuencias económicas reales
 
 Si el proyecto de ley prosperara, el impacto sería asimétrico. FanDuel y DraftKings continuarían operando normalmente porque no dependen de mercados de predicción para sus apuestas deportivas. Kalshi y Polymarket, en cambio, verían recortados significativamente sus ingresos si se les prohíbe explícitamente ofrecer estos mercados.
 
-Esto es especialmente relevante porque [Polymarket ya está expandiendo su presencia en deportes profesionales](https://latendenciausa.web.app/blog/polymarket-mlb-acuerdo-predicciones-beisbol/), haciendo acuerdos con ligas como la MLB. Un cambio legislativo podría revertir toda esa estrategia de crecimiento.
+Esto es especialmente relevante porque [Polymarket ya está expandiendo su presencia en deportes profesionales](/blog/polymarket-mlb-acuerdo-predicciones-beisbol/), haciendo acuerdos con ligas como la MLB. Un cambio legislativo podría revertir toda esa estrategia de crecimiento.
 
 ## Lo que significa para ti como usuario
 
 Si vives en Estados Unidos y usas cualquiera de estas plataformas, necesitas entender qué está pasando. Un proyecto de ley bipartidista no aparece de la nada. Generalmente significa que hay presión de múltiples lados: desde grupos que se preocupan por la adicción al juego, hasta establecimientos de apuestas ya consolidados que ven competencia incómoda.
 
-[El panorama regulatorio de las apuestas en línea sigue siendo caótico](https://latendenciausa.web.app/blog/arizona-kalshi-cargos-criminales-apuestas-ilegales/), con diferentes estados tomando posiciones distintas. Arizona ya ha presentado cargos criminales contra Kalshi. Nevada ha buscado prohibiciones temporales. Un proyecto de ley federal específico sobre apuestas deportivas sería un cambio importante en esa dirección.
+[El panorama regulatorio de las apuestas en línea sigue siendo caótico](/blog/arizona-kalshi-cargos-criminales-apuestas-ilegales/), con diferentes estados tomando posiciones distintas. Arizona ya ha presentado cargos criminales contra Kalshi. Nevada ha buscado prohibiciones temporales. Un proyecto de ley federal específico sobre apuestas deportivas sería un cambio importante en esa dirección.
 
 ## ¿Qué sigue ahora?
 
@@ -42,6 +42,6 @@ Para los inversores y trabajadores en plataformas de mercados de predicción, es
 ¿Crees que los mercados de predicción deberían ser regulados de la misma manera que FanDuel y DraftKings, o crees que son algo completamente diferente que merece su propio marco?
 
 ## Artículos Relacionados
-- [Kalshi prohibida temporalmente en Nevada: la batalla legal de los mercados de predicción](https://latendenciausa.web.app/blog/kalshi-prohibida-nevada-batalla-regulatoria-predicciones/)
-- [Arizona acusa a Kalshi de operar un negocio de juego ilegal: la batalla entre reguladores y plataformas de apuestas](https://latendenciausa.web.app/blog/arizona-kalshi-cargos-criminales-apuestas-ilegales/)
-- [Polymarket expande su imperio de apuestas con acuerdo con las Grandes Ligas de Béisbol](https://latendenciausa.web.app/blog/polymarket-mlb-acuerdo-predicciones-beisbol/)
+- [Kalshi prohibida temporalmente en Nevada: la batalla legal de los mercados de predicción](/blog/kalshi-prohibida-nevada-batalla-regulatoria-predicciones/)
+- [Arizona acusa a Kalshi de operar un negocio de juego ilegal: la batalla entre reguladores y plataformas de apuestas](/blog/arizona-kalshi-cargos-criminales-apuestas-ilegales/)
+- [Polymarket expande su imperio de apuestas con acuerdo con las Grandes Ligas de Béisbol](/blog/polymarket-mlb-acuerdo-predicciones-beisbol/)

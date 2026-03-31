@@ -11,7 +11,7 @@ Si juegas Fortnite o conoces a alguien que lo haga, esta noticia te va a impacta
 
 ## ¿Qué pasó exactamente?
 
-El CEO Tim Sweeney lo dijo sin rodeos: la empresa está gastando mucho más de lo que ingresa. Esta no es la primera vez — en 2023 ya despidieron a 830 personas por razones similares. Pero esta vez el golpe es más duro: más de 1,000 empleados, cerca del 23% de toda la plantilla, perdieron su trabajo de un día para otro.
+El CEO Tim Sweeney lo dijo sin rodeos: la empresa está gastando mucho más de lo que ingresa. Esta no es la primera vez — en 2023 ya despidieron a 830 personas por razones similares. Pero esta vez el golpe es más duro: más de 1,000 empleados, cerca del 23% de toda la plantilla, perdieron su trabajo de un día para otro. No es un caso aislado — [Meta también despidió a 16,000 empleados apostando todo a la IA](/blog/meta-despide-16000-empleados-apuesta-ia/) en ese mismo período.
 
 Lo que hace esto más doloroso es que no hablamos de empleados cualquiera. Entre los afectados están figuras clave que llevan más de 10 años en la empresa — el guionista que dio forma a la historia de Fortnite, el director de arte que creó personajes icónicos, ingenieros principales. Personas que estaban haciendo su trabajo con excelentes evaluaciones y de repente recibieron la noticia.
 
@@ -38,7 +38,7 @@ Estos modos eran parte de la estrategia Creativo 2.0 que Epic apostó fuerte por
 
 ## ¿Hay esperanza?
 
-Sweeney no se rinde. Walt Disney invirtió $1,500 millones en Epic en 2024 para llevar Star Wars, Marvel y Avatar al universo de Fortnite, y el CEO promete grandes lanzamientos para finales de año. También está en desarrollo Unreal Engine 6, que podría abrir nuevas puertas para la compañía más allá de Fortnite.
+Sweeney no se rinde. Walt Disney invirtió $1,500 millones en Epic en 2024 para llevar Star Wars, Marvel y Avatar al universo de Fortnite, y el CEO promete grandes lanzamientos para finales de año. También está en desarrollo Unreal Engine 6, que podría abrir nuevas puertas para la compañía más allá de Fortnite. De hecho, [la IA ya está transformando cómo funcionan los bots y la experiencia de juego en Fortnite y otros títulos](/blog/fortnite-vs-age-of-empires-bots-ia-comparativa/), lo que podría ser parte de la próxima apuesta de Epic.
 
 La historia de Epic es la de una empresa que ha sobrevivido varios momentos críticos — del 2D al 3D, de los juegos de consola al online. La pregunta es si esta vez pueden repetir la hazaña.
 

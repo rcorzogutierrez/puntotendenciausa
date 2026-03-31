@@ -23,9 +23,9 @@ Lo interesante es que Archive.today no es un medio de noticias. No escribe artí
 
 ## El patrón global de censura
 
-Este bloqueo ruso no es aislado. [El FBI y agencias estadounidenses compran datos de ubicación de empresas privadas para rastrear ciudadanos sin orden judicial](https://latendenciausa.web.app/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/), mostrando que la vigilancia digital es un problema global. Mientras Rusia bloquea sitios, occidente recolecta datos en masa.
+Este bloqueo ruso no es aislado. [El FBI y agencias estadounidenses compran datos de ubicación de empresas privadas para rastrear ciudadanos sin orden judicial](/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/), mostrando que la vigilancia digital es un problema global. Mientras Rusia bloquea sitios, occidente recolecta datos en masa.
 
-Además, hemos visto cómo [hackers iraníes usan Telegram para robar datos y atacar a disidentes](https://latendenciausa.web.app/blog/hackers-iran-telegram-malware-robo-datos/), demostrando que el control digital viene de múltiples direcciones. Los gobiernos bloquean, los hackers infiltran, y el usuario común queda atrapado en medio.
+Además, hemos visto cómo [hackers iraníes usan Telegram para robar datos y atacar a disidentes](/blog/hackers-iran-telegram-malware-robo-datos/), demostrando que el control digital viene de múltiples direcciones. Los gobiernos bloquean, los hackers infiltran, y el usuario común queda atrapado en medio.
 
 ## ¿Qué significa para ti?
 
@@ -44,6 +44,6 @@ Archive.today es imperfecto. Sí, permite saltarse paywalls. Pero también prese
 **¿Crees que sitios como Archive.today deberían existir, o los medios tienen derecho a proteger su contenido con paywalls?**
 
 ## Artículos Relacionados
-- [El FBI compra datos de ubicación para rastrear a ciudadanos estadounidenses sin orden judicial](https://latendenciausa.web.app/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/)
-- [Hackers iraníes usan Telegram para robar datos: cómo protegerte](https://latendenciausa.web.app/blog/hackers-iran-telegram-malware-robo-datos/)
-- [Ataque cibernético a empresa de alcoholímetros deja a conductores varados en EE.UU.](https://latendenciausa.web.app/blog/ataque-cibernetico-alcoholimetro-autos-varados/)
+- [El FBI compra datos de ubicación para rastrear a ciudadanos estadounidenses sin orden judicial](/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/)
+- [Hackers iraníes usan Telegram para robar datos: cómo protegerte](/blog/hackers-iran-telegram-malware-robo-datos/)
+- [Ataque cibernético a empresa de alcoholímetros deja a conductores varados en EE.UU.](/blog/ataque-cibernetico-alcoholimetro-autos-varados/)

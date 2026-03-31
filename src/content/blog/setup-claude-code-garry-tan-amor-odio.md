@@ -11,7 +11,7 @@ Garry Tan, CEO de Y Combinator, compartió en GitHub un setup de Claude Code que
 
 ## Un setup que rompió internet (de desarrolladores)
 
-El setup de Tan no es nada del otro mundo en términos técnicos, pero logró lo que pocos logran: capturar la atención de la comunidad developer en plena fiebre de [Claude Code y los agentes de IA que ya trabajan por ti mientras duermes](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/). La configuración optimiza la forma en que Claude Code interactúa con tu flujo de trabajo, automatizando tareas repetitivas y mejorando la productividad.
+El setup de Tan no es nada del otro mundo en términos técnicos, pero logró lo que pocos logran: capturar la atención de la comunidad developer en plena fiebre de [Claude Code y los agentes de IA que ya trabajan por ti mientras duermes](/blog/ia-agentica-automatiza-tu-trabajo/). La configuración optimiza la forma en que Claude Code interactúa con tu flujo de trabajo, automatizando tareas repetitivas y mejorando la productividad.
 
 Lo que Tan hizo fue democratizar un workflow que antes parecía reservado para equipos con recursos ilimitados. Y eso molestó a algunos. ¿Por qué? Porque en tech, siempre hay tensión entre lo que funciona y lo que es "puro".
 
@@ -19,7 +19,7 @@ Lo que Tan hizo fue democratizar un workflow que antes parecía reservado para e
 
 Los desarrolladores que adoptaron el setup reportan mejoras reales en velocidad. "Es como tener un co-piloto que entiende tu código" fue el comentario más repetido en Twitter. Para freelancers y startups, esto significa menos tiempo escribiendo boilerplate y más tiempo resolviendo problemas reales.
 
-El setup aprovecha las capacidades de Claude para hacer refactoring inteligente, generar tests automáticamente y hasta sugerir arquitecturas. Para alguien trabajando con [Gemini Flash-Lite, el modelo de IA más barato del mercado](https://latendenciausa.web.app/blog/google-gemini-flash-lite-modelo-barato/), esto representa competencia seria en el espacio de herramientas para developers.
+El setup aprovecha las capacidades de Claude para hacer refactoring inteligente, generar tests automáticamente y hasta sugerir arquitecturas. Para alguien trabajando con [Gemini Flash-Lite, el modelo de IA más barato del mercado](/blog/google-gemini-flash-lite-modelo-barato/), esto representa competencia seria en el espacio de herramientas para developers.
 
 ## El odio: "Es magia negra"
 

@@ -27,7 +27,7 @@ Aquí viene lo que debería preocuparte: si los hackers rusos pueden hacer esto,
 
 Y aunque el ataque apunta específicamente a ucranianos, la realidad es que ningún país está completamente seguro de estas tácticas. La guerra cibernética no respeta fronteras. Si desarrollan estas herramientas para Ucrania, existe la posibilidad técnica de que se adapten para otros objetivos.
 
-Esto conecta con algo más amplio que hemos visto este año: la [creciente sofisticación de los ataques cibernéticos globales](https://latendenciausa.web.app/blog/hackers-iran-stryker-ataque-cibernetico/), donde hace poco hackers pro-Irán borraron miles de dispositivos en represalia por políticas exteriores.
+Esto conecta con algo más amplio que hemos visto este año: la [creciente sofisticación de los ataques cibernéticos globales](/blog/hackers-iran-stryker-ataque-cibernetico/), donde hace poco hackers pro-Irán borraron miles de dispositivos en represalia por políticas exteriores.
 
 ## ¿Qué puedes hacer para protegerte?
 

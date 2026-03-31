@@ -35,11 +35,11 @@ No importa si eres fan de la NFL, la Premier League, la NBA o las Grandes Ligas 
 
 ## ¿Por qué esto importa?
 
-Google está apostando fuerte a que el futuro de la televisión no es solo ver contenido pasivamente, sino interactuar con él. Con [Google Maps que se reinventa con IA](https://latendenciausa.web.app/blog/google-maps-ia-actualizacion-navegacion/), Google está demostrando que está integrando Gemini en prácticamente todos sus productos.
+Google está apostando fuerte a que el futuro de la televisión no es solo ver contenido pasivamente, sino interactuar con él. Con [Google Maps que se reinventa con IA](/blog/google-maps-ia-actualizacion-navegacion/), Google está demostrando que está integrando Gemini en prácticamente todos sus productos.
 
 Para el usuario latino en Estados Unidos, esto tiene implicaciones reales. Muchos de nosotros dividimos nuestro tiempo entre ver contenido en inglés y español, y seguir múltiples deportes simultáneamente. Tener Gemini como asistente en la televisión significa menos cambios de pantalla, menos distracción y más tiempo disfrutando lo que amamos ver.
 
-Esta estrategia también refleja cómo [Google está integrando IA en todos sus dispositivos](https://latendenciausa.web.app/blog/inteligencia-personal-google-llega-usuarios-usa/), desde smartphones hasta el hogar inteligente. Google TV es solo otro frente en esta batalla por ser el asistente de IA de tu vida diaria.
+Esta estrategia también refleja cómo [Google está integrando IA en todos sus dispositivos](/blog/inteligencia-personal-google-llega-usuarios-usa/), desde smartphones hasta el hogar inteligente. Google TV es solo otro frente en esta batalla por ser el asistente de IA de tu vida diaria.
 
 ## ¿Cuándo llega a tu casa?
 

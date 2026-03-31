@@ -23,7 +23,7 @@ Según Mave Health, los usuarios pueden esperar cambios notables en su capacidad
 
 ## El mercado de la neurotecnología está creciendo
 
-Esto se alinea con una tendencia más grande en la industria de wearables y dispositivos de salud mental. [La nueva generación de gadgets sin pantalla ya está aquí](https://latendenciausa.web.app/blog/gadgets-ia-sin-pantalla-2026/), con chips más potentes que permiten procesar inteligencia artificial directamente en dispositivos pequeños y portátiles. Mave Health es parte de ese movimiento hacia la tecnología más personal e integrada en tu vida diaria.
+Esto se alinea con una tendencia más grande en la industria de wearables y dispositivos de salud mental. [La nueva generación de gadgets sin pantalla ya está aquí](/blog/gadgets-ia-sin-pantalla-2026/), con chips más potentes que permiten procesar inteligencia artificial directamente en dispositivos pequeños y portátiles. Mave Health es parte de ese movimiento hacia la tecnología más personal e integrada en tu vida diaria.
 
 Empresas como Muse, Neuracle y otras startups han estado experimentando con dispositivos similares, pero Mave Health está siendo bastante agresivo con su precio de entrada y su promesa de disponibilidad global. El hecho de que planen envíos en abril 2026 a múltiples países sugiere que han resuelto sus desafíos de manufactura y regulación.
 
@@ -35,7 +35,7 @@ Para Mave Health, el dispositivo se posiciona más como un "wellness gadget" que
 
 ## El contexto más amplio: IA y neurotech
 
-Curiosamente, mientras empresas como Meta están invirtiendo enormes cantidades de dinero en [inteligencia artificial y procesamiento computacional](https://latendenciausa.web.app/blog/meta-despide-16000-empleados-apuesta-ia/), otras están tomando un camino diferente: directamente al cerebro.
+Curiosamente, mientras empresas como Meta están invirtiendo enormes cantidades de dinero en [inteligencia artificial y procesamiento computacional](/blog/meta-despide-16000-empleados-apuesta-ia/), otras están tomando un camino diferente: directamente al cerebro.
 
 Mave Health no usa IA en el sentido tradicional, pero sí usa machine learning para personalizar la estimulación. Es un ejemplo de cómo la tecnología de punta no siempre significa más pantallas o chatbots más inteligentes, sino herramientas directas para mejorar tu salud mental y cognitiva.
 

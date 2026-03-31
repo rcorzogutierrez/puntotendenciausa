@@ -29,7 +29,7 @@ Lo más irónico: muchos de estos conductores cumplen correctamente sus obligaci
 
 Hasta ahora, no hay confirmación oficial sobre la autoría del ataque. Podría ser desde hackers buscando rescate (ransomware) hasta actores estatales queriendo demostrar vulnerabilidades en infraestructura crítica estadounidense. La ambigüedad es inquietante porque muestra cuán expuestos estamos a ataques contra sistemas que controlamos nuestras vidas cotidianas.
 
-Este incidente recuerda [otros ataques cibernéticos masivos contra infraestructura crítica](https://latendenciausa.web.app/blog/hackers-iran-stryker-ataque-cibernetico/), donde hackers han demostrado capacidad para penetrar sistemas aparentemente seguros con implicaciones reales en el mundo físico.
+Este incidente recuerda [otros ataques cibernéticos masivos contra infraestructura crítica](/blog/hackers-iran-stryker-ataque-cibernetico/), donde hackers han demostrado capacidad para penetrar sistemas aparentemente seguros con implicaciones reales en el mundo físico.
 
 ## La brecha de seguridad más grande del sector
 
@@ -44,7 +44,7 @@ Para una empresa que maneja sistemas que directamente afectan la movilidad de mi
 
 ## Qué significa esto para ti
 
-Si tienes un vehículo con algún dispositivo conectado a internet (y la mayoría los tienen hoy en día), esto debería preocuparte. Las vulnerabilidades en sistemas de control remoto de autos van más allá de alcoholímetros. Los reguladores federales ya están [investigando problemas similares en sistemas de conducción autónoma](https://latendenciausa.web.app/blog/nhtsa-investiga-tesla-full-self-driving-baja-visibilidad/), donde errores de software tienen consecuencias reales.
+Si tienes un vehículo con algún dispositivo conectado a internet (y la mayoría los tienen hoy en día), esto debería preocuparte. Las vulnerabilidades en sistemas de control remoto de autos van más allá de alcoholímetros. Los reguladores federales ya están [investigando problemas similares en sistemas de conducción autónoma](/blog/nhtsa-investiga-tesla-full-self-driving-baja-visibilidad/), donde errores de software tienen consecuencias reales.
 
 ## ¿Qué está haciendo el gobierno?
 

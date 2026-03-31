@@ -17,7 +17,7 @@ Lo interesante es que Meta no está inventando esto de cero. La estrategia es cl
 
 ## El siguiente paso en la competencia por el comercio digital
 
-[Meta ya había intentado convertir a ChatGPT en tienda online](https://latendenciausa.web.app/blog/chatgpt-abandona-sueno-ser-amazon/), pero eso fue cosa de OpenAI. Ahora Meta está tomando su propio camino con esto, usando sus modelos internos de IA para mejorar la experiencia de compra directamente en sus plataformas.
+[Meta ya había intentado convertir a ChatGPT en tienda online](/blog/chatgpt-abandona-sueno-ser-amazon/), pero eso fue cosa de OpenAI. Ahora Meta está tomando su propio camino con esto, usando sus modelos internos de IA para mejorar la experiencia de compra directamente en sus plataformas.
 
 Esta jugada también tiene que ver con el dinero. El comercio electrónico es uno de los segmentos más rentables de internet, y Meta quiere su parte. Al hacerlo más fácil para que las personas compren directamente desde Instagram o Facebook, la compañía aumenta sus ingresos publicitarios y también captura una comisión de las transacciones.
 
@@ -30,7 +30,7 @@ Cuando estés mirando un producto, la IA generativa puede:
 - **Responder preguntas**: Puedes hacer preguntas sobre el producto y la IA responde basándose en la información disponible
 - **Personalizar recomendaciones**: Mientras más compres, más aprende la IA sobre tus preferencias
 
-Es similar a lo que [Samsung está haciendo al meter IA en 800 millones de dispositivos](https://latendenciausa.web.app/blog/samsung-gemini-800-millones-dispositivos/), pero en el contexto de compras y ecommerce.
+Es similar a lo que [Samsung está haciendo al meter IA en 800 millones de dispositivos](/blog/samsung-gemini-800-millones-dispositivos/), pero en el contexto de compras y ecommerce.
 
 ## El lado oscuro: más datos, más control
 

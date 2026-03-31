@@ -19,7 +19,7 @@ La jugada tiene su lógica empresarial. Moonshot AI es genuinamente innovadora, 
 
 Este no es un drama de cafetería de startups. Las implicaciones son reales:
 
-**Seguridad de datos:** Los desarrolladores que usan Cursor están alimentando código y contexto de proyecto a un modelo basado en tecnología china. Para empresas estadounidenses trabajando en defensa, salud o finanzas, esto es una pesadilla regulatoria. El gobierno ya está [investigando cómo las startups de IA manejan información sensible](https://latendenciausa.web.app/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/).
+**Seguridad de datos:** Los desarrolladores que usan Cursor están alimentando código y contexto de proyecto a un modelo basado en tecnología china. Para empresas estadounidenses trabajando en defensa, salud o finanzas, esto es una pesadilla regulatoria. El gobierno ya está [investigando cómo las startups de IA manejan información sensible](/blog/fbi-compra-datos-ubicacion-rastrear-ciudadanos/).
 
 **Carreras de chips y soberanía:** Biden invirtió miles de millones para asegurar que EE.UU. liderara en IA. Ver que herramientas desarrolladas localmente dependen de modelos chinos socava el mensaje político completo.
 
@@ -29,7 +29,7 @@ Este no es un drama de cafetería de startups. Las implicaciones son reales:
 
 Aquí viene lo incómodo: Cursor probablemente no tuvo muchas opciones. Entrenar un modelo de código competitivo desde cero cuesta cientos de millones. Moonshot AI ya había hecho ese trabajo. Para una startup enfocada en producto, no en investigación fundamental, asociarse tenía sentido.
 
-Pero "sentido empresarial" y "sentido geopolítico" son bestias diferentes. Y en 2026, en plena carrera de la IA, parecen estar en conflicto permanente. El FBI, la CISA y otros organismos ya están moviendo piezas. [Microsoft está expandiendo su presencia en gobierno con acuerdos para trabajo clasificado](https://latendenciausa.web.app/blog/openai-expande-gobierno-acuerdo-aws/), y OpenAI hace lo mismo.
+Pero "sentido empresarial" y "sentido geopolítico" son bestias diferentes. Y en 2026, en plena carrera de la IA, parecen estar en conflicto permanente. El FBI, la CISA y otros organismos ya están moviendo piezas. [Microsoft está expandiendo su presencia en gobierno con acuerdos para trabajo clasificado](/blog/openai-expande-gobierno-acuerdo-aws/), y OpenAI hace lo mismo.
 
 ## ¿Qué viene ahora?
 

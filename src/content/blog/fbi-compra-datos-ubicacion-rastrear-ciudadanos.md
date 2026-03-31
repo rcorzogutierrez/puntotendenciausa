@@ -56,7 +56,7 @@ Algunos defensores de la privacidad están pidiendo que el Congreso apruebe leye
 
 Este es un momento importante para la privacidad en EE.UU. La confirmación del director del FBI no es una sorpresa para los expertos, pero es la admisión pública más clara hasta ahora de que el gobierno está usando lagunas legales para vigilar ciudadanos.
 
-A medida que el mundo digital se expande y [la IA agéntica comienza a tomar decisiones autónomas sobre nuestros datos](https://latendenciausa.web.app/blog/ia-agentica-automatiza-tu-trabajo/), estas preguntas sobre privacidad se volverán aún más urgentes.
+A medida que el mundo digital se expande y [la IA agéntica comienza a tomar decisiones autónomas sobre nuestros datos](/blog/ia-agentica-automatiza-tu-trabajo/), estas preguntas sobre privacidad se volverán aún más urgentes.
 
 ¿Crees que el gobierno debería necesitar una orden judicial para comprar datos de ubicación comerciales, o crees que la seguridad nacional justifica esta vigilancia?
 
