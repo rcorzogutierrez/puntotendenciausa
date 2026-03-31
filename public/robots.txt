@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://latendenciausa.web.app/sitemap-index.xml
-Sitemap: https://latendenciausa.web.app/sitemap-0.xml
