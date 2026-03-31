@@ -17,7 +17,7 @@ Pero la realidad de la industria EV es brutal. La competencia no da tregua, los 
 
 ## ¿Por qué fracasó el proyecto?
 
-Honda ha estado bajo presión. [La empresa automotriz enfrenta una transición complicada hacia vehículos eléctricos mientras compite con empresas como Tesla y otros fabricantes globales](https://latendenciausa.web.app/blog/fortnite-vs-age-of-empires-bots-ia-comparativa/). El mercado EV en Estados Unidos se está saturando, los precios caen constantemente y los márgenes de ganancia se erosionan.
+Honda ha estado bajo presión. La empresa automotriz enfrenta una transición complicada hacia vehículos eléctricos mientras compite con empresas como Tesla y startups como [Verne, la empresa croata que ya opera robotaxis en Europa y tiene acuerdo con Uber](/blog/verne-startup-croata-robotaxis-uber/). El mercado EV en Estados Unidos se está saturando, los precios caen constantemente y los márgenes de ganancia se erosionan.
 
 Sony, por su parte, descubrió que estar en la industria automotriz es radicalmente diferente a estar en la electrónica de consumo. Los ciclos de desarrollo son más largos, las regulaciones son más complejas y el capital requerido es astronómico.
 

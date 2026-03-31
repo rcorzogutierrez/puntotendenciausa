@@ -27,7 +27,7 @@ Este tipo de situaciones generan tres efectos dominó: primero, los empleados em
 
 ## La lección que sigue ignorándose
 
-Lo que realmente duele es que esto ya pasó antes. Muchas veces. [Meta incluso despidió al 10% de su personal para invertir más en IA](https://latendenciausa.web.app/blog/meta-despide-empleados-ia/), mostrando cómo incluso las gigantes ajustan sus apuestas cuando los números no dan.
+Lo que realmente duele es que esto ya pasó antes. Muchas veces. [Meta incluso despidió al 10% de su personal para invertir más en IA](https://latendenciausa.web.app/blog/meta-despide-16000-empleados-apuesta-ia/), mostrando cómo incluso las gigantes ajustan sus apuestas cuando los números no dan.
 
 Pero en startups, el problema es diferente. No tienen el colchón financiero de Meta o Google. Una mala apuesta no es un trimestre difícil; es potencialmente el fin.
 
