@@ -1,9 +1,9 @@
 ---
-title: 'Los gadgets del futuro no tienen pantalla — y ya están aquí'
-description: 'Qualcomm lanzó el chip Snapdragon Wear Elite para una nueva generación de wearables como pins, pendants y lentes inteligentes que procesan IA directo en el dispositivo. El futuro de la tecnología ya no cabe en una pantalla.'
-pubDate: '2026-03-10'
-heroImage: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1600&q=85'
-category: 'Gadgets'
+title: "Los gadgets del futuro no tienen pantalla — y ya están aquí"
+description: "Qualcomm lanzó el chip Snapdragon Wear Elite para una nueva generación de wearables como pins, pendants y lentes inteligentes que procesan IA directo en el dispositivo. El futuro de la tecnología ya no cabe en una pantalla."
+pubDate: "2026-03-10"
+heroImage: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1600&q=85"
+category: "Gadgets"
 tags: ["gadgets", "wearables", "ia-generativa"]
 ---
 
