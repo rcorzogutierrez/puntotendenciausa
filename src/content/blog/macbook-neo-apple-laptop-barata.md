@@ -1,9 +1,9 @@
 ---
-title: 'Apple lanzó su laptop más barata y colorida — el MacBook Neo que todos esperaban'
-description: 'El MacBook Neo llega como la laptop más accesible del catálogo de Apple: más colores, precio más bajo y el mismo chip que hace grande al Air. ¿Es la primera Mac que deberías comprar?'
-pubDate: '2026-03-11'
-heroImage: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=85'
-category: 'Gadgets'
+title: "Apple lanzó su laptop más barata y colorida — el MacBook Neo que todos esperaban"
+description: "El MacBook Neo llega como la laptop más accesible del catálogo de Apple: más colores, precio más bajo y el mismo chip que hace grande al Air. ¿Es la primera Mac que deberías comprar?"
+pubDate: "2026-03-11"
+heroImage: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=85"
+category: "Gadgets"
 tags: ["apple", "hardware", "gadgets"]
 ---
 

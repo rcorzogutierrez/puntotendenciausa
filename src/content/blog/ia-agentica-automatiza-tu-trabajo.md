@@ -1,9 +1,9 @@
 ---
-title: '¿La IA ya trabaja por ti mientras duermes? Así funciona la IA agéntica'
-description: 'La IA agéntica puede tomar decisiones, ejecutar tareas y resolver problemas sin que estés mirando la pantalla. El 71% de las empresas planea adoptarla en 2026. Esto es lo que significa para ti.'
-pubDate: '2026-03-11'
-heroImage: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1600&q=85'
-category: 'Inteligencia Artificial'
+title: "¿La IA ya trabaja por ti mientras duermes? Así funciona la IA agéntica"
+description: "La IA agéntica puede tomar decisiones, ejecutar tareas y resolver problemas sin que estés mirando la pantalla. El 71% de las empresas planea adoptarla en 2026. Esto es lo que significa para ti."
+pubDate: "2026-03-11"
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1600&q=85"
+category: "Inteligencia Artificial"
 tags: ["ia-generativa", "agentes-ia", "productividad"]
 ---
 
