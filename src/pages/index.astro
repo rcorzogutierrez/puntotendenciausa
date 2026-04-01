@@ -308,31 +308,93 @@ const recentPosts = (await getCollection('blog'))
 				color: var(--text-muted);
 			}
 
-			/* ── SEO text section ───────────────────────────────── */
-			.seo-section {
+			/* ── Topics grid ────────────────────────────────────── */
+			.topics-section {
 				max-width: 1100px;
 				margin: 0 auto;
-				padding: 3em 1.5em 4em;
+				padding: 4em 1.5em 5em;
 				border-top: 1px solid var(--border);
 			}
-			.seo-section h2 {
-				font-size: 1.4em;
-				font-weight: 700;
+			.topics-section > h2 {
+				font-size: 1.5em;
+				font-weight: 800;
 				color: var(--text-heading);
-				margin: 0 0 0.6em;
+				margin: 0 0 0.4em;
+				letter-spacing: -0.02em;
 			}
-			.seo-section h3 {
-				font-size: 1.1em;
-				font-weight: 700;
-				color: var(--text-heading);
-				margin: 1.5em 0 0.5em;
-			}
-			.seo-section p {
+			.topics-section > p.topics-intro {
 				color: var(--text-muted);
 				font-size: 0.95em;
 				line-height: 1.7;
+				max-width: 620px;
+				margin: 0 0 2.5em;
+			}
+			.topics-grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 1.25em;
+			}
+			.topic-card {
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-radius: 16px;
+				padding: 1.75em 1.75em 1.75em;
+				display: flex;
+				flex-direction: column;
+				gap: 0.75em;
+				transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+				position: relative;
+				overflow: hidden;
+			}
+			.topic-card::before {
+				content: '';
+				position: absolute;
+				inset: 0;
+				background: radial-gradient(ellipse 80% 60% at 50% -20%, var(--topic-glow, rgba(99,102,241,0.08)) 0%, transparent 70%);
+				pointer-events: none;
+			}
+			.topic-card:hover {
+				border-color: var(--border-hover);
+				box-shadow: var(--box-shadow-hover);
+				transform: translateY(-3px);
+			}
+			.topic-icon {
+				font-size: 1.75em;
+				line-height: 1;
+			}
+			.topic-card h3 {
+				font-size: 1.05em;
+				font-weight: 700;
+				color: var(--text-heading);
 				margin: 0;
-				max-width: 760px;
+				letter-spacing: -0.01em;
+			}
+			.topic-card p {
+				color: var(--text-muted);
+				font-size: 0.88em;
+				line-height: 1.65;
+				margin: 0;
+			}
+			.topic-tag {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.35em;
+				font-size: 0.7em;
+				font-weight: 700;
+				letter-spacing: 0.08em;
+				text-transform: uppercase;
+				color: var(--accent-light);
+				background: var(--accent-glow);
+				border: 1px solid rgba(99,102,241,0.25);
+				border-radius: 999px;
+				padding: 0.3em 0.85em;
+				width: fit-content;
+				margin-top: auto;
+			}
+			@media (max-width: 600px) {
+				.topics-grid {
+					grid-template-columns: 1fr;
+				}
 			}
 
 			/* ── Quote section ──────────────────────────────────── */
@@ -502,10 +564,43 @@ const recentPosts = (await getCollection('blog'))
 			}
 
 			<!-- ¿Qué cubrimos? -->
-			<section class="seo-section">
+			<section class="topics-section">
 				<h2>¿Qué cubrimos en La Tendencia USA?</h2>
-				<p>Inteligencia artificial, tecnología, gaming y ciencia — todo en español y sin tecnicismos innecesarios. Seguimos los modelos de IA más recientes como ChatGPT, Claude y Gemini, los gadgets que vale la pena conocer, los lanzamientos de videojuegos que generan conversación, y los descubrimientos científicos que serán la tecnología de mañana. También cubrimos las decisiones estratégicas de Apple, Google, Microsoft y Meta, startups de Silicon Valley, ciberseguridad y todo lo que transforma nuestra vida digital.</p>
-				<p>Escribimos para más de 500 millones de hispanohablantes: emprendedores, profesionales, estudiantes y curiosos de México, Colombia, Argentina, España, Chile, Venezuela y cualquier rincón del mundo donde se hable español. La tendencia es global — y este espacio es para todos.</p>
+				<p class="topics-intro">
+					Tecnología, inteligencia artificial y tendencias digitales explicadas
+					en español — sin tecnicismos, con perspectiva latina.
+				</p>
+				<div class="topics-grid">
+
+					<div class="topic-card" style="--topic-glow: rgba(99,102,241,0.1)">
+						<span class="topic-icon">🤖</span>
+						<h3>Inteligencia Artificial</h3>
+						<p>Los últimos modelos de OpenAI, Google y Anthropic explicados desde una perspectiva práctica. Cómo la IA está cambiando el trabajo, la educación y la vida cotidiana de los latinos en USA y el mundo.</p>
+						<span class="topic-tag">ChatGPT · Claude · Gemini</span>
+					</div>
+
+					<div class="topic-card" style="--topic-glow: rgba(34,211,238,0.08)">
+						<span class="topic-icon">🚀</span>
+						<h3>Tecnología y Startups</h3>
+						<p>Apple, Google, Microsoft, Meta y las startups que están cambiando las reglas del juego. Estrategias, lanzamientos y cómo cada movimiento afecta a emprendedores y profesionales latinos.</p>
+						<span class="topic-tag">Silicon Valley · Big Tech · Startups</span>
+					</div>
+
+					<div class="topic-card" style="--topic-glow: rgba(251,146,60,0.08)">
+						<span class="topic-icon">🎮</span>
+						<h3>Gaming y Entretenimiento</h3>
+						<p>Los videojuegos son cultura latina. Cubrimos lanzamientos, tendencias de la industria y el impacto de la IA en el gaming — desde los grandes estudios hasta los indies que rompen esquemas.</p>
+						<span class="topic-tag">Consolas · IA · Indie</span>
+					</div>
+
+					<div class="topic-card" style="--topic-glow: rgba(52,211,153,0.08)">
+						<span class="topic-icon">🌎</span>
+						<h3>Para Latinos en USA</h3>
+						<p>Más de 500 millones de hispanohablantes merecen tecnología explicada en su idioma. Escribimos para emprendedores, profesionales y curiosos de toda Latinoamérica y la comunidad hispana en Estados Unidos.</p>
+						<span class="topic-tag">Español · Comunidad · USA</span>
+					</div>
+
+				</div>
 			</section>
 
 			<!-- Quote Section -->
