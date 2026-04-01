@@ -3,7 +3,7 @@ title: "El estudio que nadie conocía humilló a toda la industria del gaming"
 description: "Game Science vendió 20 millones de copias en semanas con su primer juego. Lo que Black Myth: Wukong dice del agotamiento del modelo AAA occidental."
 pubDate: "2026-04-01"
 category: "Gaming"
-heroImage: "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1600&q=85"
+heroImage: "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=1600&q=85"
 tags: ["gaming", "nvidia", "startups"]
 ---
 
