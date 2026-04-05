@@ -4,7 +4,7 @@ description: "OpenAI adquirió TBPN, el popular show de tecnología de Silicon V
 pubDate: "2026-04-04"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&q=80"
-tags: ["OpenAI", "Sam Altman", "medios de comunicación", "inteligencia artificial", "Silicon Valley"]
+tags: ["openai", "startups", "creadores"]
 ---
 
 OpenAI acaba de hacer algo que nadie esperaba: comprar un medio de comunicación. Y no cualquiera — adquirió TBPN, el show de tecnología y negocios más influyente de Silicon Valley, convirtiéndose en la primera vez que la empresa detrás de ChatGPT se mete en el mundo de los medios.
