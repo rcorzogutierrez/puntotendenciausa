@@ -4,7 +4,7 @@ description: "Tesla confirma el fin del Model S y X mientras apuesta todo al Cyb
 pubDate: "2026-04-03"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1200&q=80"
-tags: ["Tesla", "autos eléctricos", "Cybercab", "Roadster", "Elon Musk"]
+tags: ["startups", "hardware", "energia"]
 ---
 
 Tesla está cerrando un capítulo y abriendo otro al mismo tiempo. Esta semana Elon Musk confirmó el fin definitivo del Model S y el Model X — apenas quedan unos cientos de unidades en inventario. Y mientras esos íconos se despiden, Tesla prepara dos apuestas radicalmente distintas para lo que viene: el Cybercab autónomo y el esperadísimo Roadster.
