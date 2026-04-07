@@ -4,7 +4,7 @@ description: "OpenClaw es la herramienta de IA más viral de 2026. Te explicamos
 pubDate: "2026-04-05"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=80"
-tags: ["OpenClaw", "IA agéntica", "automatización", "productividad", "ChatGPT"]
+tags: ["agentes-ia", "openai", "anthropic", "productividad", "open-source"]
 ---
 
 En enero de 2026, una herramienta llamada OpenClaw ganó 60,000 estrellas en GitHub en solo 72 horas — superando el récord histórico de React, una de las librerías más populares del mundo. Hoy tiene más de 257,000 estrellas y más de 1,200 contribuidores. Y esta semana protagonizó una polémica con Anthropic, la empresa detrás de Claude, que cambió las reglas del juego para sus usuarios.
