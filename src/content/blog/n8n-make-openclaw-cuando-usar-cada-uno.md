@@ -1,7 +1,7 @@
 ---
 title: "n8n, Make y OpenClaw: cuál usar y cuándo según tu caso"
 description: "¿Cuál es la diferencia entre n8n, Make y OpenClaw? Te explicamos en qué se parecen, en qué se diferencian y cuándo usar cada una — sin tecnicismos innecesarios."
-pubDate: "2026-04-05"
+pubDate: "2026-04-07"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200&q=80"
 tags: ["agentes-ia", "productividad", "open-source", "startups"]

@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw: el asistente de IA que trabaja 24/7 por ti (y la pelea con Anthropic)"
 description: "OpenClaw es la herramienta de IA más viral de 2026. Te explicamos qué es, para qué sirve en tu vida y negocio, y por qué Anthropic acaba de complicarle la existencia."
-pubDate: "2026-04-05"
+pubDate: "2026-04-07"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=80"
 tags: ["agentes-ia", "openai", "anthropic", "productividad", "open-source"]
