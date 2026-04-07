@@ -27,10 +27,10 @@ Con eso en mente, veamos cada herramienta.
 
 ## Make — La automatización visual para no programadores
 
-Make (antes llamado Integromat) es la herramienta que ya usas si estás en este blog — es el motor detrás del pipeline de La Tendencia USA.
+Make (antes llamado Integromat) es una de las herramientas de automatización más populares entre emprendedores y creadores digitales que no quieren escribir código.
 
 **¿Qué hace?**
-Conecta apps en la nube mediante flujos visuales. Tú arrastras módulos, los conectas, y defines qué pasa cuando se cumple una condición. RSS de TechCrunch llega → Claude genera artículo → GitHub lo guarda → Facebook lo publica. Paso a paso, visual, predecible.
+Conecta apps en la nube mediante flujos visuales. Tú arrastras módulos, los conectas, y defines qué pasa cuando se cumple una condición. Por ejemplo: cuando llega un formulario de contacto → guardar en Google Sheets → notificar por Slack → enviar email de bienvenida. El humano define la lógica; Make la ejecuta cada vez que se necesita, sin intervención manual.
 
 **Lo que lo hace especial:**
 - Más de 2,000 integraciones con apps populares
@@ -49,7 +49,7 @@ Conecta apps en la nube mediante flujos visuales. Tú arrastras módulos, los co
 - Necesitas conectar herramientas populares como Gmail, Slack, Notion, Airtable, Facebook, Instagram
 - Quieres ver visualmente qué hace cada paso de tu automatización
 
-**Ejemplo real:** RSS → Claude → Unsplash → GitHub → Facebook. Exactamente lo que hace el pipeline de este blog.
+**Ejemplo real:** Un newsletter que se publica solo cuando un artículo nuevo aparece en tu blog, notifica a tu equipo en Slack y lo programa en redes sociales — todo sin que nadie tenga que hacer clic.
 
 ---
 
