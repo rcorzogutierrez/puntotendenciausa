@@ -17,7 +17,7 @@ Hay una distinción clave que lo explica casi todo:
 
 **n8n y Make son automatizadores.** Siguen reglas que tú defines: "cuando pase X, haz Y."
 
-**OpenClaw es un agente.** Razona sobre un objetivo y decide cómo lograrlo por su cuenta.
+**OpenClaw es un [agente](/blog/ia-agentica-automatiza-tu-trabajo/).** Razona sobre un objetivo y decide cómo lograrlo por su cuenta.
 
 Es la diferencia entre un semáforo y un conductor. El semáforo sigue un programa fijo. El conductor evalúa la situación y toma decisiones.
 
@@ -49,7 +49,7 @@ Conecta apps en la nube mediante flujos visuales. Tú arrastras módulos, los co
 - Necesitas conectar herramientas populares como Gmail, Slack, Notion, Airtable, Facebook, Instagram
 - Quieres ver visualmente qué hace cada paso de tu automatización
 
-**Ejemplo real:** Un newsletter que se publica solo cuando un artículo nuevo aparece en tu blog, notifica a tu equipo en Slack y lo programa en redes sociales — todo sin que nadie tenga que hacer clic.
+**Ejemplo real:** Un newsletter que se publica solo cuando un artículo nuevo aparece en tu blog, notifica a tu equipo en Slack y lo programa en redes sociales — todo sin que nadie tenga que hacer clic. Algo parecido a lo que ya hacen plataformas como [WordPress con sus agentes de IA](/blog/wordpress-agentes-ia-escriben-publican-posts/).
 
 ---
 
@@ -101,7 +101,7 @@ Le das un objetivo en lenguaje natural — "gestiona mi correo esta semana" o "i
 - Requiere configuración técnica para instalarlo
 - Al ser autónomo, puede hacer cosas inesperadas si no defines bien los límites
 - En enero 2026 se descubrió una vulnerabilidad de seguridad — mantén siempre la versión actualizada
-- Esta semana Anthropic bloqueó su uso con suscripciones estándar de Claude — necesitas API key propia
+- Esta semana Anthropic bloqueó su uso con suscripciones estándar de Claude — [lee todos los detalles aquí](/blog/openclaw-asistente-ia-24-7-casos-de-uso/)
 
 **Cuándo usar OpenClaw:**
 - Necesitas que la IA tome decisiones, no solo ejecutar pasos fijos
