@@ -31,13 +31,13 @@ La conversación continúa de forma natural — igual que llamar a alguien por t
 
 Aquí vienen las limitaciones importantes que debes saber antes de emocionarte demasiado:
 
-No puede controlar funciones del carro — temperatura, música, navegación. Para eso sigues necesitando a Siri. No tiene palabra de activación como "Hey Siri" — tienes que tocar la app en la pantalla para iniciar la conversación. No puede acceder a tus apps, mapas o ubicación en tiempo real. Y no muestra texto en pantalla bajo ninguna circunstancia.
+No puede controlar funciones del carro — temperatura, música, navegación. Para eso sigues necesitando a [Siri](/blog/apple-reinventa-siri-con-ia/). No tiene palabra de activación como "Hey Siri" — tienes que tocar la app en la pantalla para iniciar la conversación. No puede acceder a tus apps, mapas o ubicación en tiempo real. Y no muestra texto en pantalla bajo ninguna circunstancia.
 
 En pocas palabras: es un compañero de conversación inteligente para el viaje, no un reemplazo de Siri ni del sistema del carro.
 
 ## ¿Por qué esto importa más allá de ChatGPT?
 
-La noticia más grande no es que ChatGPT llegó a CarPlay — es que Apple creó una nueva categoría de apps en iOS 26.4 específicamente para asistentes de voz conversacionales. Eso significa que otras IAs podrían seguir el mismo camino. Google Gemini, Claude de Anthropic y otros podrían aparecer en CarPlay en los próximos meses.
+La noticia más grande no es que ChatGPT llegó a CarPlay — es que Apple creó una nueva categoría de apps en iOS 26.4 específicamente para asistentes de voz conversacionales. Eso significa que otras IAs podrían seguir el mismo camino. Google Gemini, Claude de Anthropic y otros podrían aparecer en CarPlay en los próximos meses. No es casualidad: [Apple ya abrió Siri a modelos externos como Gemini y Claude](/blog/apple-siri-ios27-gemini-claude-chatgpt-extensiones/) con iOS 27, y esta integración de CarPlay es el siguiente paso lógico.
 
 Apple siempre fue muy cerrada sobre quién entra a su ecosistema del carro. El hecho de que haya abierto la puerta a IAs de terceros es una señal clara de hacia dónde va la industria: el carro se convierte en otro campo de batalla de la IA.
 
