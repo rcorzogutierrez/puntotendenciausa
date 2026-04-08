@@ -21,7 +21,7 @@ Una decisión que, con el tiempo, cambiaría todo.
 
 Lo que siguió durante los años 80 y 90 fue un ascenso clásico, construido a puro trabajo. De conductor de montacargas pasó a asistente de gerente de almacén en Phoenix. Luego lideró la expansión de Price Club a Colorado en 1991, donde administró tiendas en Aurora y Westminster.
 
-En 1992 consiguió su primer almacén propio como gerente general. Vachris recuerda ese momento como el punto de inflexión real de su carrera. Los gerentes de almacén en Costco tienen entre 300 y 500 empleados a cargo y operan como si fueran dueños de su propio negocio. Esa autonomía, dice, fue transformadora.
+En 1992 consiguió su primer almacén propio como gerente general. Vachris recuerda ese momento como el punto de inflexión real de su carrera. Los gerentes de almacén en Costco tienen entre 300 y 500 empleados a cargo y operan como si fueran dueños de su propio negocio — una mentalidad que comparte con el mundo de las [startups y el emprendimiento de alto crecimiento](/blog/startups-ia-devoran-venture-capital-retornos/). Esa autonomía, dice, fue transformadora.
 
 Para cuando se convirtió en vicepresidente regional en San Diego en 1999, la cartera de 24 tiendas bajo su mando era más grande que toda la cadena cuando él entró por primera vez.
 
@@ -49,7 +49,7 @@ Su estilo de liderazgo refleja el de Sinegal: confía en sus equipos, da autonom
 
 ## Lo que viene para Costco
 
-Con Vachris al frente, Costco cerró el año fiscal 2024 con un crecimiento del 5% en ingresos, llegando a los $254 mil millones. Sus próximas apuestas: expansión internacional y mejorar el comercio digital, dos áreas donde la empresa todavía tiene margen de crecimiento enorme.
+Con Vachris al frente, Costco cerró el año fiscal 2024 con un crecimiento del 5% en ingresos, llegando a los $254 mil millones. Sus próximas apuestas: expansión internacional y mejorar el [comercio digital](/blog/meta-ia-compras-instagram-facebook/), dos áreas donde la empresa todavía tiene margen de crecimiento enorme.
 
 Para la comunidad latina en Estados Unidos, Costco tiene un significado especial. Sus membresías, precios al por mayor y productos en cantidad son una forma práctica de estirar el dólar. Y ahora sabemos que la empresa que te ayuda a ahorrar en papel higiénico y pollo asado está dirigida por alguien que empezó exactamente donde muchos de nosotros también comenzamos: trabajando duro en un turno de medio tiempo.
 
