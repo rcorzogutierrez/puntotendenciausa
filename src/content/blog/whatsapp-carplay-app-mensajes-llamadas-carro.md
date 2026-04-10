@@ -3,7 +3,7 @@ title: "WhatsApp en tu carro: ya puedes chatear y llamar desde CarPlay"
 description: "WhatsApp lanzó su app nativa para Apple CarPlay esta semana. Chats recientes, historial de llamadas y contactos favoritos directamente en el dashboard de tu carro."
 pubDate: "2026-04-09"
 category: "Redes Sociales"
-heroImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
 tags: ["apple", "redes-sociales", "gadgets", "productividad"]
 ---
 
