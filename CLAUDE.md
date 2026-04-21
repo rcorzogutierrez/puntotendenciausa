@@ -41,3 +41,9 @@ Ciencia: ciencia, historia, salud-digital
 ## Deploy
 1. npm run build
 2. firebase deploy
+
+## Lecciones aprendidas
+- NUNCA agregar X-Robots-Tag: noindex al sitemap — causa rechazo de indexación en Google Search Console
+- Siempre verificar que los tags de cada artículo estén dentro de la taxonomía definida arriba
+- Siempre insertar 2-3 enlaces internos a artículos relacionados existentes en cada artículo nuevo
+- Siempre responder en español
