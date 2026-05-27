@@ -11,6 +11,7 @@ on:
       - 'astro.config.mjs'
       - 'firebase.json'
       - 'package.json'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 jobs:
