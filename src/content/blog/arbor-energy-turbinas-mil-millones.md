@@ -4,7 +4,7 @@ description: "Arbor Energy recibe orden por mil millones de dólares para entreg
 pubDate: "2026-03-25"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1761124331093-c1d9e327cfa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx0dXJiaW5lJTIwcG93ZXIlMjBnZW5lcmF0aW9uJTIwcmVuZXdhYmxlfGVufDF8MHx8fDE3NzQ0NzUwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["energía limpia", "turbinas", "startup energética", "tecnología sostenible", "innovación"]
+tags: ["energia", "startups", "ciencia"]
 ---
 
 Una startup de energía acaba de lograr lo que muchas empresas sueñan: un contrato multimillonario que valida su tecnología y promete transformar cómo generamos electricidad. Arbor Energy cerró un trato por mil millones de dólares para entregar 200 turbinas Halcyon a clientes que buscan alternativas más limpias y flexibles.

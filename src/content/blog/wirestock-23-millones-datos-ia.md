@@ -4,7 +4,7 @@ description: "Wirestock recaudó $23M para suministrar datasets de imágenes, vi
 pubDate: "2026-05-15"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMHRyYWluaW5nJTIwZGF0YSUyMGNyZWF0aXZlJTIwYXNzZXRzfGVufDF8MHx8fDE3Nzg4NDgyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["datos de IA", "inteligencia artificial", "startups", "machine learning", "datasets creativos"]
+tags: ["ia-generativa", "startups", "creadores"]
 ---
 
 Hay un negocio silencioso detrás de cada modelo de IA que usas. Mientras todos hablan de ChatGPT y Claude, empresas como Wirestock trabajan en las sombras vendiendo los ingredientes que entrenan estas máquinas. Y acaban de recaudar $23 millones para escalar ese modelo.

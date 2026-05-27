@@ -4,7 +4,7 @@ description: "OpenAI lanza protecciones avanzadas opcionales para cuentas de Cha
 pubDate: "2026-05-02"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1560961922-40d183c5babf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzZWN1cml0eSUyMGtleSUyMGF1dGhlbnRpY2F0aW9uJTIwZGV2aWNlfGVufDF8MHx8fDE3Nzc3MjQ5OTl8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["ciberseguridad", "ChatGPT", "autenticación", "seguridad online", "OpenAI"]
+tags: ["openai", "ciberseguridad", "privacidad"]
 ---
 
 OpenAI acaba de anunciar una nueva capa de protección para tu cuenta de ChatGPT, y esta vez no es solo un código que recibes por correo. La empresa se asoció con Yubico, uno de los líderes mundiales en seguridad con llaves físicas, para ofrecerte una defensa más seria contra hackers.

@@ -4,7 +4,7 @@ description: "Lime, respaldada por Uber, presenta su oferta pública inicial en 
 pubDate: "2026-05-09"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1768411365852-57709486ff8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMHNjb290ZXIlMjB1cmJhbiUyMHRyYW5zcG9ydHxlbnwxfDB8fHwxNzc4MzczMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Lime", "IPO", "micmovilidad", "transporte urbano", "startups"]
+tags: ["ipo", "startups"]
 ---
 
 Después de años de especulación y preparación, Lime finalmente da el salto que muchos esperaban: la empresa de micmovilidad respaldada por Uber presentó su oferta pública inicial (IPO) en Nasdaq bajo el símbolo "LIME". Este movimiento marca un hito importante no solo para la compañía, sino para toda la industria del transporte urbano de última milla.

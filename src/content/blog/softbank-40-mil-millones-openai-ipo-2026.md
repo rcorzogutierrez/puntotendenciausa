@@ -4,7 +4,7 @@ description: "JPMorgan y Goldman Sachs extienden préstamo de $40 mil millones a
 pubDate: "2026-03-30"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1768839721891-6d9d04f9badd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxmaW5hbmNpYWwlMjB0ZWNobm9sb2d5JTIwaW52ZXN0bWVudCUyMGJhbmtpbmd8ZW58MXwwfHx8MTc3NDg3MzM5OHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["OpenAI", "IPO", "SoftBank", "financiamiento", "IA"]
+tags: ["openai", "ipo", "startups"]
 ---
 
 Wall Street acaba de hacer un movimiento que tiene a todo Silicon Valley hablando. JPMorgan y Goldman Sachs le acaban de extender un préstamo de $40 mil millones a SoftBank, la conglomerada japonesa de Masayoshi Son. Pero esto no es un simple préstamo bancario cualquiera: es un mensaje claro sobre lo que se viene en 2026.

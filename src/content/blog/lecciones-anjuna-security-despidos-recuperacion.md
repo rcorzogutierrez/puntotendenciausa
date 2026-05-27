@@ -4,7 +4,7 @@ description: "Cómo Anjuna Security sobrevivió a los despidos de 2022 y qué en
 pubDate: "2026-04-11"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1577280771494-6310a6d929af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzdGFydHVwJTIwbGF5b2ZmcyUyMG9mZmljZXxlbnwxfDB8fHwxNzc1OTUzNzk5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["startups", "despidos", "crecimiento empresarial", "venture capital", "resiliencia"]
+tags: ["startups", "ciberseguridad"]
 ---
 
 Anjuna Security parecía tenerlo todo en 2021. La startup de ciberseguridad respaldada por inversores de riesgo estaba creciendo a velocidad de vértigo, contratando agresivamente y persiguiendo un mercado que se veía ilimitado. Para finales de ese año, habían escalado a alrededor de 75 empleados, expandiendo equipos de ventas, éxito del cliente y soporte en anticipación de un crecimiento continuo e imparable.

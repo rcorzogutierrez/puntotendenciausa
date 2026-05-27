@@ -4,7 +4,7 @@ description: "Después de cuatro años, múltiples citaciones y deposiciones, la
 pubDate: "2026-03-23"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1746047420047-03fc7a9b9226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMHZlaGljbGUlMjBzdGFydHVwfGVufDF8MHx8fDE3NzQyOTEyNjF8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["startup", "autos eléctricos", "SEC", "regulación", "Faraday Future"]
+tags: ["startups", "gobierno", "hardware"]
 ---
 
 Faraday Future respira aliviado. La Comisión de Bolsa y Valores (SEC) ha cerrado su investigación de cuatro años contra la startup de vehículos eléctricos, dejando atrás una batalla legal que parecía no tener fin. Y créeme, para una empresa como Faraday, esquivar este tipo de escrutinio federal es más valioso que cualquier ronda de financiamiento.

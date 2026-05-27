@@ -4,7 +4,7 @@ description: "La senadora demócrata critica la decisión del Departamento de De
 pubDate: "2026-03-24"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200&q=80"
-tags: ["Anthropic", "Pentágono", "IA militar", "Elizabeth Warren", "política tecnológica"]
+tags: ["anthropic", "gobierno", "defensa"]
 ---
 
 La senadora demócrata Elizabeth Warren no se quedó callada. En una carta dirigida al secretario de Defensa Pete Hegseth, la legisladora de Massachusetts acusó al Departamento de Defensa (DOD) de represalia política contra Anthropic, la startup de inteligencia artificial que compite directamente con OpenAI.

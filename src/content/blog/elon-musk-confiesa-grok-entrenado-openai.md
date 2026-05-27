@@ -4,7 +4,7 @@ description: "Elon Musk testifica que xAI entrenó a Grok usando modelos de Open
 pubDate: "2026-05-01"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1674027215032-f0c4292318ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwdHJhaW5pbmclMjBtb2RlbHN8ZW58MXwwfHx8MTc3NzY4MTc5OHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Elon Musk", "xAI", "OpenAI", "Grok", "IA destilación"]
+tags: ["openai", "ia-generativa", "modelos-ia"]
 ---
 
 ## El testimonio que sacude Silicon Valley

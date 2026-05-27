@@ -4,7 +4,7 @@ description: "Meta lanza chats en vivo en Threads con mensajes, fotos, videos y 
 pubDate: "2026-04-23"
 category: "Redes Sociales"
 heroImage: "https://images.unsplash.com/photo-1683104691469-7b40f22caec1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxsaXZlJTIwY2hhdCUyMG1lc3NhZ2luZyUyMHNvY2lhbCUyMG1lZGlhfGVufDF8MHx8fDE3NzY5NDczOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Threads", "Meta", "redes sociales", "engagement en vivo", "comunicación digital"]
+tags: ["meta", "redes-sociales", "creadores"]
 ---
 
 Threads sigue evolucionando y ahora apunta directo a lo que los usuarios quieren: conversaciones instantáneas sin filtros. Meta acaba de lanzar su función de Live Chats, un movimiento que busca mantener a la gente pegada a la plataforma mientras chatea en tiempo real.

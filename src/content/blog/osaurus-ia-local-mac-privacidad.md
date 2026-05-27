@@ -4,7 +4,7 @@ description: "Osaurus combina modelos de IA local y en la nube en una app para M
 pubDate: "2026-05-17"
 category: "Gadgets"
 heroImage: "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxNYWMlMjBjb21wdXRlciUyMGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MXwwfHx8MTc3OTAyMDk5OXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA local", "Mac", "privacidad digital", "inteligencia artificial", "productividad"]
+tags: ["apple", "ia-generativa", "privacidad"]
 ---
 
 Si hay algo que te mantiene despierto por las noches es la privacidad de tus datos. No eres paranoia, es sentido común. Ahora existe una solución que podría cambiar cómo usas la inteligencia artificial en tu computadora: Osaurus.

@@ -4,7 +4,7 @@ description: "X recorta pagos a cuentas que inundan la red con clickbait y notic
 pubDate: "2026-04-14"
 category: "Redes Sociales"
 heroImage: "https://images.unsplash.com/photo-1764162051225-a5fa111c5ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMGZlZWQlMjBlbmdhZ2VtZW50fGVufDF8MHx8fDE3NzYxNjk4MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["X", "Elon Musk", "monetización", "clickbait", "redes sociales"]
+tags: ["redes-sociales", "creadores"]
 ---
 
 Después de años de intentar reinventar su modelo de ingresos, X finalmente toma una decisión que muchos creadores esperaban: eliminar pagos a las cuentas que llenan tu feed de clickbait. Nikita Bier, la cabeza de producto de la plataforma, confirmó que X está reduciendo los pagos a cuentas que "inundan la línea de tiempo" con contenido sensacionalista y agregación rápida de noticias.

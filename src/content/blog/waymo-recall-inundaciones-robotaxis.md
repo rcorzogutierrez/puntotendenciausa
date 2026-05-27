@@ -4,7 +4,7 @@ description: "Waymo emite recall de software para que sus robotaxis sean más ca
 pubDate: "2026-05-12"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1677786102730-5a0aa4ef4391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhdXRvbm9tb3VzJTIwdmVoaWNsZXMlMjBmbG9vZGluZyUyMGhlYXZ5JTIwcmFpbnxlbnwxfDB8fHwxNzc4NjMyMTk1fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["robotaxis", "waymo", "conducción autónoma", "seguridad vial", "inteligencia artificial"]
+tags: ["robots", "ia-generativa", "gobierno"]
 ---
 
 Los robotaxis de Waymo acaban de recibir una actualización importante que los hace más cuidadosos cuando detectan agua en la carretera. No es una falla catastrófica, pero sí un recordatorio de que incluso la tecnología más avanzada tiene límites cuando la naturaleza se interpone.

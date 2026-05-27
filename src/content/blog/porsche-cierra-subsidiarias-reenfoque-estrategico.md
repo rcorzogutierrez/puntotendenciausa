@@ -4,7 +4,7 @@ description: "Porsche cierra subsidiarias de bicicletas eléctricas, baterías y
 pubDate: "2026-05-11"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1707341596508-dcbd9f17de04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBjYXIlMjBtYW51ZmFjdHVyaW5nJTIwZWxlY3RyaWMlMjB2ZWhpY2xlc3xlbnwxfDB8fHwxNzc4NTAyNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Porsche", "reestructuración empresarial", "tecnología automotriz", "cierres de negocios", "transformación digital"]
+tags: ["startups", "hardware"]
 ---
 
 Porsche está tomando una decisión que muchos no esperaban: cerrar varias de sus subsidiarias para refocusarse en su negocio principal. El CEO Michael Leiters anunció que la marca alemana clausurará sus divisiones de bicicletas eléctricas, baterías y software como parte de un "realineamiento estratégico" de la compañía.

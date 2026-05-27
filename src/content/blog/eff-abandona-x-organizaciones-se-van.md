@@ -4,7 +4,7 @@ description: "La Electronic Frontier Foundation se suma a medios y organizacione
 pubDate: "2026-04-12"
 category: "Redes Sociales"
 heroImage: "https://images.unsplash.com/photo-1696041752094-1be601b7053f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMGV4b2R1cyUyQyUyMGxlYXZpbmclMjBwbGF0Zm9ybSUyQyUyMGRpZ2l0YWwlMjByaWdodHN8ZW58MXwwfHx8MTc3NTk5Njk5OXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["X", "redes sociales", "éxodo digital", "Elon Musk", "libertad en internet"]
+tags: ["redes-sociales", "privacidad"]
 ---
 
 La Electronic Frontier Foundation (EFF), una de las organizaciones más importantes en defensa de los derechos digitales, acaba de tomar una decisión que suma más presión a Elon Musk: abandonar X.

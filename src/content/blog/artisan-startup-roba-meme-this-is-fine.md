@@ -4,7 +4,7 @@ description: "El creador del meme 'This is fine' acusa a Artisan de usar su arte
 pubDate: "2026-05-04"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1777785113199-3178920cc74d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMHN0YXJ0dXAlMjBhZHZlcnRpc2luZyUyMGJpbGxib2FyZCUyMHRlY2h8ZW58MXwwfHx8MTc3Nzk0MDk5N3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA y arte", "derechos de autor", "startups", "robo digital", "creadores"]
+tags: ["ia-generativa", "startups", "creadores"]
 ---
 
 El meme "This is fine" es iconográfico. Ese perro sentado en una casa en llamas mientras dice que todo está bien se ha convertido en parte de la cultura internet. Pues bien, su creador acaba de descubrir que una startup de IA lo usó sin permiso en sus anuncios publicitarios. Y no está nada contento.

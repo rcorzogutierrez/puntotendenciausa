@@ -4,7 +4,7 @@ description: "Elon Musk pausó los cambios al programa de ingresos para creadore
 pubDate: "2026-03-25"
 category: "Redes Sociales"
 heroImage: "https://images.unsplash.com/photo-1567016627485-de3bcbecdbb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMGNyZWF0b3IlMjBtb25leSUyMGluY29tZXxlbnwxfDB8fHwxNzc0NDcxODIxfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["X", "Elon Musk", "creadores de contenido", "redes sociales", "ingresos digitales"]
+tags: ["redes-sociales", "creadores"]
 ---
 
 Cuando parece que las cosas se estabilizan en X, Elon Musk sorprende de nuevo. Esta vez, el magnate decidió pausar un cambio importante al programa de ingresos para creadores apenas horas después de anunciarlo. La razón: la comunidad no lo tomó nada bien.

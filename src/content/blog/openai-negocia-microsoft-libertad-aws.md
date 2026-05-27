@@ -4,7 +4,7 @@ description: "OpenAI logró concesiones clave de Microsoft para vender productos
 pubDate: "2026-04-28"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1758599543152-a73184816eba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMHBhcnRuZXJzaGlwJTIwdGVjaG5vbG9neSUyMGRlYWx8ZW58MXwwfHx8MTc3NzQyMjYxM3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["OpenAI", "Microsoft", "AWS", "Inteligencia Artificial", "Rivalidad Tech"]
+tags: ["openai", "microsoft", "ia-generativa"]
 ---
 
 La batalla entre los gigantes de la tecnología acaba de tomar un giro inesperado. OpenAI logró algo que parecía imposible: convencer a Microsoft, su mayor accionista, de permitirle vender productos directamente en AWS, la plataforma de computación en la nube de Amazon. Este movimiento rompe con años de tensión entre las empresas y redefine las reglas del juego en la carrera de la inteligencia artificial.

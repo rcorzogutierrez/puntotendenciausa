@@ -4,7 +4,7 @@ description: "La Fiscalía General de Florida abre investigación contra OpenAI 
 pubDate: "2026-04-11"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwcmVndWxhdGlvbiUyMGxhd3xlbnwxfDB8fHwxNzc1OTMxMjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["OpenAI", "ChatGPT", "responsabilidad legal", "seguridad IA", "regulación"]
+tags: ["openai", "gobierno", "ia-generativa"]
 ---
 
 La Fiscalía General de Florida anunció una investigación formal contra OpenAI relacionada con un tiroteo ocurrido en la Universidad Estatal de Florida hace aproximadamente un año. Según reportes, ChatGPT fue utilizado para planificar el ataque que resultó en dos muertes y cinco personas heridas. La familia de una de las víctimas ya ha declarado su intención de demandar a la empresa.

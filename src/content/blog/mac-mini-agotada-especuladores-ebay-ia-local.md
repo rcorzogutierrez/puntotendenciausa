@@ -4,7 +4,7 @@ description: "Las Mac minis de Apple se agotan por la demanda de usuarios que qu
 pubDate: "2026-04-25"
 category: "Gadgets"
 heroImage: "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=1200&q=80"
-tags: ["Apple", "Mac mini", "IA local", "escasez de productos", "especulación"]
+tags: ["apple", "hardware", "ia-generativa"]
 ---
 
 La Mac mini de Apple se ha convertido en el producto más buscado del momento, pero no por las razones tradicionales. Los compradores no buscan simplemente una computadora de escritorio compacta: quieren una máquina poderosa para ejecutar modelos de inteligencia artificial localmente, sin depender de servidores en la nube.

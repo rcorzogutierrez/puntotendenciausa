@@ -4,7 +4,7 @@ description: "La historia de Manus es un recordatorio de cómo incluso en Silico
 pubDate: "2026-03-26"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1559310415-1e164ccd653a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzdGFydHVwJTIwZmFpbHVyZSUyMG1lZXRpbmclMjBvZmZpY2V8ZW58MXwwfHx8MTc3NDU2MTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["startups", "fracaso empresarial", "inversión de riesgo", "Silicon Valley", "lecciones tech"]
+tags: ["startups", "ia-generativa"]
 ---
 
 ## Cuando la inversión se convierte en pesadilla

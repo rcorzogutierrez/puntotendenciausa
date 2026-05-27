@@ -4,7 +4,7 @@ description: "Últimas horas para conseguir 50% de descuento en un segundo pase 
 pubDate: "2026-05-10"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1762968280286-0bfcc4afd0ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx0ZWNoJTIwY29uZmVyZW5jZSUyMG5ldHdvcmtpbmclMjBlbnRyZXByZW5ldXJzfGVufDF8MHx8fDE3Nzg0MTYxOTd8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["TechCrunch Disrupt", "conferencias tech", "networking", "startups", "emprendimiento"]
+tags: ["startups", "ipo"]
 ---
 
 Si eres emprendedor, inversor o trabajas en tech, sabes que las conferencias grandes no son solo para escuchar presentaciones. Son el lugar donde se hacen negocios, se cierran rondas de inversión y nace la próxima idea millonaria. TechCrunch Disrupt 2026 es exactamente eso, y hoy es tu último día para aprovechar una oferta que no volverá: compra un pase y lleva a alguien más con 50% de descuento.

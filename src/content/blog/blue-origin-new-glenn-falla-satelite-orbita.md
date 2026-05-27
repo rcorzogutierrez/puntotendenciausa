@@ -4,7 +4,7 @@ description: "El cohete New Glenn de Blue Origin coloca un satélite en órbita 
 pubDate: "2026-04-21"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1630651394339-b6522d8e4cab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBsYXVuY2glMjBmYWlsdXJlJTIwc3BhY2V8ZW58MXwwfHx8MTc3Njc3NDYwMHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Blue Origin", "cohetes espaciales", "NASA", "New Glenn", "carrera espacial"]
+tags: ["spacex", "ciencia", "startups"]
 ---
 
 Blue Origin acaba de sufrir su primer gran tropiezo con su cohete New Glenn, y no es un detalle menor. Durante su tercer lanzamiento, la compañía de Jeff Bezos falló en poner un satélite cliente en la órbita correcta, lo que representa un golpe significativo para sus ambiciones de convertirse en el brazo derecho de NASA para la misión lunar.

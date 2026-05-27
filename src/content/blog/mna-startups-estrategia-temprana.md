@@ -4,7 +4,7 @@ description: "Líderes de Coinbase y M13 revelan cómo las fusiones y adquisicio
 pubDate: "2026-05-06"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1521790797524-b2497295b8a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMG1lcmdlciUyMGFjcXVpc2l0aW9uJTIwaGFuZHNoYWtlfGVufDF8MHx8fDE3NzgxMTM4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["M&A", "startups", "fusiones", "venture capital", "crecimiento empresarial"]
+tags: ["startups", "ipo"]
 ---
 
 En TechCrunch Disrupt 2026, algo quedó claro: las fusiones y adquisiciones (M&A) ya no son solo para empresas maduras que quieren expandirse. Ahora, desde el primer día, los emprendedores están pensando en cómo sus startups podrían ser adquiridas o fusionarse con otras compañías. Es un cambio fundamental en la estrategia empresarial que está transformando todo el ecosistema de innovación.

@@ -4,7 +4,7 @@ description: "Apple no logró pausar los cambios en el App Store ordenados por c
 pubDate: "2026-04-30"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1657868203197-627e5ab86e19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGFwcCUyMHN0b3JlJTIwbGVnYWwlMjBjb3VydHxlbnwxfDB8fHwxNzc3NTUyMTk4fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Apple", "App Store", "Epic Games", "regulación tecnológica", "justicia"]
+tags: ["apple", "gobierno", "startups"]
 ---
 
 Apple acaba de recibir un golpe legal importante: su intento por pausar los cambios obligatorios en el App Store fue rechazado. Mientras el caso avanza hacia la Corte Suprema, la empresa tendrá que mantener en marcha las modificaciones ordenadas por el tribunal, incluyendo permitir enlaces de compra externos dentro de las apps.

@@ -4,7 +4,7 @@ description: "Datos de Ramp revelan que 34.4% de empresas pagan por Anthropic vs
 pubDate: "2026-05-14"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMEFJJTIwdGVjaG5vbG9neSUyMGNvcnBvcmF0ZXxlbnwxfDB8fHwxNzc4NzYxNzk4fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Anthropic", "OpenAI", "Claude", "empresas", "IA empresarial"]
+tags: ["anthropic", "openai", "ia-generativa", "startups"]
 ---
 
 La batalla por dominar el mercado de inteligencia artificial acaba de dar un giro inesperado. Según datos compilados por Ramp, la fintech que rastrea gastos de miles de empresas, Anthropic ha logrado algo que parecía imposible hace apenas meses: superar a OpenAI en la cantidad de clientes corporativos que pagan por sus servicios.

@@ -4,7 +4,7 @@ description: "Google planea invertir hasta $40 mil millones en Anthropic mientra
 pubDate: "2026-04-26"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwaW52ZXN0bWVudCUyMHRlY2hub2xvZ3l8ZW58MXwwfHx8MTc3NzIwNjU5N3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Google", "Anthropic", "inversión IA", "competencia tech", "Claude"]
+tags: ["google", "anthropic", "ia-generativa"]
 ---
 
 Google acaba de anunciar una inversión de hasta $40 mil millones en Anthropic, la startup de inteligencia artificial que compite directamente con OpenAI. Este movimiento no es casual: es el reflejo de una carrera frenética en Silicon Valley por asegurar suficiente poder de cómputo para entrenar y ejecutar modelos de IA cada vez más ambiciosos.

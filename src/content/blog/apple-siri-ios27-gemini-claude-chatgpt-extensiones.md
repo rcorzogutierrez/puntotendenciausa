@@ -4,7 +4,7 @@ description: "Con iOS 27, Apple permitirá que Gemini, Claude y otras IAs se int
 pubDate: "2026-03-30"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1200&q=80"
-tags: ["apple", "ia-generativa", "agentes-ia", "modelos-ia", "google"]
+tags: ["apple", "ia-generativa", "agentes-ia", "modelos-ia"]
 ---
 
 Si usas iPhone, lo que Apple acaba de anunciar te va a cambiar la forma en que interactúas con tu celular. Con iOS 27, Siri dejará de ser un asistente exclusivo de Apple para convertirse en una puerta de entrada a todas las inteligencias artificiales del mercado: Gemini, Claude, Grok, Perplexity y lo que venga después.

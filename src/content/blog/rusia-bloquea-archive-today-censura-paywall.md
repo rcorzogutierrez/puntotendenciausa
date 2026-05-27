@@ -4,7 +4,7 @@ description: "Las autoridades rusas bloquearon Archive.today, el sitio que permi
 pubDate: "2026-03-24"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1623018035782-b269248df916?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxpbnRlcm5ldCUyMGNlbnNvcnNoaXAlMjBibG9ja2luZ3xlbnwxfDB8fHwxNzc0MzU5ODE5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["censura digital", "paywall", "Rusia", "libertad de información", "internet"]
+tags: ["gobierno", "privacidad", "redes-sociales"]
 ---
 
 Las autoridades rusas acaban de bloquear Archive.today, el sitio que millones de personas usan para leer artículos de noticias sin pasar por los muros de pago. Un aviso en la página principal dice que el acceso está bloqueado "por decisión de las autoridades públicas rusas". Es otro movimiento en la batalla global entre gobiernos y internet abierto.

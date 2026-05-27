@@ -4,7 +4,7 @@ description: "Harvey, startup de IA para abogados, confirma valoración de $11 m
 pubDate: "2026-03-26"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1742094561255-18506fba7a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwbGF3JTIwb2ZmaWNlfGVufDF8MHx8fDE3NzQ1MDM4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA legal", "Harvey", "Sequoia", "startups IA", "venture capital"]
+tags: ["startups", "ia-generativa", "ipo"]
 ---
 
 Harvey está en todas partes. Y los inversores más inteligentes del Valle lo saben.

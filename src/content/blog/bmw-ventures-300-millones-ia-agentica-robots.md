@@ -4,7 +4,7 @@ description: "BMW i Ventures lanza fondo de $300 millones enfocado en IA agénti
 pubDate: "2026-04-29"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1774229637247-3cd45219826c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwcm9ib3RzJTIwbWFudWZhY3R1cmluZyUyMEFJfGVufDF8MHx8fDE3Nzc1MDkwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA agéntica", "robots físicos", "manufactura", "BMW Ventures", "startup tech"]
+tags: ["agentes-ia", "robots", "startups"]
 ---
 
 BMW no solo construye autos de lujo. Ahora, el gigante alemán está apostando fuerte en el futuro de la inteligencia artificial con un fondo de inversión de $300 millones. Y no, no es para mejorar tu sistema de entretenimiento del carro.

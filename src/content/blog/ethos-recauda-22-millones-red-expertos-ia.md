@@ -4,7 +4,7 @@ description: "Ethos levanta $22.75M de a16z para su plataforma de red de experto
 pubDate: "2026-05-07"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1603714228681-b399854b8f80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxuZXR3b3JrJTIwcHJvZmVzc2lvbmFscyUyMHZvaWNlJTIwdGVjaG5vbG9neXxlbnwxfDB8fHwxNzc4MTU3MDAxfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["startups", "redes de expertos", "inteligencia artificial", "fundraising", "emprendimiento"]
+tags: ["startups", "ia-generativa"]
 ---
 
 ## Una startup que conecta expertos con velocidad de rayo

@@ -4,7 +4,7 @@ description: "NOC Energy revoluciona la industria pesada con plantas de cemento 
 pubDate: "2026-04-16"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1666219462105-2909c2d72d01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxoeWJyaWQlMjBjZW1lbnQlMjBwbGFudCUyMGluZHVzdHJpYWwlMjBlbmVyZ3l8ZW58MXwwfHx8MTc3NjM4NTc5N3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["energía híbrida", "industria pesada", "sostenibilidad", "innovación tecnológica", "manufactura"]
+tags: ["energia", "ciencia"]
 ---
 
 ¿Qué pasaría si te dijera que la solución para descarbonizar la industria pesada no es elegir entre combustibles fósiles o electricidad, sino usar ambos al mismo tiempo? Suena contradictorio, pero NOC Energy acaba de demostrar que es totalmente posible.

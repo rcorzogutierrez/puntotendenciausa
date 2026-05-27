@@ -4,7 +4,7 @@ description: "Lime presenta su IPO en Nasdaq bajo el símbolo LIME. Descubre qu�
 pubDate: "2026-05-12"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1772456595053-98eb00580bb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMHNjb290ZXIlMjBjaXR5JTIwc3RyZWV0fGVufDF8MHx8fDE3Nzg1ODg5OTh8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IPO", "Micmovilidad", "Transporte Urbano", "Startups Tech", "Wall Street"]
+tags: ["ipo", "startups"]
 ---
 
 ## El momento histórico de Lime

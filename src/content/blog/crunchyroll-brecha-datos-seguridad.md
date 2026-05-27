@@ -4,7 +4,7 @@ description: "Crunchyroll confirma ataque hacker con acceso no autorizado a dato
 pubDate: "2026-03-25"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1768839721176-2fa91fdce725?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYnJlYWNoJTIwc2VjdXJpdHklMjBjeWJlcnxlbnwxfDB8fHwxNzc0NDE3NDEzfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["ciberseguridad", "protección de datos", "streaming", "privacidad online", "seguridad digital"]
+tags: ["ciberseguridad", "privacidad", "streaming"]
 ---
 
 Crunchyroll, la plataforma de anime y series más popular entre latinos en Estados Unidos, confirmó que sufrió una brecha de seguridad. Un hacker afirma haber accedido sin autorización a información personal de usuarios. Si eres suscriptor, esto te afecta directamente.

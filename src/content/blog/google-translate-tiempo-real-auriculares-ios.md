@@ -4,7 +4,7 @@ description: "Google expande su función de traducción en tiempo real a iOS y m
 pubDate: "2026-03-28"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1575780973092-8b4154ecaa3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxyZWFsLXRpbWUlMjB0cmFuc2xhdGlvbiUyMGhlYWRwaG9uZXMlMjBjb21tdW5pY2F0aW9ufGVufDF8MHx8fDE3NzQ3MDA1OTh8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["traducción en tiempo real", "Google Translate", "iOS", "auriculares inteligentes", "accesibilidad"]
+tags: ["google", "gadgets", "wearables"]
 ---
 
 Google sigue revolucionando cómo nos comunicamos sin importar el idioma. La función de traducción en tiempo real para auriculares que ya estaba disponible en Android llega ahora a iOS, y también se expande a más países. Si eres latino viviendo en Estados Unidos o cualquier otro lugar del mundo, esto te interesa.

@@ -4,7 +4,7 @@ description: "Epic Games despide a más de 1,000 empleados por la caída de Fort
 pubDate: "2026-03-26"
 category: "Negocios"
 heroImage: "/images/fortnite-despidos-precios.jpg"
-tags: ["Fortnite", "Epic Games", "videojuegos", "despidos tech", "gaming"]
+tags: ["gaming", "startups"]
 ---
 
 Si juegas Fortnite o conoces a alguien que lo haga, esta noticia te va a impactar. Epic Games acaba de anunciar el despido de más de 1,000 empleados — el recorte más grande en su historia — y la razón principal tiene nombre y apellido: la caída en popularidad de Fortnite.

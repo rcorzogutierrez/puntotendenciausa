@@ -4,7 +4,7 @@ description: "X presenta su plataforma de anuncios reconstruida con inteligencia
 pubDate: "2026-04-30"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1762330464824-21e95b769038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMGFkdmVydGlzaW5nJTIwcGxhdGZvcm0lMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDF8MHx8fDE3Nzc1OTU0MDF8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["publicidad digital", "inteligencia artificial", "X plataforma", "marketing", "tecnología"]
+tags: ["redes-sociales", "ia-generativa", "creadores"]
 ---
 
 ## X quiere salvar su negocio de anuncios con IA

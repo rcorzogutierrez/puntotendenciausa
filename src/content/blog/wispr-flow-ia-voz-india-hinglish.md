@@ -4,7 +4,7 @@ description: "Wispr Flow acelera su crecimiento en India tras lanzar soporte par
 pubDate: "2026-05-11"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1665396697251-05a3a49515a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx2b2ljZSUyMEFJJTIwc3BlZWNoJTIwcmVjb2duaXRpb24lMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3Nzg1NDU3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA de voz", "India", "Hinglish", "startups", "tecnología móvil"]
+tags: ["ia-generativa", "startups", "gadgets"]
 ---
 
 La inteligencia artificial de voz está llegando a mercados que los gigantes tech ignoraron durante años. En India, donde más de 400 millones de personas hablan una mezcla de hindi y inglés conocida como Hinglish, una startup llamada Wispr Flow está apostando fuerte a que puede cambiar el juego.

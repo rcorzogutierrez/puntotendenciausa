@@ -4,7 +4,7 @@ description: "OpenAI adquiere startup de finanzas personales Hiro. ChatGPT tendr
 pubDate: "2026-04-14"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=1200&q=80"
-tags: ["OpenAI", "finanzas personales", "ChatGPT", "planificación financiera", "IA"]
+tags: ["openai", "ia-generativa", "startups"]
 ---
 
 OpenAI acaba de comprar Hiro, una startup de finanzas personales impulsada por IA. La noticia parece menor en el radar tech, pero significa algo importante: ChatGPT pronto tendrá tu dinero en las manos.

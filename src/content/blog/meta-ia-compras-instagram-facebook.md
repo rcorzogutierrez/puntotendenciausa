@@ -4,7 +4,7 @@ description: "Meta integra inteligencia artificial generativa para mostrar más 
 pubDate: "2026-03-25"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1705234384435-e06172b6d2f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzaG9wcGluZyUyMG9ubGluZSUyMEFJJTIwdGVjaG5vbG9neXxlbnwxfDB8fHwxNzc0NDc0ODkwfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Meta", "IA generativa", "comercio electrónico", "Instagram", "compras online"]
+tags: ["meta", "ia-generativa", "redes-sociales"]
 ---
 
 Meta está jugando fuerte en el comercio electrónico, y esta vez el arma es la inteligencia artificial. La plataforma está integrando IA generativa para que cuando estés navegando productos en Instagram o Facebook, recibas información mucho más detallada sobre marcas y artículos sin tener que salir de la app.

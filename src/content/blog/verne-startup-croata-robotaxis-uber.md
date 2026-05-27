@@ -4,7 +4,7 @@ description: "Verne, lanzada por Rimac Group, llega al mercado de robotaxis con 
 pubDate: "2026-03-26"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1685984351618-f0c4287590b8?q=80&w=1200"
-tags: ["robotaxis", "vehículos autónomos", "startups europeas", "innovación tech", "transporte autónomo"]
+tags: ["robots", "startups", "ia-generativa"]
 ---
 
 Mientras Tesla y Waymo dominan las conversaciones sobre robotaxis en Estados Unidos, una startup croata relativamente desconocida está entrando al juego con ambiciones serias. Verne, lanzada bajo el paraguas del Grupo Rimac, acaba de comenzar operaciones en Zagreb, Croacia, marcando el primer paso de lo que podría ser una competencia global en el mercado de vehículos autónomos.

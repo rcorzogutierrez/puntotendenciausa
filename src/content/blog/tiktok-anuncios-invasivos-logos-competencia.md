@@ -4,7 +4,7 @@ description: "TikTok lanza nuevo formato de anuncios que muestra logos de marcas
 pubDate: "2026-03-24"
 category: "Redes Sociales"
 heroImage: "https://images.unsplash.com/photo-1677696797025-e6a40f6c714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMGFkdmVydGlzaW5nJTIwZGlzcnVwdGlvbnxlbnwxfDB8fHwxNzc0Mzg4NDg3fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["TikTok", "publicidad digital", "redes sociales", "marketing", "disruption"]
+tags: ["redes-sociales", "creadores"]
 ---
 
 TikTok está a punto de revolucionar (o arruinar, según tu perspectiva) la experiencia de abrir la app con un nuevo formato de anuncios que suena casi demasiado directo: mostrar el logo de una marca completamente diferente junto al de TikTok en la pantalla de inicio.

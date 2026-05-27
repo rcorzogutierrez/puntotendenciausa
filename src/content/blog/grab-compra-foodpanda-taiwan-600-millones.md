@@ -4,7 +4,7 @@ description: "Grab adquiere el negocio de Foodpanda en Taiwan por $600 millones.
 pubDate: "2026-03-24"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1667284152849-850edc1b341e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxmb29kJTIwZGVsaXZlcnklMjBhcHAlMjBpbnRlcmZhY2V8ZW58MXwwfHx8MTc3NDMzMTAxMHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Grab", "Foodpanda", "delivery", "Taiwan", "Uber Eats"]
+tags: ["startups", "redes-sociales"]
 ---
 
 Grab acaba de dar un golpe importante en el mercado asiático de entregas de comida. La plataforma de transporte y delivery anunció que comprará el negocio de Foodpanda en Taiwan a Delivery Hero por $600 millones. Un movimiento estratégico que marca el comienzo de una batalla más intensa por dominar el mercado de comida a domicilio en Asia.

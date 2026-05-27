@@ -4,7 +4,7 @@ description: "Roku lanza Howdy en Prime Video con 10,000 horas de contenido por 
 pubDate: "2026-03-24"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1615986200515-84569a9113a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzdHJlYW1pbmclMjBzZXJ2aWNlJTIwYWZmb3JkYWJsZSUyMHN1YnNjcmlwdGlvbnxlbnwxfDB8fHwxNzc0Mzk2NjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["streaming", "Roku", "Prime Video", "contenido digital", "suscripción"]
+tags: ["streaming", "startups"]
 ---
 
 ## Un nuevo competidor en la guerra del streaming

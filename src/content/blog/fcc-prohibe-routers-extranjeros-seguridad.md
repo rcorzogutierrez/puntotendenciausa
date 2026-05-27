@@ -4,7 +4,7 @@ description: "La FCC bloquea importación de routers extranjeros por riesgos de 
 pubDate: "2026-03-24"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx3aWZpJTIwcm91dGVyJTIwc2VjdXJpdHklMjBuZXR3b3JrJTIwZGV2aWNlfGVufDF8MHx8fDE3NzQzODg2MTN8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["FCC", "ciberseguridad", "routers", "privacidad digital", "regulación tecnológica"]
+tags: ["ciberseguridad", "privacidad", "gobierno"]
 ---
 
 La Comisión Federal de Comunicaciones acaba de tomar una decisión que afectará directamente cómo te conectas a internet. Brendan Carr, director de la FCC, anunció una prohibición histórica: ningún router de consumo fabricado en el extranjero podrá entrar a Estados Unidos. Sí, leíste bien. Tu próximo router WiFi tendrá que ser estadounidense o no entra.

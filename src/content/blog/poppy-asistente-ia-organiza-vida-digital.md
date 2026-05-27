@@ -4,7 +4,7 @@ description: "Poppy es una app con IA que conecta tu calendario, email y mensaje
 pubDate: "2026-05-13"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1775440299329-8ccd74053052?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMGFzc2lzdGFudCUyMHByb2R1Y3Rpdml0eSUyMGRpZ2l0YWwlMjBvcmdhbml6YXRpb258ZW58MXwwfHx8MTc3ODcxODYwNHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA productividad", "asistente digital", "organización", "app inteligente", "automatización"]
+tags: ["ia-generativa", "agentes-ia", "productividad"]
 ---
 
 ¿Cuántas veces has olvidado un compromiso importante porque estaba perdido entre cientos de mensajes y correos? Poppy es una nueva app con inteligencia artificial que promete convertirse en tu asistente personal, conectando todos tus servicios digitales para mantener tu vida organizada sin que tengas que hacer casi nada.

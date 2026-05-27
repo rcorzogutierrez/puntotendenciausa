@@ -4,7 +4,7 @@ description: "Instructure sufre brecha de datos que expone información privada 
 pubDate: "2026-05-06"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1740560051531-fe9884310974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYnJlYWNoJTIwY3liZXJzZWN1cml0eSUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzc4MDcwNjAyfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["brecha de datos", "ciberseguridad", "educación", "privacidad estudiantil", "protección de datos"]
+tags: ["ciberseguridad", "privacidad"]
 ---
 
 Instructure, la plataforma educativa que millones de estudiantes latinos usan para acceder a sus clases, sufrió una brecha de datos que expone información personal. TechCrunch obtuvo una muestra de los datos robados, confirmando que la información privada de estudiantes está comprometida.

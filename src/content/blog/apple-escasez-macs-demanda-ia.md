@@ -4,7 +4,7 @@ description: "Apple advierte sobre limitaciones de suministro en Mac mini, Studi
 pubDate: "2026-05-03"
 category: "Gadgets"
 heroImage: "https://images.unsplash.com/photo-1758626044744-463ce33546a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxNYWMlMjBjb21wdXRlciUyMEFJJTIwbGFwdG9wJTIwZGVtYW5kfGVufDF8MHx8fDE3Nzc4MTEzOTh8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Apple", "Mac", "Inteligencia Artificial", "Escasez de chips", "Demanda tecnológica"]
+tags: ["apple", "hardware", "ia-generativa"]
 ---
 
 Apple acaba de sorprenderse con un problema que no esperaba: demasiada gente quiere comprar Macs. Y no es por cualquier razón. La demanda impulsada por inteligencia artificial ha arrasado con el inventario de varias líneas de computadoras, obligando a la compañía a advertir que enfrentará limitaciones de suministro en el próximo trimestre.

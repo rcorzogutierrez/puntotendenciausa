@@ -4,7 +4,7 @@ description: "Un proyecto de ley bipartidista apunta a prohibir las apuestas dep
 pubDate: "2026-03-24"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1620633759441-b4db8637d1f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzcG9ydHMlMjBiZXR0aW5nJTIwb25saW5lJTIwcmVndWxhdGlvbnxlbnwxfDB8fHwxNzc0MzU5NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["apuestas deportivas", "regulación", "Kalshi", "Polymarket", "mercados de predicción"]
+tags: ["gobierno", "startups"]
 ---
 
 El debate sobre las apuestas deportivas en línea acaba de tomar un giro inesperado. Un proyecto de ley bipartidista está en el radar del Congreso estadounidense, y su objetivo es específico: prohibir que plataformas como Kalshi y Polymarket ofrezcan apuestas sobre eventos deportivos. Lo interesante es lo que este proyecto revelaría sobre cómo funciona realmente la regulación del juego en Estados Unidos.

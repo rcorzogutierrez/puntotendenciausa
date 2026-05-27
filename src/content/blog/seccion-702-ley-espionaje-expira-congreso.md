@@ -4,7 +4,7 @@ description: "El Congreso se divide sobre renovar la Sección 702, la ley que pe
 pubDate: "2026-04-21"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1708022259937-dcc8f52e92f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzdXJ2ZWlsbGFuY2UlMjBwcml2YWN5JTIwZGlnaXRhbCUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc3NjgxNzc5Nnww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["privacidad", "vigilancia", "legislación", "derechos digitales", "seguridad nacional"]
+tags: ["privacidad", "gobierno", "defensa"]
 ---
 
 El 30 de abril se acerca rápidamente y el Congreso estadounidense está dividido. No es sobre impuestos ni sobre un nuevo programa social. Es sobre algo más fundamental: si el gobierno puede vigilar a ciudadanos estadounidenses sin orden judicial.

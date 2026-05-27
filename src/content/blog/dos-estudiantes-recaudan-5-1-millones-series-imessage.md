@@ -4,7 +4,7 @@ description: "Series, la app de red social que triunfa en universidades, cerró 
 pubDate: "2026-04-26"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1563477711139-033db1855538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxjb2xsZWdlJTIwc3R1ZGVudHMlMjBzb2NpYWwlMjBhcHAlMjBtZXNzYWdpbmd8ZW58MXwwfHx8MTc3NzI0OTgwNHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["startups", "redes sociales", "iMessage", "inversión tecnológica", "generación Z"]
+tags: ["startups", "redes-sociales"]
 ---
 
 ## Una red social que vive donde todos chatean

@@ -4,7 +4,7 @@ description: "CopilotKit cierra ronda Serie A de $27 millones liderada por Glilo
 pubDate: "2026-05-05"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=1200&q=80"
-tags: ["IA agéntica", "startups tech", "desarrollo de software", "agentes de IA", "inversión venture"]
+tags: ["agentes-ia", "startups", "ia-generativa"]
 ---
 
 Seattle acaba de convertirse en el hogar de una startup que está cambiando la forma en que los desarrolladores construyen aplicaciones con inteligencia artificial. CopilotKit, que ya levantó $27 millones en su ronda Serie A, está en el radar de inversores serios: Glilot Capital, NFX y SignalFire lideran la ronda. Y hay una razón clara: los desarrolladores necesitaban esto hace años.

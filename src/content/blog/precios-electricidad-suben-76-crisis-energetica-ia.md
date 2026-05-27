@@ -4,7 +4,7 @@ description: "Los precios de energía en la red más grande de EE.UU. se dispara
 pubDate: "2026-05-18"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxwb3dlciUyMGdyaWQlMjBlbmVyZ3klMjBpbmZyYXN0cnVjdHVyZXxlbnwxfDB8fHwxNzc5MTA3NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["energía", "inteligencia artificial", "infraestructura", "precios electricidad", "data centers"]
+tags: ["energia", "ia-generativa"]
 ---
 
 La factura de la luz en Estados Unidos acaba de convertirse en el drama silencioso de Silicon Valley. Los precios de energía en la red eléctrica más grande del país subieron 76%, y nadie está hablando de lo obvio: la culpa es de la IA.

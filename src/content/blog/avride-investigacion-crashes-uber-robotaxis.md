@@ -4,7 +4,7 @@ description: "La NHTSA abre investigación contra Avride por más de una docena 
 pubDate: "2026-05-10"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1615947402455-13cba26dbe56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzZWxmLWRyaXZpbmclMjBjYXIlMjBhY2NpZGVudCUyMGludmVzdGlnYXRpb258ZW58MXwwfHx8MTc3ODQ1OTM5N3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["robotaxis", "seguridad vial", "Uber", "conducción autónoma", "investigación"]
+tags: ["robots", "startups", "ciberseguridad"]
 ---
 
 Uber tiene un problema más grande que las órdenes de comida sin entregar. Su socio Avride, la startup de vehículos autónomos, está bajo investigación federal por accidentes que no deberían estar pasando.

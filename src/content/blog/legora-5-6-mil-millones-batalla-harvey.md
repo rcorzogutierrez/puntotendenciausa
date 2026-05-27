@@ -4,7 +4,7 @@ description: "Legora y Harvey, dos startups de IA legal, compiten ferozmente con
 pubDate: "2026-05-02"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1645570990200-2701a49d45ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxsZWdhbCUyMEFJJTIwdGVjaG5vbG9neSUyMGxhd3llcnN8ZW58MXwwfHx8MTc3Nzc2ODIwMXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA legal", "startups", "Harvey", "Legora", "tecnología"]
+tags: ["startups", "ia-generativa"]
 ---
 
 La guerra por dominar la inteligencia artificial legal acaba de escalarse. Legora, la startup que prometía revolucionar cómo los abogados trabajan, acaba de alcanzar una valuación de $5.6 mil millones. Pero el verdadero drama no está en los números: está en su batalla brutal contra Harvey, su rival directo que también levantó millones y ahora los dos se están golpeando mutuamente en publicidad.

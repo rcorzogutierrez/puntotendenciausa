@@ -4,7 +4,7 @@ description: "Mistral AI levanta $830 millones en deuda para construir un data c
 pubDate: "2026-03-31"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80"
-tags: ["ia-generativa", "startups", "open-source", "nvidia", "energia"]
+tags: ["ia-generativa", "startups", "open-source", "nvidia"]
 ---
 
 Hay una guerra silenciosa por el control de la inteligencia artificial, y Europa acaba de dar su golpe más fuerte. Mistral AI, la startup francesa que muchos consideran la única rival real de OpenAI fuera de Estados Unidos, anunció que levantó **$830 millones en deuda** para construir su propio data center cerca de París — y con eso, declarar su independencia de Amazon, Microsoft y Google.

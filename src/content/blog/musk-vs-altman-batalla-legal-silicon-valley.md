@@ -4,7 +4,7 @@ description: "Elon Musk testifica contra OpenAI por tres días. Emails, textos y
 pubDate: "2026-05-04"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1645570990200-2701a49d45ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxjb3VydHJvb20lMjBsZWdhbCUyMGJhdHRsZSUyMHRlY2hub2xvZ3l8ZW58MXwwfHx8MTc3Nzg5NzgwMHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Elon Musk", "OpenAI", "Sam Altman", "batalla legal", "inteligencia artificial"]
+tags: ["openai", "ia-generativa", "startups"]
 ---
 
 ## La guerra legal entre titans tech

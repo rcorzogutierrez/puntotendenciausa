@@ -4,7 +4,7 @@ description: "StrictlyVC llega a San Francisco el 30 de abril. Descubre por qué
 pubDate: "2026-04-23"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=1200&q=80"
-tags: ["venture capital", "startups", "San Francisco", "inversión", "networking"]
+tags: ["startups", "ipo"]
 ---
 
 ## La cita ineludible del ecosistema tech llega a San Francisco

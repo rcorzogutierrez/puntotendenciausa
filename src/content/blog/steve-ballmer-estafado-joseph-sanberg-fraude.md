@@ -4,7 +4,7 @@ description: "Steve Ballmer escribió una carta furiosa en la sentencia de Josep
 pubDate: "2026-04-27"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1724722153868-98c4108b7a14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxmcmF1ZCUyMGJldHJheWFsJTIwYnVzaW5lc3NtYW4lMjBjb3VydHxlbnwxfDB8fHwxNzc3MjkzMDAxfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["fraude", "inversión", "Steve Ballmer", "startups fallidas", "justicia"]
+tags: ["startups", "gobierno"]
 ---
 
 ## El multimillonario que no vio venir la estafa

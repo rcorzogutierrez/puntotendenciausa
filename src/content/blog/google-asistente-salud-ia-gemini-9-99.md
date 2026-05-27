@@ -4,7 +4,7 @@ description: "Google lanza su entrenador de salud impulsado por Gemini el 19 de 
 pubDate: "2026-05-08"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1738523686514-4b6819db42ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMGhlYWx0aCUyMGNvYWNoaW5nJTIwZml0bmVzcyUyMHdlbGxuZXNzfGVufDF8MHx8fDE3NzgyNDM0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Google Gemini", "salud digital", "IA wellness", "aplicaciones de salud", "tecnología médica"]
+tags: ["google", "ia-generativa", "salud-digital"]
 ---
 
 Google está a punto de revolucionar cómo cuidamos nuestra salud. El próximo 19 de mayo, la empresa lanzará su entrenador de salud impulsado por Gemini con un precio accesible: solo $9.99 al mes. Esto significa que millones de latinos en Estados Unidos tendrán acceso a un coach personal disponible 24/7 en sus bolsillos.

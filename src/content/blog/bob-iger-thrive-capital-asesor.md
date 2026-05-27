@@ -4,7 +4,7 @@ description: "El ex CEO de Disney se une a Thrive Capital como asesor. Conoce c�
 pubDate: "2026-04-25"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1735469157670-1212e570eadc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbCUyMGFkdmlzb3IlMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3NzcxMjAxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["venture capital", "Disney", "Bob Iger", "inversión tecnológica", "startups"]
+tags: ["startups", "streaming", "creadores"]
 ---
 
 ## El regreso de Bob Iger al mundo del capital de riesgo

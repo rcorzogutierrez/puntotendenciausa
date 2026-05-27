@@ -4,7 +4,7 @@ description: "Bond es la nueva red social que usa inteligencia artificial para c
 pubDate: "2026-04-22"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1695806109247-096650eccc03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMHdlbGxuZXNzJTJDJTIwZGlnaXRhbCUyMGRldG94JTIwbW90aXZhdGlvbnxlbnwxfDB8fHwxNzc2ODYxMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["redes sociales", "inteligencia artificial", "bienestar digital", "doomscrolling", "apps motivacionales"]
+tags: ["redes-sociales", "ia-generativa", "productividad"]
 ---
 
 La industria de redes sociales tiene un problema que todos conocemos: pasamos demasiado tiempo pegados a la pantalla sin darnos cuenta. Mientras Instagram, TikTok y X compiten por cada segundo de nuestra atención, surge una plataforma completamente diferente que quiere lo opuesto: que abandones la app y disfrutes la vida real.

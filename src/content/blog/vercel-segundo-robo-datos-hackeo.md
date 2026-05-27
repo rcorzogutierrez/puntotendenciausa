@@ -4,7 +4,7 @@ description: "Vercel descubre un segundo compromiso de cuentas tras ampliar su i
 pubDate: "2026-04-24"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1667372283496-893f0b1e7c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYnJlYWNoJTIwc2VjdXJpdHklMjBzZXJ2ZXJ8ZW58MXwwfHx8MTc3NzAzMzc5N3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["ciberseguridad", "vercel", "robo de datos", "hackeo", "startups tech"]
+tags: ["ciberseguridad", "privacidad", "startups"]
 ---
 
 Si eres desarrollador o tienes una startup alojada en Vercel, hay noticias que debes escuchar. La plataforma de hosting acaba de confirmar algo que nadie quería oír: los hackers no solo atacaron en abril, sino que antes de eso ya habían accedido a datos de clientes.

@@ -4,7 +4,7 @@ description: "Sequoia Capital levanta $7 mil millones bajo nuevo liderazgo con A
 pubDate: "2026-04-18"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1593510987459-9a1489817a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbCUyMGludmVzdG1lbnQlMjBtZWV0aW5nfGVufDF8MHx8fDE3NzY1MTU0MDB8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["venture capital", "sequoia capital", "financiamiento IA", "startups tech", "inversión"]
+tags: ["startups", "ia-generativa", "ipo"]
 ---
 
 Sequoia Capital, el fondo de inversión más legendario de Silicon Valley, acaba de cerrar su mayor recaudación de capital en años. Con $7 mil millones en el bolsillo, la firma de 54 años está marcando un nuevo capítulo bajo el liderazgo de Alfred Lin y Pat Grady, quienes asumen como co-stewards (co-guardianes) de esta institución que ha invertido en empresas como Apple, Google, Airbnb y PayPal.

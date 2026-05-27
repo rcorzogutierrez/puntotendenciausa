@@ -4,7 +4,7 @@ description: "El cantante Grammy nominado Aloe Blacc intenta financiar investiga
 pubDate: "2026-04-15"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1631557676757-fcc7b1160be8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMGFydGlzdCUyMGlubm92YXRpb24lMjBzY2llbmNlJTIwbGFiJTIwcmVzZWFyY2h8ZW58MXwwfHx8MTc3NjI5OTM5N3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["biotech", "startups", "cáncer", "investigación médica", "emprendimiento", "innovación"]
+tags: ["ciencia", "salud-digital", "startups"]
 ---
 
 Cuando el cantante Aloe Blacc contrajo COVID a pesar de estar completamente vacunado y reforzado, no hizo lo que hace la mayoría: simplemente lidiar con ello. En su lugar, decidió hacer lo que muchos artistas con dinero intentan en momentos de frustración: financiar la solución él mismo.

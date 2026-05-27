@@ -4,7 +4,7 @@ description: "Google lanza AI Studio, herramienta web que genera apps Android na
 pubDate: "2026-05-19"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1685062428514-2164290b3322?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhbmRyb2lkJTIwYXBwJTIwZGV2ZWxvcG1lbnQlMjBhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDF8MHx8fDE3NzkyMzcwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA generativa", "desarrollo de apps", "Android", "Google", "tecnología sin código"]
+tags: ["google", "ia-generativa", "productividad"]
 ---
 
 Google acaba de cambiar las reglas del juego del desarrollo móvil. Su nuevo AI Studio permite que cualquier persona, aunque nunca haya tocado una línea de código, pueda crear apps Android nativas en cuestión de minutos. Sí, leíste bien: *minutos*.

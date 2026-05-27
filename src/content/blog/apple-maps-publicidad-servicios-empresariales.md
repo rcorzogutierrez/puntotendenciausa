@@ -4,7 +4,7 @@ description: "Apple lanzará anuncios en Maps este verano en EE.UU. y Canadá. D
 pubDate: "2026-03-24"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1653898684266-aeeb2d85f8e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwYWR2ZXJ0aXNpbmclMjBtYXAlMjBhcHAlMjBuYXZpZ2F0aW9ufGVufDF8MHx8fDE3NzQzOTY3NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Apple Maps", "publicidad digital", "servicios empresariales", "monetización", "tecnología"]
+tags: ["apple", "startups", "productividad"]
 ---
 
 Apple Maps está a punto de cambiar. La compañía que durante años se resistió a incluir anuncios en sus mapas finalmente cedió a la tentación de la publicidad. Este verano, usuarios en Estados Unidos y Canadá comenzarán a ver anuncios mientras buscan direcciones, restaurantes o negocios en la app.

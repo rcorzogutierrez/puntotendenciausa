@@ -4,7 +4,7 @@ description: "Bluesky confirma ataque DDoS como causa de sus interrupciones de s
 pubDate: "2026-04-18"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1751448555253-f39c06e29d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxERG9TJTIwYXR0YWNrJTIwY3liZXIlMjBzZWN1cml0eSUyMG5ldHdvcmt8ZW58MXwwfHx8MTc3NjU1ODU5N3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Bluesky", "ciberataques", "DDoS", "redes sociales", "seguridad digital"]
+tags: ["ciberseguridad", "redes-sociales"]
 ---
 
 La red social Bluesky confirmó lo que muchos usuarios sospechaban: un ataque DDoS (denegación de servicio distribuido) fue responsable de las interrupciones de servicio que comenzaron poco antes de las 3 a.m. ET el 15 de abril. La plataforma que se posicionó como alternativa a X tras los cambios de Elon Musk ha tenido un fin de semana complicado.

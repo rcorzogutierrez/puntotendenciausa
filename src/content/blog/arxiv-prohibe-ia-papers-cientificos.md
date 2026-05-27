@@ -4,7 +4,7 @@ description: "ArXiv intensifica su lucha contra el uso descuidado de modelos de 
 pubDate: "2026-05-19"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwc2NpZW50aWZpYyUyMHJlc2VhcmNofGVufDF8MHx8fDE3NzkxOTM4MDN8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["inteligencia artificial", "ciencia", "arxiv", "papers científicos", "ética ia"]
+tags: ["ia-generativa", "ciencia", "gobierno"]
 ---
 
 El repositorio de investigación científica ArXiv está endureciendo sus políticas contra el uso negligente de grandes modelos de lenguaje en artículos académicos. Y no es un simple aviso amistoso: los autores que dejen que la IA haga todo el trabajo enfrentarán una prohibición de un año en la plataforma.

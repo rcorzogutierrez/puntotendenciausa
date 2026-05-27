@@ -4,7 +4,7 @@ description: "La Sección 702 expira en abril. Descubre qué significa para tu p
 pubDate: "2026-04-19"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1628422537562-0980980f52a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzdXJ2ZWlsbGFuY2UlMjBwcml2YWN5JTIwZ292ZXJubWVudCUyMGRhdGF8ZW58MXwwfHx8MTc3NjYwMTc5Nnww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["privacidad", "vigilancia", "seguridad digital", "derechos civiles", "gobierno"]
+tags: ["privacidad", "gobierno", "defensa"]
 ---
 
 ## El reloj de la privacidad está corriendo

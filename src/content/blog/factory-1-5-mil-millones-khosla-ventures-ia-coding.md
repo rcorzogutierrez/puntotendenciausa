@@ -4,7 +4,7 @@ description: "Factory levanta $150M liderados por Khosla Ventures para revolucio
 pubDate: "2026-04-17"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1775994121052-7e653711f72c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMHNvZnR3YXJlJTIwZGV2ZWxvcG1lbnQlMjBjb2RpbmclMjBhdXRvbWF0aW9ufGVufDF8MHx8fDE3NzY0NzIxOTl8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["startups de IA", "desarrollo de software", "venture capital", "transformación empresarial", "inteligencia artificial"]
+tags: ["startups", "ia-generativa", "agentes-ia"]
 ---
 
 Factory acaba de entrar al club de los unicornios multimillonarios, y con un movimiento que muestra exactamente hacia dónde se dirige el dinero en Silicon Valley: la automatización de la codificación empresarial.

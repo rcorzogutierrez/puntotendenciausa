@@ -4,7 +4,7 @@ description: "Uber abandona su modelo de plataforma y apuesta millones en robots
 pubDate: "2026-04-20"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1774031528911-608cd7a0cc70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhdXRvbm9tb3VzJTIwdGF4aSUyMHJvYm90YXhpJTIwZnV0dXJlfGVufDF8MHx8fDE3NzY3MzEzOTl8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Uber", "Vehículos autónomos", "Inteligencia artificial", "Transporte", "Startups"]
+tags: ["robots", "ia-generativa", "startups"]
 ---
 
 ## El giro radical de Uber que nadie esperaba

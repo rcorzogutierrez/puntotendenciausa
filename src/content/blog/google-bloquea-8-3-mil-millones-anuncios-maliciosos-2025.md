@@ -4,7 +4,7 @@ description: "Google bloqueó 8.3 mil millones de anuncios maliciosos en 2025 pe
 pubDate: "2026-04-17"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1762330464824-21e95b769038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwYWR2ZXJ0aXNpbmclMjBzZWN1cml0eSUyQyUyMG1hbGljaW91cyUyMGFkcyUyMGJsb2NraW5nfGVufDF8MHx8fDE3NzY0MjkwMDN8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["publicidad digital", "seguridad en línea", "Google", "fraude online", "protección de usuarios"]
+tags: ["google", "ciberseguridad", "privacidad"]
 ---
 
 ## Google intensifica la guerra contra los anuncios maliciosos

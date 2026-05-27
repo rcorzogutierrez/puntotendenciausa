@@ -4,7 +4,7 @@ description: "Google lanza Fitbit Air, un dispositivo sin pantalla tipo Whoop qu
 pubDate: "2026-05-07"
 category: "Gadgets"
 heroImage: "https://images.unsplash.com/photo-1772683709326-134a6a4635d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx3ZWFyYWJsZSUyMGhlYWx0aCUyMHRyYWNraW5nJTIwaGVhcnQlMjBtb25pdG9yfGVufDF8MHx8fDE3NzgyMDAyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Fitbit", "wearables", "salud", "dispositivos sin pantalla", "monitoreo cardíaco"]
+tags: ["google", "wearables", "salud-digital"]
 ---
 
 Google acaba de presentar algo que muchos esperaban: un dispositivo de salud sin pantalla que compite directamente con Whoop. Se llama Fitbit Air y promete ser el compañero perfecto para quien quiere monitoreo de salud sin distracciones de pantalla.

@@ -4,7 +4,7 @@ description: "OpenAI explora acciones legales contra Apple por fracaso de integr
 pubDate: "2026-05-15"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1609692814858-f7cd2f0afa4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxsZWdhbCUyMGRpc3B1dGUlMjB0ZWNobm9sb2d5JTIwY29tcGFuaWVzJTJDJTIwQXBwbGUlMjBpUGhvbmV8ZW58MXwwfHx8MTc3ODg5MTM5OXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["OpenAI", "Apple", "demanda legal", "ChatGPT", "Silicon Valley"]
+tags: ["openai", "apple", "ia-generativa"]
 ---
 
 ## Cuando los gigantes tech chocan

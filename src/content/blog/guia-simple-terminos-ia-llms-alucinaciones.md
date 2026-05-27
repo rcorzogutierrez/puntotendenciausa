@@ -4,7 +4,7 @@ description: "Aprende qué significan los términos más comunes de inteligencia
 pubDate: "2026-04-13"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwZ2xvc3NhcnklMjBsZWFybmluZ3xlbnwxfDB8fHwxNzc2MTI2NjAwfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA", "glosario", "tecnología", "educación digital", "términos tech"]
+tags: ["ia-generativa", "modelos-ia", "productividad"]
 ---
 
 La inteligencia artificial está por todas partes y con ella vino un tsunami de palabras nuevas que a veces parecen sacadas de una película de ciencia ficción. Si alguna vez escuchaste términos como "LLM", "hallucinations" o "prompt engineering" y pensaste "¿qué onda con esto?", no estás solo. La mayoría de los latinos que llegamos a USA hace poco nos encontramos con esta jerga sin advertencia previa.

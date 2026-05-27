@@ -4,7 +4,7 @@ description: "Google presenta actualizaciones clave para Gemini en I/O 2026, tra
 pubDate: "2026-05-20"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1775440285627-ce48346bc58c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMGNoYXRib3QlMjBpbnRlcmZhY2UlMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3NzkyODAyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Google Gemini", "ChatGPT", "IA generativa", "Google I/O 2026", "Claude"]
+tags: ["google", "ia-generativa", "modelos-ia"]
 ---
 
 Google acaba de mostrar sus cartas en I/O 2026, y esta vez no vienen solo a competir: vienen a dominar. La compañía presentó actualizaciones significativas para su app Gemini que marcan un giro estratégico importante: convertir una herramienta de chatbot en un ecosistema completo de inteligencia artificial.

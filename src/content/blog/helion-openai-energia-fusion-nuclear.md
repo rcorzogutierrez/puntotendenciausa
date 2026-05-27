@@ -4,7 +4,7 @@ description: "Sam Altman abandona su cargo en Helion mientras negocia vender el 
 pubDate: "2026-03-23"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1200&q=80"
-tags: ["energía nuclear", "OpenAI", "Helion", "fusión", "data centers IA"]
+tags: ["openai", "energia", "ciencia"]
 ---
 
 Sam Altman acaba de dar un paso estratégico que nadie vio venir. El CEO de OpenAI se está retirando de su puesto como presidente de la junta directiva de Helion, la startup de fusión nuclear que respalda. Pero esto no es un abandono cualquiera: es parte de un acuerdo comercial mucho más grande donde Helion estaría negociando vender el 12.5% de su producción energética directamente a OpenAI.

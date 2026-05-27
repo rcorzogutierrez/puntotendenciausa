@@ -4,7 +4,7 @@ description: "Doss levanta $55 millones en Serie B para su sistema de gestión d
 pubDate: "2026-03-25"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx3YXJlaG91c2UlMjBhdXRvbWF0aW9uJTIwdGVjaG5vbG9neSUyQyUyMGludmVudG9yeSUyMG1hbmFnZW1lbnQlMjBzeXN0ZW0lMkMlMjBzdXBwbHklMjBjaGFpbnxlbnwxfDB8fHwxNzc0NDE3Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA empresarial", "gestión de inventario", "ERP", "startups tech", "automatización"]
+tags: ["ia-generativa", "startups", "productividad"]
 ---
 
 La startup Doss acaba de asegurar $55 millones en su ronda Serie B, y no es para menos. La empresa ha desarrollado una solución de gestión de inventario impulsada por inteligencia artificial que promete revolucionar cómo las empresas manejan sus operaciones logísticas sin necesidad de reemplazar sus sistemas existentes.

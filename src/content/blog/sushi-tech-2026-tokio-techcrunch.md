@@ -4,7 +4,7 @@ description: "SusHi Tech 2026 reúne en Tokio lo mejor en IA, robótica, ciberse
 pubDate: "2026-04-13"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1625633605176-7a8b6b491eb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxUb2t5byUyMHRlY2glMjBjb25mZXJlbmNlJTIwc3RhcnR1cCUyMHJvYm90c3xlbnwxfDB8fHwxNzc2MDgzNDAxfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["startup", "tecnología", "IA", "robótica", "Asia"]
+tags: ["startups", "ia-generativa", "robots"]
 ---
 
 TechCrunch se muda a Tokio este año y se lleva con él uno de los eventos más esperados de la industria tech: **SusHi Tech 2026**. Si eres emprendedor, inversionista o simplemente alguien fascinado por el futuro de la tecnología, este es el lugar donde todo está pasando ahora mismo.

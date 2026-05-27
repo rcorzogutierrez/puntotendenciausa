@@ -4,7 +4,7 @@ description: "WhatsApp estrena respuestas generadas por IA, edición de fotos co
 pubDate: "2026-03-27"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMG1lc3NhZ2luZyUyMGNoYXQlMjByZXNwb25zZXN8ZW58MXwwfHx8MTc3NDYxNDE5Nnww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["WhatsApp", "Meta AI", "mensajería", "inteligencia artificial", "productividad"]
+tags: ["meta", "ia-generativa", "productividad"]
 ---
 
 WhatsApp acaba de convertirse en tu asistente de escritura personal. Meta, la empresa detrás de la app de mensajería más usada en el mundo, lanzó una serie de funciones impulsadas por inteligencia artificial que van a cambiar cómo escribes mensajes, editas fotos y liberas espacio en tu teléfono.

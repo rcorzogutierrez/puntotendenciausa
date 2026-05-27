@@ -4,7 +4,7 @@ description: "Cerebras Systems fue el mayor IPO tech de 2026, pero años atrás 
 pubDate: "2026-05-18"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzZW1pY29uZHVjdG9yJTIwdGVjaG5vbG9neSUyMGlubm92YXRpb258ZW58MXwwfHx8MTc3OTE1MDYwNXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["cerebras", "chips de IA", "startups tech", "IPO", "semiconductores"]
+tags: ["ipo", "hardware", "startups"]
 ---
 
 Cerebras Systems acaba de cerrar el mayor IPO tecnológico de 2026. Pero lo que pocos saben es que hace apenas unos años, esta startup estaba al borde del colapso, quemando $8 millones de dólares cada mes en el desarrollo de un chip que la mayoría de la industria consideraba imposible de crear.

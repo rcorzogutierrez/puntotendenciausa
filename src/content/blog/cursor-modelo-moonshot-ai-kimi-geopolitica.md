@@ -4,7 +4,7 @@ description: "Cursor revela que su modelo de código se construyó sobre Kimi de
 pubDate: "2026-03-23"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80"
-tags: ["IA", "Cursor", "Moonshot AI", "geopolítica tech", "herramientas de desarrollo"]
+tags: ["ia-generativa", "modelos-ia", "open-source"]
 ---
 
 Cursor acaba de abrir una caja de Pandora que nadie esperaba. La popular herramienta de codificación impulsada por IA confesó que su nuevo modelo de código fue construido sobre Kimi, el modelo de inteligencia artificial de Moonshot AI, una startup china. Y sí, en plena era de tensiones geopolíticas entre Estados Unidos y China, esto se siente como lanzar un fósforo en una gasolinera.

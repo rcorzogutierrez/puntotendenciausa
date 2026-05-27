@@ -4,7 +4,7 @@ description: "Rapido alcanza valoración de $3 mil millones tras recaudar $240 m
 pubDate: "2026-05-16"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1711358876889-ed28e5594e2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxtb3RvcmN5Y2xlJTIwdGF4aSUyMEluZGlhJTIwdHJhbnNwb3J0YXRpb258ZW58MXwwfHx8MTc3ODk3NzgwMXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["startups", "transporte", "india", "uber rival", "movilidad urbana"]
+tags: ["startups", "hardware"]
 ---
 
 En India, la batalla por dominar el transporte urbano se intensifica. Rapido acaba de cerrar una ronda de financiamiento de $240 millones, alcanzando una valoración de $3 mil millones. Para ponerlo en contexto: es el segundo startup indio de tecnología más valioso después de Byju's, y demuestra que el mercado de la movilidad en Asia sigue siendo una mina de oro para inversores.

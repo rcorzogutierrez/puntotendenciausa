@@ -4,7 +4,7 @@ description: "SpeakON es un dispositivo de $129 que se adhiere a tu iPhone con M
 pubDate: "2026-04-27"
 category: "Gadgets"
 heroImage: "https://images.unsplash.com/photo-1473188951313-a1909741328e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjBtaWNyb3Bob25lJTIwdHJhbnNjcmlwdGlvbiUyMGRldmljZXxlbnwxfDB8fHwxNzc3MzM2MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["transcripción", "iPhone", "productividad", "accesorios", "MagSafe"]
+tags: ["gadgets", "productividad", "ia-generativa"]
 ---
 
 Si trabajas mucho con notas, mensajes o documentos, sabes lo frustrante que es escribir en tu teléfono. SpeakON promete simplificar esto con un pequeño dispositivo que se magnetiza al dorso de tu iPhone para capturar todo lo que digas.

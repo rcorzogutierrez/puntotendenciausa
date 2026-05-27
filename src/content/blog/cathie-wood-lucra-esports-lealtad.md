@@ -4,7 +4,7 @@ description: "Cathie Wood y ARK Invest apuestan por Lucra, startup de programas 
 pubDate: "2026-04-22"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1695462131540-5e91d57a2e51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxsb3lhbHR5JTIwcHJvZ3JhbSUyMGdhbWlmaWNhdGlvbiUyMGNvcnBvcmF0ZXxlbnwxfDB8fHwxNzc2OTA0MjAwfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["cathie wood", "ark invest", "startups", "gamificación", "programas de lealtad"]
+tags: ["startups", "gaming", "streaming"]
 ---
 
 Cathie Wood acaba de hacer algo que nadie esperaba: invertir en una startup que no tiene nada que ver con inteligencia artificial. En un mercado obsesionado con la IA, la gurú del venture capital decidió apostar por Lucra, una plataforma que reimagina los programas de lealtad corporativos como videojuegos interactivos.

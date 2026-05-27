@@ -4,7 +4,7 @@ description: "Google presenta Lyria 3 Pro, su modelo de generación musical mejo
 pubDate: "2026-03-26"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1200&q=80"
-tags: ["IA música", "Google Lyria", "generación de audio", "Gemini", "creatividad digital"]
+tags: ["google", "ia-generativa", "creadores"]
 ---
 
 Google acaba de dar otro paso gigante en el mundo de la inteligencia artificial musical. Lyria 3 Pro es el nuevo modelo que promete cambiar cómo los músicos, productores y creadores generan música usando IA. Y no, no estamos hablando de un juguete digital más.

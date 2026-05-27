@@ -4,7 +4,7 @@ description: "La administración Trump ordena a viajeros en Air Force One descar
 pubDate: "2026-05-17"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxkaXBsb21hdGljJTIwZ2lmdHMlMjBlc3Bpb25hZ2UlMjBzZWN1cml0eXxlbnwxfDB8fHwxNzc5MDY0MTk5fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["seguridad", "espionaje", "Trump", "China", "diplomacia"]
+tags: ["gobierno", "ciberseguridad", "defensa"]
 ---
 
 La administración Trump tomó una decisión inusual después de un viaje diplomático a China: ordené a todos los viajeros que regresaban en Air Force One descartar regalos, pins y teléfonos de prepago. Suena como una película de espías, pero la preocupación es totalmente real.

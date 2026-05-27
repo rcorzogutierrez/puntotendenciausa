@@ -4,7 +4,7 @@ description: "OpenAI cierra su función de compra directa en ChatGPT. Descubre p
 pubDate: "2026-03-25"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1644984875410-e11486d2b94f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMHNob3BwaW5nJTIwY2hlY2tvdXQlMjBpbnRlcmZhY2UlMkMlMjBkaWdpdGFsJTIwY29tbWVyY2V8ZW58MXwwfHx8MTc3NDQ0NjIxMXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["ChatGPT", "OpenAI", "comercio electrónico", "IA", "tecnología"]
+tags: ["openai", "ia-generativa", "amazon"]
 ---
 
 OpenAI está dando marcha atrás en uno de sus experimentos más ambiciosos: convertir ChatGPT en una plataforma de compras. La compañía anunció que eliminará su función "Instant Checkout", que permitía a los usuarios comprar productos directamente desde la interfaz del chatbot sin salir de la conversación.

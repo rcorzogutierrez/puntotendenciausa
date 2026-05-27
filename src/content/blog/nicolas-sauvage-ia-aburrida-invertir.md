@@ -4,7 +4,7 @@ description: "Nicolas Sauvage invierte en tecnologías de IA que parecen aburrid
 pubDate: "2026-05-05"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1593510987459-9a1489817a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbCUyMHRlY2hub2xvZ3klMjBpbnZlc3Rpbmd8ZW58MXwwfHx8MTc3Nzk4NDIwMXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["inversión en IA", "venture capital", "tecnología práctica", "startups rentables", "infraestructura de IA"]
+tags: ["ia-generativa", "startups", "hardware"]
 ---
 
 ## El inversor que rechaza el hype

@@ -4,7 +4,7 @@ description: "Richard Socher recauda $650M para crear una IA que se investigue y
 pubDate: "2026-05-16"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzZWxmLWltcHJvdmluZyUyMGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2UlMjByZXNlYXJjaHxlbnwxfDB8fHwxNzc4OTM0NjAyfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA autónoma", "startups de IA", "investigación automática", "futuro de la IA", "Richard Socher"]
+tags: ["ia-generativa", "modelos-ia", "startups"]
 ---
 
 ## La apuesta más ambiciosa de Silicon Valley

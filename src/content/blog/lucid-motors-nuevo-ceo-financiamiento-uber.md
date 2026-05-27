@@ -4,7 +4,7 @@ description: "Lucid Motors finalmente encuentra nuevo CEO tras la renuncia de Pe
 pubDate: "2026-04-15"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1696276938528-03d176b24520?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGNhciUyMGx1eHVyeSUyMHZlaGljbGV8ZW58MXwwfHx8MTc3NjI1NjE5N3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Lucid Motors", "vehículos eléctricos", "startup automotriz", "financiamiento", "CEO"]
+tags: ["startups", "hardware"]
 ---
 
 Después de más de un año buscando reemplazo, Lucid Motors finalmente encontró su nuevo CEO. La búsqueda comenzó cuando Peter Rawlinson renunció de forma repentina, dejando a la startup de autos eléctricos en un momento crítico. Ahora, con liderazgo renovado y respaldo financiero de gigantes como Uber y el Fondo Soberano de Inversión Saudí, la empresa vuelve a la ofensiva.

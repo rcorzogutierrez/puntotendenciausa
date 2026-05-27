@@ -4,7 +4,7 @@ description: "Tim Cook deja la dirección de Apple en su mejor momento financier
 pubDate: "2026-05-03"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1759496434659-156333b25142?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGV4ZWN1dGl2ZSUyMGxlYWRlcnNoaXAlMjB0cmFuc2l0aW9uJTIwdGVjaG5vbG9neXxlbnwxfDB8fHwxNzc3ODU0NjAxfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Apple", "Tim Cook", "Supply Chain", "Semiconductor", "Tecnología"]
+tags: ["apple", "hardware", "ia-generativa"]
 ---
 
 Después de 14 años al frente de Apple, Tim Cook se retira dejando un legado impresionante: récords de ventas históricos y una empresa valuada en billones. Pero antes de irse, lanzó una advertencia que mantiene despiertos a los ejecutivos de Cupertino: la escasez de RAM que podría golpear los negocios en los próximos meses.

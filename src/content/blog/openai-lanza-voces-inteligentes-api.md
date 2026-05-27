@@ -4,7 +4,7 @@ description: "OpenAI presenta nuevas funciones de inteligencia de voz en su API.
 pubDate: "2026-05-08"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1760087616415-62270db23966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHx2b2ljZSUyMEFJJTIwdGVjaG5vbG9neSUyMGFzc2lzdGFudHxlbnwxfDB8fHwxNzc4Mjg2NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["OpenAI", "API de voz", "servicio al cliente", "IA conversacional", "tecnología empresarial"]
+tags: ["openai", "ia-generativa", "agentes-ia"]
 ---
 
 OpenAI acaba de lanzar nuevas funciones de inteligencia de voz en su API, y esto podría cambiar radicalmente cómo interactuamos con los sistemas automatizados. No estamos hablando de simples chatbots de voz, sino de tecnología que comprende matices, emociones y contexto en conversaciones reales.

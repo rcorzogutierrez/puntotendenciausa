@@ -4,7 +4,7 @@ description: "Granola recauda $125M y alcanza valoración de $1.5B. La plataform
 pubDate: "2026-03-26"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1743385779313-ac03bb0f997b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMG1lZXRpbmclMjBub3RlcyUyMGJ1c2luZXNzJTIwcHJvZHVjdGl2aXR5fGVufDF8MHx8fDE3NzQ1MDM2OTB8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Granola", "IA empresarial", "startup", "notas inteligentes", "agentes IA"]
+tags: ["startups", "ia-generativa", "agentes-ia"]
 ---
 
 ## De app de notas a potencia empresarial

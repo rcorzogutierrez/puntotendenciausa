@@ -4,7 +4,7 @@ description: "Trump despliega agentes de ICE en aeropuertos para reducir demoras
 pubDate: "2026-03-23"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1720526771182-c1b78407f1e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhaXJwb3J0JTIwc2VjdXJpdHklMjBJQ0UlMjBhZ2VudHN8ZW58MXwwfHx8MTc3NDI5MTM4NHww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["inmigración", "seguridad", "Trump", "aeropuertos", "ICE"]
+tags: ["gobierno", "privacidad"]
 ---
 
 La administración Trump ha tomado una decisión que tiene a miles de viajeros nerviosos: desplegar agentes de Inmigración y Control de Aduanas (ICE) en más de una docena de aeropuertos estadounidenses. El motivo oficial es ayudar a aliviar los retrasos en las filas de seguridad causados por el cierre federal en curso. Pero lo que está sucediendo en realidad es mucho más complicado.

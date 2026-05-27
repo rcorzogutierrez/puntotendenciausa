@@ -4,7 +4,7 @@ description: "Jensen Huang presentó el futuro de Nvidia en GTC 2026. Descubre q
 pubDate: "2026-03-23"
 category: "Tecnología"
 heroImage: "https://images.unsplash.com/photo-1662947683395-1ce33bdcd094?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxOdmlkaWElMjBKZW5zZW4lMjBIdWFuZyUyMEdUQyUyMGNvbmZlcmVuY2V8ZW58MXwwfHx8MTc3NDI5MDc2MXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Nvidia", "IA", "chips", "GTC 2026", "tecnología"]
+tags: ["nvidia", "ia-generativa", "hardware"]
 ---
 
 La conferencia GTC de Nvidia es uno de esos eventos que define la conversación tech durante semanas. Este año, Jensen Huang no defraudó. En el escenario, el CEO de la empresa más valiosa del mundo presentó una visión que va mucho más allá de vender chips. Pero aquí está la pregunta importante: ¿qué significa todo esto para ti y para el futuro de la inteligencia artificial?

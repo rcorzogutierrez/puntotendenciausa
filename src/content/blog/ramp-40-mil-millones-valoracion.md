@@ -4,7 +4,7 @@ description: "Ramp busca recaudar $750M más para alcanzar valoración de $40 mi
 pubDate: "2026-05-09"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGZpbmFuY2UlMjBzb2Z0d2FyZSUyMGRhc2hib2FyZHxlbnwxfDB8fHwxNzc4MzI5Nzk3fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["fintech", "startup", "inversión", "valoración", "recaudación"]
+tags: ["startups", "ipo"]
 ---
 
 ## El ascenso imparable de Ramp

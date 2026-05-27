@@ -4,7 +4,7 @@ description: "Investigadores descubren que hackers usan vulnerabilidades sin par
 pubDate: "2026-04-19"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1768839721176-2fa91fdce725?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxjeWJlciUyMHNlY3VyaXR5JTIwYXR0YWNrJTIwY29tcHV0ZXJ8ZW58MXwwfHx8MTc3NjY0NDk5OXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Windows", "seguridad", "hackers", "vulnerabilidades", "ciberataques", "protección"]
+tags: ["microsoft", "ciberseguridad", "privacidad"]
 ---
 
 Un investigador de seguridad acaba de publicar detalles sobre tres vulnerabilidades críticas en Windows Defender, incluyendo el código exacto para explotarlas. Lo malo: los hackers ya están usando esta información en ataques reales contra organizaciones.

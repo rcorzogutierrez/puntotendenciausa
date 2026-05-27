@@ -4,7 +4,7 @@ description: "Exaforce cierra ronda Serie B de $125 millones con valoración de 
 pubDate: "2026-05-13"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1751448555253-f39c06e29d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwQUklMjB0aHJlYXQlMjBkZXRlY3Rpb258ZW58MXwwfHx8MTc3ODY3NTQwM3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["ciberseguridad", "inteligencia artificial", "startups", "defensa digital", "ataques cibernéticos"]
+tags: ["ciberseguridad", "ia-generativa", "startups"]
 ---
 
 Los ciberataques no duermen. Mientras lees esto, miles de hackers están probando vulnerabilidades en software empresarial, buscando la grieta perfecta para entrar. Y ahora lo hacen más rápido que nunca porque usan inteligencia artificial para automatizar el ataque.

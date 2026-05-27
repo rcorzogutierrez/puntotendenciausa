@@ -4,7 +4,7 @@ description: "Sony y Honda cancelan su asociación para desarrollar los sedanes 
 pubDate: "2026-03-25"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1619426468047-2d7e0754ddf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMHZlaGljbGUlMjBkZXZlbG9wbWVudCUyQyUyMGF1dG9tb3RpdmUlMjBwYXJ0bmVyc2hpcHxlbnwxfDB8fHwxNzc0NDcxOTUxfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["autos eléctricos", "Sony", "Honda", "vehículos autónomos", "industria automotriz"]
+tags: ["hardware", "startups"]
 ---
 
 ## El fin de una asociación millonaria

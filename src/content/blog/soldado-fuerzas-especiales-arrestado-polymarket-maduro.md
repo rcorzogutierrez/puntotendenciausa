@@ -4,7 +4,7 @@ description: "Autoridades detienen a militar que presuntamente usó información
 pubDate: "2026-04-24"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1521726115272-cb0605cf7b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzb2xkaWVyJTIwY2xhc3NpZmllZCUyMG1pbGl0YXJ5JTIwaW52ZXN0aWdhdGlvbnxlbnwxfDB8fHwxNzc3MDc3MDAwfDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["polymarket", "seguridad militar", "apuestas predicciones", "información clasificada", "fuerzas especiales"]
+tags: ["gobierno", "defensa", "privacidad"]
 ---
 
 Un soldado de las fuerzas especiales estadounidenses fue arrestado bajo acusaciones de haber utilizado información clasificada del gobierno para realizar apuestas en Polymarket, la plataforma de mercados de predicción. El caso revela un agujero inquietante en la seguridad nacional: cómo funcionarios con acceso a secretos de defensa podrían estar lucrando con esa información privilegiada.

@@ -4,7 +4,7 @@ description: "OpenAI detiene Sora ante presión regulatoria. Meta enfrenta derro
 pubDate: "2026-03-29"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1772695648965-1abdf9eb6b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwcmVndWxhdGlvbiUyMHRlY2hub2xvZ3l8ZW58MXwwfHx8MTc3NDc4Njk5OXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["OpenAI", "Meta", "regulación IA", "infraestructura tecnológica", "derecho digital"]
+tags: ["openai", "meta", "ia-generativa"]
 ---
 
 ## El freno a la IA es más real que nunca

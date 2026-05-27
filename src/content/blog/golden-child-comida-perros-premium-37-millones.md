@@ -4,7 +4,7 @@ description: "Golden Child lanza alimento premium para perros con comidas congel
 pubDate: "2026-04-29"
 category: "Startups"
 heroImage: "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=1200&q=80"
-tags: ["mascotas", "startup", "lujo", "inversión", "emprendimiento"]
+tags: ["startups", "creadores"]
 ---
 
 Mientras Silicon Valley se obsesiona con la inteligencia artificial y los robotaxis, hay una nueva clase de emprendedores que encontraron un nicho mucho más rentable: el bolsillo de los dueños de perros millonarios.

@@ -4,7 +4,7 @@ description: "DeleteMe adquiere Block Party, la herramienta de seguridad que Tra
 pubDate: "2026-03-26"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1652957109553-1d3fed77d876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMHNhZmV0eSUyMGhhcmFzc21lbnQlMjBwcm90ZWN0aW9ufGVufDF8MHx8fDE3NzQ1MzI2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["privacidad digital", "seguridad en redes", "acoso cibernético", "protección online", "startups tech"]
+tags: ["privacidad", "ciberseguridad", "startups"]
 ---
 
 ## La historia detrás de Block Party

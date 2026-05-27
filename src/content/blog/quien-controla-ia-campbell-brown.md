@@ -4,7 +4,7 @@ description: "Campbell Brown, exjefa de noticias de Meta, revela la brecha entre
 pubDate: "2026-05-14"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBSSUyMHRlY2hub2xvZ3klMjBkZWNpc2lvbiUyMG1ha2luZ3xlbnwxfDB8fHwxNzc4ODA1MDA0fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["IA", "Silicon Valley", "regulación", "consumidores", "Meta", "tecnología"]
+tags: ["meta", "ia-generativa", "gobierno"]
 ---
 
 ## El dilema invisible de la inteligencia artificial

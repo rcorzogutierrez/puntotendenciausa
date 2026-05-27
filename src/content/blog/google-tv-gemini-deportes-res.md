@@ -4,7 +4,7 @@ description: "Google TV integra tres nuevas funciones de Gemini para seguir tus 
 pubDate: "2026-03-25"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1597649475360-955f18d9d277?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxzbWFydCUyMFRWJTIwYXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMHNwb3J0c3xlbnwxfDB8fHwxNzc0NDQ2MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Google TV", "Gemini", "deportes", "streaming", "IA en casa"]
+tags: ["google", "streaming", "ia-generativa"]
 ---
 
 Google está llevando la inteligencia artificial directamente a tu sala de estar. La compañía acaba de anunciar tres nuevas funciones impulsadas por Gemini que llegarán a Google TV, y si eres fan de los deportes, esto te va a encantar.

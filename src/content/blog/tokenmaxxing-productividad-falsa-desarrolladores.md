@@ -4,7 +4,7 @@ description: "Los desarrolladores generan más código con IA, pero cuesta más 
 pubDate: "2026-04-20"
 category: "Inteligencia Artificial"
 heroImage: "https://images.unsplash.com/photo-1629905679177-4c4e2623654f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZXIlMjB3b3JraW5nJTIwY29tcHV0ZXIlMjBjb2Rpbmd8ZW58MXwwfHx8MTc3NjY4ODE5NXww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["productividad", "desarrolladores", "IA", "eficiencia", "costos"]
+tags: ["productividad", "ia-generativa"]
 ---
 
 ## La paradoja del código abundante

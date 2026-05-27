@@ -4,7 +4,7 @@ description: "Descubre cómo Tim Cook revolucionó Apple desde 2011 y qué desaf
 pubDate: "2026-04-28"
 category: "Negocios"
 heroImage: "https://images.unsplash.com/photo-1722537273895-b35dfbd273ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGhlYWRxdWFydGVycyUyMGlubm92YXRpb24lMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3NzczNzk0MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["Tim Cook", "Apple", "liderazgo empresarial", "transición ejecutiva", "tecnología"]
+tags: ["apple", "startups"]
 ---
 
 Cuando Tim Cook asumió como CEO de Apple en 2011, nadie sabía exactamente qué esperar. Steve Jobs había dejado un legado casi imposible de igualar, pero Cook no intentó ser Jobs. En su lugar, construyó algo diferente: una máquina de precisión empresarial que convirtió a Apple en la compañía más valiosa del mundo.

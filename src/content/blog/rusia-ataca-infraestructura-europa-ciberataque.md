@@ -4,7 +4,7 @@ description: "Suecia alerta sobre ataques cibernéticos rusos contra infraestruc
 pubDate: "2026-04-16"
 category: "Ciberseguridad"
 heroImage: "https://images.unsplash.com/photo-1752742111841-f490c48aa668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTQxNDd8MHwxfHNlYXJjaHwxfHxjeWJlciUyMGF0dGFjayUyMGluZnJhc3RydWN0dXJlJTIwc2VjdXJpdHl8ZW58MXwwfHx8MTc3NjM0MjYwM3ww&ixlib=rb-4.1.0&q=80&w=1080?w=1200&q=80"
-tags: ["ciberataques", "Rusia", "infraestructura crítica", "seguridad digital", "Europa"]
+tags: ["ciberseguridad", "gobierno", "defensa"]
 ---
 
 Suecia acaba de sonar la alarma sobre algo que debería preocuparnos a todos: hackers respaldados por el gobierno ruso están intentando llevar a cabo ataques cibernéticos destructivos contra infraestructura crítica en Europa. No es un rumor. No es especulación. El ministro sueco de defensa civil lo confirmó públicamente, y eso significa que la situación es más seria de lo que muchos creemos.
