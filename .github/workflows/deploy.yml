@@ -38,4 +38,15 @@ jobs:
         run: npm run build
 
       - name: Deploy to Firebase
-        run: npx firebase-tools deploy --only hosting --token "${{ secrets.FIREBASE_TOKEN }}" --project latendenciausa --non-interactive
+        run: |
+          set +e
+          OUTPUT=$(npx firebase-tools deploy --only hosting --token "${{ secrets.FIREBASE_TOKEN }}" --project latendenciausa --non-interactive 2>&1)
+          EXIT_CODE=$?
+          echo "$OUTPUT"
+          if [ $EXIT_CODE -ne 0 ]; then
+            if echo "$OUTPUT" | grep -q "is the current active version"; then
+              echo "::notice::dist/ es idéntico al contenido ya publicado — nada que desplegar, no es un error."
+              exit 0
+            fi
+            exit $EXIT_CODE
+          fi
